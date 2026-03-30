@@ -3,11 +3,10 @@
   - ทุก GRAPH ใน unitrules ที่ <WHERE>Barracks</WHERE>
   - รวม ENTRY ชื่อ GRAPH+V ถ้ามีใน help (หมายเหตุหน่วย/อัปเกรดบรรทัดเดียวกัน)
 
-แหล่งข้อความอังกฤษ: help.xml.bak_buildings (หรือ help.xml ถ้าไม่มี bak)
-แปลด้วย barracks_units_translate เป็น Unicode ไทยโดยตรง
+เทคนิคเดียวกับ <BUILDINGS>: thai_google_help_pipeline.process_string_inner
+(แปล Google + compensate_thai_runs_wordwise + strip_topmost_above_if_double_in_text)
 
-ไม่รัน compensate/strip แบบเมนูอาคาร: ฟังก์ชันนั้นออกแบบให้ใช้กับข้อความจาก Google ที่ต้องจัดตำแหน่งวรรณยุกต์ซ้ำ;
-บน output ของ translate_english_unit_string จะทำให้ข้อความเพี้ยน
+แหล่งข้อความอังกฤษ: help.xml.bak_buildings (หรือ help.xml ถ้าไม่มี bak)
 
 รัน: python apply_barracks_units_help_thai.py
 """
@@ -17,7 +16,7 @@ import re
 import shutil
 from pathlib import Path
 
-from barracks_units_translate import translate_english_unit_string
+from thai_google_help_pipeline import clear_translate_cache, process_string_inner
 
 DIR = Path(__file__).resolve().parent
 DATA = DIR.parent
@@ -69,6 +68,7 @@ def replace_string_inner(units_xml: str, name: str, new_inner: str) -> str:
 
 
 def main() -> None:
+    clear_translate_cache()
     src_en = HELP_BAK if HELP_BAK.exists() else HELP
     full = HELP.read_text(encoding="utf-8")
     m = re.search(r"(<UNITS>)(.*?)(</UNITS>)", full, re.DOTALL)
@@ -89,11 +89,10 @@ def main() -> None:
         if en_inner is None:
             print("skip (no STRING):", g)
             continue
-        en_stripped = en_inner.strip()
-        if not en_stripped:
+        if not en_inner.strip():
             print("skip (empty):", g)
             continue
-        th = translate_english_unit_string(en_stripped)
+        th = process_string_inner(en_inner)
         units_xml = replace_string_inner(units_xml, g, th)
 
     new_full = full[: m.start()] + m.group(1) + units_xml + m.group(3) + full[m.end() :]

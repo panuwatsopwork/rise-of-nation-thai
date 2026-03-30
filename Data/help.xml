@@ -4134,29 +4134,34 @@ Click to observe a game through a Direct Internet connection. You will need to k
          </STRING>
 		</ENTRY>
 		<ENTRY name="SLINGERS">
-			<STRING><BULLET/>
+			<STRING>
+				<BULLET/>
             
-         {Light Infantry}, ยุคโบราณ #ICON45 - เคลื่อนที่เร็ว ราคาถูก และระยะยิงสั้น
+         {Light Infantry} ุยคโบราณ #ICON45 - รวดเ็รว ราคาูถก และระยะัสน
          
-            <!--Slingers--></STRING>
+            <!--Slingers-->
+			</STRING>
 		</ENTRY>
 		<ENTRY name="SLINGERSV">
 			<STRING/>
 		</ENTRY>
 		<ENTRY name="JAVELINEERS">
-			<STRING><BULLET/>
+			<STRING>
+				<BULLET/>
             
-         {Light Infantry}, ยุคคลาสสิก #ICON28 - เคลื่อนที่เร็ว ราคาถูก และระยะยิงสั้น
+         {Light Infantry} ุยคคลาสิสก #ICON28 - รวดเ็รว ราคาูถก และระยะัสน
          
-            <!--Javelineers--></STRING>
+            <!--Javelineers-->
+			</STRING>
 		</ENTRY>
 		<ENTRY name="PELTASTS">
-			<STRING><BULLET/>
+			<STRING>
+				<BULLET/>
             
 
 
 
-         {Light Infantry}, ยุคกลาง #ICON29 - fast,  cheap, and short-ranged.
+         {Light Infantry} ุยคกลาง #ICON29 - รวดเ็รว ราคาูถก และระยะัสน
 
 
 
@@ -4164,15 +4169,17 @@ Click to observe a game through a Direct Internet connection. You will need to k
 
 
          
-            <!--Elite Javelineers--></STRING>
+            <!--Elite Javelineers-->
+			</STRING>
 		</ENTRY>
 		<ENTRY name="ATLATL">
-			<STRING><BULLET/>
+			<STRING>
+				<BULLET/>
             
 
 
 
-         เฉพาะแอซเท็ก {Light Infantry}, ยุคโบราณ #ICON45 - เคลื่อนที่เร็ว ราคาถูก และระยะยิงสั้น; ว่องไวและทนทานกว่าทหารหน้าไม้
+         Aztec Unique {Light Infantry} ุยคโบราณ #ICON45 - รวดเ็รว ราคาูถก และระยะัสน เ็รวและแรงก่วาสิลงเกอ์รส
 
 
 
@@ -4180,182 +4187,206 @@ Click to observe a game through a Direct Internet connection. You will need to k
 
 
          
-            <!--Atl-Atl--></STRING>
+            <!--Atl-Atl-->
+			</STRING>
 		</ENTRY>
 		<ENTRY name="ATLATLELITE">
-			<STRING><BULLET/>
+			<STRING>
+				<BULLET/>
             
 
 
 
-         เฉพาะแอซเท็ก {Light Infantry}, ยุคคลาสสิก #ICON28 - เคลื่อนที่เร็ว ราคาถูก และระยะยิงสั้น; ว่องไวและทนทานกว่าทหารขวานทอง
+         Aztec Unique {Light Infantry} ุยคคลาสิสก #ICON28 - รวดเ็รว ราคาูถก และระยะัสน รวดเ็รวและแ็ขงแก่รงก่วา Javelineers
 
 
 
 
 
          
-            <!--Royal Atl-Atl--></STRING>
+            <!--Royal Atl-Atl-->
+			</STRING>
 		</ENTRY>
 		<ENTRY name="XOPILLIATLATL">
-			<STRING><BULLET/>
+			<STRING>
+				<BULLET/>
             
 
 
 
-         เฉพาะแอซเท็ก {Light Infantry}, ยุคกลาง #ICON29 - เคลื่อนที่เร็ว ราคาถูก และระยะยิงสั้น; ว่องไวและทนทานกว่าทหารขวานทองระดับสูง
+         แอซเ็ทก ีมเอกัลกษณ {Light Infantry} ุยคกลาง #ICON29 - รวดเ็รว ราคาูถก และระยะัสน รวดเ็รวและแ็ขงแก่รงก่วา Elite Javelineers
 
 
 
 
 
          
-            <!--Xopilli Atl-Atl--></STRING>
+            <!--Xopilli Atl-Atl-->
+			</STRING>
 		</ENTRY>
 		<ENTRY name="BAMOBSLINGERS">
-			<STRING><BULLET/>
+			<STRING>
+				<BULLET/>
             
 
 
 
-         เฉพาะมายา {Light Infantry}, ยุคโบราณ #ICON45 - เคลื่อนที่เร็ว ราคาถูก และระยะยิงสั้น Extremely effective against
-enemy light infantry.
+         มายา ีมเอกัลกษณ {Light Infantry} ุยคโบราณ #ICON45 - รวดเ็รว ราคาูถก และระยะัสน ีมฤทิ์ธ่ตอตานอ่ยางมาก
+ทหารราบเบาของัศตูร
 
 
 
 
 
          
-            <!--Balamob Slingers--></STRING>
+            <!--Balamob Slingers-->
+			</STRING>
 		</ENTRY>
 		<ENTRY name="BAMOBSLINGERSELITE">
-			<STRING><BULLET/>
+			<STRING>
+				<BULLET/>
             
 
 
 
-         เฉพาะมายา {Light Infantry}, ยุคคลาสสิก #ICON28 - เคลื่อนที่เร็ว ราคาถูก และระยะยิงสั้น Extremely effective
-against enemy light infantry.
+         Maya Unique {Light Infantry} ุยคคลาสิสก #ICON28 - รวดเ็รว ราคาูถก และระยะัสน ีมประิสทธภาพอ่ยางิยง
+่ตอตานทหารราบเบาของัศตูร
 
 
 
 
 
          
-            <!--Royal Balamob Slingers--></STRING>
+            <!--Royal Balamob Slingers-->
+			</STRING>
 		</ENTRY>
 		<ENTRY name="EAGLEBALSLINGERS">
-			<STRING><BULLET/>
+			<STRING>
+				<BULLET/>
             
 
 
 
-         เฉพาะมายา {Light Infantry}, ยุคกลาง #ICON29 - เคลื่อนที่เร็ว ราคาถูก และระยะยิงสั้น Extremely effective
-against enemy light infantry.
+         Maya Unique {Light Infantry} ุยคกลาง #ICON29 - รวดเ็รว ราคาูถก และระยะัสน ีมประิสทธภาพอ่ยางิยง
+่ตอตานทหารราบเบาของัศตูร
 
 
 
 
 
          
-            <!--Eagle Balamob Slingers--></STRING>
+            <!--Eagle Balamob Slingers-->
+			</STRING>
 		</ENTRY>
 		<ENTRY name="INTICLUBMEN">
-			<STRING><BULLET/>
+			<STRING>
+				<BULLET/>
             
 
 
 
-         เฉพาะอินคา {Light Infantry}, ยุคคลาสสิก #ICON28 - ทหารประชิดราคาถูก เคลื่อนที่เร็ว ได้เปรียบทหารม้าศัตรู
+         ิอนคาีทีมเอกัลกษณ {Light Infantry} ุยคคลาสิสก #ICON28 - กองกำัลงระยะประิชดีทรวดเ็รวและราคาูถก ีมผลักบกองทหาร้มาของัศตูร
 
 
 
 
 
          
-            <!--Inti Clubmen--></STRING>
+            <!--Inti Clubmen-->
+			</STRING>
 		</ENTRY>
 		<ENTRY name="INTIMACEMEN">
-			<STRING><BULLET/>
+			<STRING>
+				<BULLET/>
             
 
 
 
-         เฉพาะอินคา {Light Infantry}, ยุคกลาง #ICON29 - ทหารประชิดราคาถูก เคลื่อนที่เร็ว ได้เปรียบทหารม้าศัตรู
+         ิอนคาีทีมเอกัลกษณ {Light Infantry} ุยคุยคกลาง #ICON29 - กองกำัลงระยะประิชดีทรวดเ็รวและราคาูถก ีมผลักบกองทหาร้มาของัศตูร
 
 
 
 
 
          
-            <!--Inti Macemen--></STRING>
+            <!--Inti Macemen-->
+			</STRING>
 		</ENTRY>
 		<ENTRY name="UMPAKATI">
-			<STRING><BULLET/>
+			<STRING>
+				<BULLET/>
             
 
 
 
-         เฉพาะบันตู {Light Infantry}, ยุคโบราณ #ICON45 - เคลื่อนที่เร็ว ราคาถูก และระยะยิงสั้น; แรงกว่าทหารหน้าไม้เล็กน้อย; สร้างเร็วขึ้น
+         Bantu Unique {Light Infantry} ุยคโบราณ #ICON45 - รวดเ็รว ราคาูถก และระยะัสน แ็ขงแก่รงก่วาสิลงเกอ์รสเลก้นอย ส้รางไ้ดเ็รวึขน
 
 
 
 
 
          
-            <!--Umpakati--></STRING>
+            <!--Umpakati-->
+			</STRING>
 		</ENTRY>
 		<ENTRY name="YANGOMBIUMPAKATI">
-			<STRING><BULLET/>
+			<STRING>
+				<BULLET/>
             
 
 
 
-         เฉพาะบันตู {Light Infantry}, ยุคคลาสสิก #ICON28 - เคลื่อนที่เร็ว ราคาถูก และระยะยิงสั้น; แรงกว่าทหารขวานทองเล็กน้อย; สร้างเร็วขึ้น
+         Bantu Unique {Light Infantry} ุยคคลาสิสก #ICON28 - รวดเ็รว ราคาูถก และระยะัสน แ็ขงแก่รงก่วา Javelineers เ็ลก้นอย ส้รางไ้ดเ็รวึขน
 
 
 
 
 
          
-            <!--Yangombi Umpakati--></STRING>
+            <!--Yangombi Umpakati-->
+			</STRING>
 		</ENTRY>
 		<ENTRY name="IMPI">
-			<STRING><BULLET/>
+			<STRING>
+				<BULLET/>
             
 
 
 
-         เฉพาะบันตู {Light Infantry}, ยุคกลาง #ICON29 - เคลื่อนที่เร็ว ราคาถูก และระยะยิงสั้น; แรงกว่าทหารขวานทองระดับสูงเล็กน้อย; สร้างเร็วขึ้น
+         Bantu Unique {Light Infantry} ุยคกลาง #ICON29 - รวดเ็รว ราคาูถก และระยะัสน แ็ขงแก่รงก่วา Elite Javelineers เ็ลก้นอย ส้รางไ้ดเ็รวึขน
 
 
 
 
 
          
-            <!--Impi--></STRING>
+            <!--Impi-->
+			</STRING>
 		</ENTRY>
 		<ENTRY name="FIRELANCES">
-			<STRING><BULLET/>
+			<STRING>
+				<BULLET/>
             
 
 
 
-         เฉพาะจีน {Gunpowder Infantry}, ยุคกลาง #ICON29 - หน่วยดินปืนเร็วที่สุด; ได้เปรียบทหารราบหนัก
+         เอกัลกษณเฉพาะของีจน {Gunpowder Infantry} ุยคุยคกลาง #ICON29 - ห่นวยิดนปนีทเ่กาแ่กีทุสด ีมผลักบทหารราบหันก
 
 
 
 
          
-            <!--Fire Lances--></STRING>
+            <!--Fire Lances-->
+			</STRING>
 		</ENTRY>
 		<ENTRY name="HOPLITE">
-			<STRING><BULLET/>
+			<STRING>
+				<BULLET/>
             
 
 
 
-         {Heavy Infantry}, ยุคโบราณ #ICON45 - ทหารประชิดที่แข็งแกร่งแต่เคลื่อนที่ช้า
+         {Heavy Infantry} ุยคโบราณ #ICON45 - ห่นวยโจมีตประิชดีททรงพัลงและ้ชา
 
 
 
@@ -4363,15 +4394,17 @@ against enemy light infantry.
 
 
          
-            <!--Hoplites--></STRING>
+            <!--Hoplites-->
+			</STRING>
 		</ENTRY>
 		<ENTRY name="PHALANX">
-			<STRING><BULLET/>
+			<STRING>
+				<BULLET/>
             
 
 
 
-         {Heavy Infantry}, ยุคคลาสสิก #ICON28 - ทหารประชิดที่แข็งแกร่งแต่เคลื่อนที่ช้า
+         {Heavy Infantry}, ุยคคลาสิสก #ICON28 - ูยินตีททรงพัลง ้ชา และโจมีตใก้ล
 
 
 
@@ -4379,15 +4412,17 @@ against enemy light infantry.
 
 
          
-            <!--Phalanx--></STRING>
+            <!--Phalanx-->
+			</STRING>
 		</ENTRY>
 		<ENTRY name="PIKEMEN">
-			<STRING><BULLET/>
+			<STRING>
+				<BULLET/>
             
 
 
 
-         {Heavy Infantry}, ยุคกลาง #ICON29 - ทหารประชิดที่แข็งแกร่งแต่เคลื่อนที่ช้า
+         {Heavy Infantry}, ุยคกลาง #ICON29 - ห่นวยโจมีตระยะประิชดีททรงพัลง, ้ชา,
 
 
 
@@ -4395,15 +4430,17 @@ against enemy light infantry.
 
 
          
-            <!--Pikemen--></STRING>
+            <!--Pikemen-->
+			</STRING>
 		</ENTRY>
 		<ENTRY name="PIKEMENELITE">
-			<STRING><BULLET/>
+			<STRING>
+				<BULLET/>
             
 
 
 
-         {Heavy Infantry}, ยุคดินปืน #ICON30 - ทหารประชิดที่แข็งแกร่งแต่เคลื่อนที่ช้า
+         {Heavy Infantry} อาุยิดนปน #ICON30 - ูยินตโจมีตระยะประิชดีททรงพัลง ้ชา
 
 
 
@@ -4411,30 +4448,34 @@ against enemy light infantry.
 
 
          
-            <!--Elite Pikemen--></STRING>
+            <!--Elite Pikemen-->
+			</STRING>
 		</ENTRY>
 		<ENTRY name="FUSILIER">
-			<STRING><BULLET/>
+			<STRING>
+				<BULLET/>
             
 
 
 
-         {Heavy Infantry}, ยุคแห่งแสงสว่าง #ICON31 - ทหารดินปืนระยะสั้นที่แข็งแกร่งแต่เคลื่อนที่ช้า; เหมาะป้องกันประชิด
+         {Heavy Infantry} ุยคแหงการตัรสูร #ICON31 - ห่นวยิดนปนระยะัสนีททรงพัลงและ้ชาึ่ซงมประโยช์นสำหัรบการ้ปองักนระยะใก้ล
 
 
 
 
 
          
-            <!--Fusiliers--></STRING>
+            <!--Fusiliers-->
+			</STRING>
 		</ENTRY>
 		<ENTRY name="ANTITANKRIFLE">
-			<STRING><BULLET/>
+			<STRING>
+				<BULLET/>
             
 
 
 
-         {Heavy Infantry}, ยุคอุตสาหกรรม #ICON32 - เคลื่อนที่ช้า แต่โจมตีทะลุเกราะระยะใกล้ได้รุนแรง
+         {Heavy Infantry} ุยคุอตสาหกรรม #ICON32 - ้ชาลง้ดวยการโจมีตเจาะเกราะัอนทรงพัลงในระยะัสน
 
 
 
@@ -4442,15 +4483,17 @@ against enemy light infantry.
 
 
          
-            <!--Anti-Tank Rifles--></STRING>
+            <!--Anti-Tank Rifles-->
+			</STRING>
 		</ENTRY>
 		<ENTRY name="BAZOOKA">
-			<STRING><BULLET/>
+			<STRING>
+				<BULLET/>
             
 
 
 
-         {Heavy Infantry}, ยุคสมัยใหม่ #ICON33 - เคลื่อนที่ช้า แต่โจมตีทะลุเกราะระยะใกล้ได้รุนแรงมาก
+         {Heavy Infantry} ุยคสัมยใหม #ICON33 - ้ชาดวยการโจมีตเจาะเกราะีททรงพัลงอยางิยงในระยะัสน
 
 
 
@@ -4458,15 +4501,17 @@ against enemy light infantry.
 
 
          
-            <!--Bazookas--></STRING>
+            <!--Bazookas-->
+			</STRING>
 		</ENTRY>
 		<ENTRY name="TOW">
-			<STRING><BULLET/>
+			<STRING>
+				<BULLET/>
             
 
 
 
-         {Heavy Infantry}, ยุคสารสนเทศ #ICON34 - เคลื่อนที่ช้า แต่โจมตีทะลุเกราะระยะไกลได้แม่นและรุนแรง
+         {Heavy Infantry} ุยคขอูมล่ขาวสาร #ICON34 - ้ชาดวยการโจมีตเจาะเกราะระยะไกลีททรงพัลงและแ่มนยำ
 
 
 
@@ -4474,16 +4519,18 @@ against enemy light infantry.
 
 
          
-            <!--Anti-Tank Missiles--></STRING>
+            <!--Anti-Tank Missiles-->
+			</STRING>
 		</ENTRY>
 		<ENTRY name="LEGION">
-			<STRING><BULLET/>
+			<STRING>
+				<BULLET/>
             
 
 
 
-         เฉพาะโรมัน {Heavy Infantry}, ยุคคลาสสิก #ICON28 - ทหารประชิดที่แข็งแกร่งแต่เคลื่อนที่ช้า Extremely effective against enemy
-Heavy Infantry.
+         Roman Unique {Heavy Infantry} ุยคคลาสิสก #ICON28 - ูยินตระยะประิชดีททรงพัลง ้ชา และ ีมผลอยางมาก่ตอศตูร
+ทหารราบหันก.
 
 
 
@@ -4491,185 +4538,216 @@ Heavy Infantry.
 
 
          
-            <!--Legions--></STRING>
+            <!--Legions-->
+			</STRING>
 		</ENTRY>
 		<ENTRY name="LEGIONELITE">
-			<STRING><BULLET/>
+			<STRING>
+				<BULLET/>
             
 
 
 
-         เฉพาะโรมัน {Heavy Infantry}, ยุคกลาง #ICON29 - ทหารประชิดที่แข็งแกร่งแต่เคลื่อนที่ช้า Extremely effective against enemy
-Heavy Infantry.
+         โรัมนมเอกัลกษณ {Heavy Infantry} ุยคุยคกลาง #ICON29 - ูยินตระยะประิชดีททรงพัลง ้ชา และ ีมผลอยางมาก่ตอศตูร
+ทหารราบหันก.
 
 
 
 
 
          
-            <!--Caesar's Legions--></STRING>
+            <!--Caesar's Legions-->
+			</STRING>
 		</ENTRY>
 		<ENTRY name="PIKELEGION">
-			<STRING><BULLET/>
+			<STRING>
+				<BULLET/>
             
 
 
 
-         เฉพาะโรมัน {Heavy Infantry}, ยุคดินปืน #ICON30 - ทหารประชิดที่แข็งแกร่งแต่เคลื่อนที่ช้า Extremely effective against enemy
-Heavy Infantry.
+         Roman Unique {Heavy Infantry} ุยคิดนืปน #ICON30 - ูยินตระยะประิชดีททรงพัลง ้ชา และ ีมผลอยางมาก่ตอศตูร
+ทหารราบหันก.
 
 
 
 
 
          
-            <!--Praetorian Guards--></STRING>
+            <!--Praetorian Guards-->
+			</STRING>
 		</ENTRY>
 		<ENTRY name="SCUTARI">
-			<STRING><BULLET/>
+			<STRING>
+				<BULLET/>
             
 
 
 
-         เฉพาะสเปน {Heavy Infantry}, ยุคคลาสสิก #ICON28 - ทหารประชิดที่แข็งแกร่งแต่เคลื่อนที่ช้า; ได้เปรียบทหารม้าอย่างมาก
+         ภาษาสเปน ีมเอกัลกษณ {Heavy Infantry} ุยคคลาสิสก #ICON28 - ูยินตระยะประิชดีททรงพัลง ้ชา และ; ีมประิสทธภาพอ่ยางมากในการ่ตอตานกองทหาร้มา
 
          
-            <!--Scutari--></STRING>
+            <!--Scutari-->
+			</STRING>
 		</ENTRY>
 		<ENTRY name="SCUTARIELITE">
-			<STRING><BULLET/>
+			<STRING>
+				<BULLET/>
             
 
 
 
-         เฉพาะสเปน {Heavy Infantry}, ยุคกลาง #ICON29 - ทหารประชิดที่แข็งแกร่งแต่เคลื่อนที่ช้า; ได้เปรียบทหารม้าอย่างมาก
+         สเปน ีมเอกัลกษณ {Heavy Infantry} ุยคุยคกลาง #ICON29 - ห่นวยโจมีตระยะประิชดีททรงพัลง ้ชา; ีมประิสทธภาพอ่ยางมากในการ่ตอตานกองทหาร้มา
 
          
-            <!--Royal Scutari--></STRING>
+            <!--Royal Scutari-->
+			</STRING>
 		</ENTRY>
 		<ENTRY name="SWORDSMEN">
-			<STRING><BULLET/>
+			<STRING>
+				<BULLET/>
             
 
 
 
-         เฉพาะสเปน {Heavy Infantry}, ยุคดินปืน #ICON30 - ทหารดินปืนระยะสั้นที่แข็งแกร่งแต่เคลื่อนที่ช้า; ได้เปรียบทหารม้าอย่างมาก
+         ภาษาสเปน ีมเอกัลกษณ {Heavy Infantry} อาุยของิดนืปน #ICON30 - ห่นวยิดนปนีท้ชา ทรงพัลง และระยะัสน; ีมประิสทธภาพอ่ยางมากในการ่ตอตานกองทหาร้มา
 
          
-            <!--Tercios--></STRING>
+            <!--Tercios-->
+			</STRING>
 		</ENTRY>
 		<ENTRY name="SWORDSMENELITE">
-			<STRING><BULLET/>
+			<STRING>
+				<BULLET/>
             
 
 
 
-         เฉพาะสเปน {Heavy Infantry}, ยุคแห่งแสงสว่าง #ICON31 - ทหารดินปืนระยะสั้นที่แข็งแกร่งแต่เคลื่อนที่ช้า; ได้เปรียบทหารม้าอย่างมาก
+         สเปน ีมเอกัลกษณ {Heavy Infantry} ุยคตรสูร #ICON31 - ห่นวยิดนปนีท้ชา ทรงพัลง และระยะัสน; ีมประิสทธภาพอ่ยางมากในการ่ตอตานกองทหาร้มา
 
          
-            <!--Royal Tercios--></STRING>
+            <!--Royal Tercios-->
+			</STRING>
 		</ENTRY>
 		<ENTRY name="SOLDURI">
-			<STRING><BULLET/>
+			<STRING>
+				<BULLET/>
             
 
 
 
-         เฉพาะเยอรมัน {Heavy Infantry}, ยุคโบราณ #ICON45 - ทหารประชิดที่แข็งแกร่งแต่เคลื่อนที่ช้า; ทนทานและสร้างเร็วกว่าฮอพไลต์ทั่วไป
+         เอกัลกษณเยอรัมน {Heavy Infantry} ุยคโบราณ #ICON45 - ูยินตประิชดีททรงพัลงและ้ชา; แ็ขงแก่รงและเ็รวกวาในการส้รางมากก่วา Hoplite ัทวไป
 
          
-            <!--Solduri--></STRING>
+            <!--Solduri-->
+			</STRING>
 		</ENTRY>
 		<ENTRY name="BARBARIAN">
-			<STRING><BULLET/>
+			<STRING>
+				<BULLET/>
             
 
 
 
-         เฉพาะเยอรมัน {Heavy Infantry}, ยุคคลาสสิก #ICON28 - ทหารประชิดที่แข็งแกร่งแต่เคลื่อนที่ช้า; ทนทานและสร้างเร็วกว่าแถวทหารทั่วไป
+         เอกัลกษณเยอรัมน {Heavy Infantry} ุยคคลาสิสก #ICON28 - ห่นวยโจมีตประิชดีททรงพัลงและ้ชา; แ็ขงแก่รงและเ็รวกวาในการส้รางมากก่วากุลม Phalanx ปกิต
 
          
-            <!--Barbarians--></STRING>
+            <!--Barbarians-->
+			</STRING>
 		</ENTRY>
 		<ENTRY name="BARBARIANVANDALS">
-			<STRING><BULLET/>
+			<STRING>
+				<BULLET/>
             
 
 
 
-         เฉพาะเยอรมัน {Heavy Infantry}, ยุคกลาง #ICON29 - ทหารประชิดที่แข็งแกร่งแต่เคลื่อนที่ช้า; ทนทานและสร้างเร็วกว่าทหารหอกทั่วไป
+         เอกัลกษณเฉพาะของเยอรัมน {Heavy Infantry} ุยคุยคกลาง #ICON29 - ห่นวยโจมีตประิชดีททรงพัลงและ้ชา แ็ขงแก่รงและเ็รวกวาในการส้รางมากก่วา Pikemen ัทวไป
 
          
-            <!--Vandals--></STRING>
+            <!--Vandals-->
+			</STRING>
 		</ENTRY>
 		<ENTRY name="BARBARIANLANDS">
-			<STRING><BULLET/>
+			<STRING>
+				<BULLET/>
             
 
 
 
-         เฉพาะเยอรมัน {Heavy Infantry}, ยุคดินปืน #ICON30 - ทหารประชิดที่แข็งแกร่งแต่เคลื่อนที่ช้า; ทนทานและสร้างเร็วกว่าทหารหอกระดับสูงทั่วไป
+         เอกัลกษณเยอรัมน {Heavy Infantry} อาุยิดนปน #ICON30 - ูยินตประิชดีททรงพัลงและ้ชา; แ็ขงแก่รงก่วาและเ็รวกวาในการส้ราง Elite Pikemen ัทวไป
 
          
-            <!--Landsknechts--></STRING>
+            <!--Landsknechts-->
+			</STRING>
 		</ENTRY>
 		<ENTRY name="ASHIGARU">
-			<STRING><BULLET/>
+			<STRING>
+				<BULLET/>
             
 
 
 
-         เฉพาะญี่ปุ่น {Heavy Infantry}, ยุคโบราณ #ICON45 - ทหารประชิดที่แข็งแกร่งแต่เคลื่อนที่ช้า; แข็งแกร่งและทนทานกว่าฮอพไลต์ทั่วไป
+         เอกัลกษ์ณของี่ญุปน {Heavy Infantry} ุยคโบราณ #ICON45 - ห่นวยโจมีตประิชดีททรงพัลงและ้ชา; แ็ขงแก่รงและแ็ขงแก่รงก่วาฮอปไล์ทัทวไป
 
 
          
-            <!--Ashigaru Spearmen--></STRING>
+            <!--Ashigaru Spearmen-->
+			</STRING>
 		</ENTRY>
 		<ENTRY name="BUSHI">
-			<STRING><BULLET/>
+			<STRING>
+				<BULLET/>
             
 
 
 
-         เฉพาะญี่ปุ่น {Heavy Infantry}, ยุคคลาสสิก #ICON28 - ทหารประชิดที่แข็งแกร่งแต่เคลื่อนที่ช้า; แข็งแกร่งและทนทานกว่าแถวทหารทั่วไป
+         เอกัลกษ์ณของี่ญุปน {Heavy Infantry} ุยคคลาสิสก #ICON28 - ห่นวยโจมีตประิชดีททรงพัลงและ้ชา; แ็ขงแก่รงและแ็ขงแก่รงก่วากุลม Phalanx ปกิต
 
 
 
          
-            <!--Bushi--></STRING>
+            <!--Bushi-->
+			</STRING>
 		</ENTRY>
 		<ENTRY name="BUSHIELITE">
-			<STRING><BULLET/>
+			<STRING>
+				<BULLET/>
             
 
 
 
-         เฉพาะญี่ปุ่น {Heavy Infantry}, ยุคกลาง #ICON29 - ทหารประชิดที่แข็งแกร่งแต่เคลื่อนที่ช้า; แข็งแกร่งและทนทานกว่าทหารหอกทั่วไป
+         เอกัลกษ์ณของี่ญุปน {Heavy Infantry} ุยคุยคกลาง #ICON29 - ห่นวยโจมีตประิชดีททรงพัลงและ้ชา แ็ขงแก่รงและแ็ขงแก่รงก่วา Pikemen ัทวไป
 
          
-            <!--Elite Bushi--></STRING>
+            <!--Elite Bushi-->
+			</STRING>
 		</ENTRY>
 		<ENTRY name="SAMURAI">
-			<STRING><BULLET/>
+			<STRING>
+				<BULLET/>
             
 
 
 
-         เฉพาะญี่ปุ่น {Heavy Infantry}, ยุคดินปืน #ICON30 - ทหารประชิดที่แข็งแกร่งแต่เคลื่อนที่ช้า; แข็งแกร่งและทนทานกว่าทหารหอกระดับสูงทั่วไป
+         เอกัลกษ์ณของี่ญุปน {Heavy Infantry} ุยคิดนืปน #ICON30 - ูยินตประิชดีททรงพัลงและ้ชา; แ็ขงแก่รงและแ็ขงแก่รงก่วา Elite Pikemen ัทวไป
 
          
-            <!--Samurai--></STRING>
+            <!--Samurai-->
+			</STRING>
 		</ENTRY>
 		<ENTRY name="GUNSAMURAI">
-			<STRING><BULLET/>
+			<STRING>
+				<BULLET/>
             
 
 
 
-         เฉพาะญี่ปุ่น {Heavy Infantry}, ยุคแห่งแสงสว่าง #ICON31 - ทหารดินปืนระยะสั้นที่แข็งแกร่งแต่เคลื่อนที่ช้า; แข็งแกร่งและทนทานกว่าฟิวซิลเยอร์ทั่วไป
+         เอกัลกษ์ณของี่ญุปน {Heavy Infantry} ุยคตรสูร #ICON31 - ห่นวยิดนปนระยะัสนีท้ชาและทรงพัลง แ็ขงแก่รงและแ็ขงแก่รงก่วา Fusiliers ัทวไป
 
          
-            <!--Gun Samurai--></STRING>
+            <!--Gun Samurai-->
+			</STRING>
 		</ENTRY>
 		<ENTRY name="GENERAL">
 			<STRING>
@@ -4887,159 +4965,182 @@ Heavy Infantry.
          </STRING>
 		</ENTRY>
 		<ENTRY name="BOWMEN">
-			<STRING><BULLET/>
+			<STRING>
+				<BULLET/>
             
 
 
 
-         {Foot Archers}, ยุคโบราณ #ICON45 - ทหารราบระยะกลาง เกราะบาง
+         {Foot Archers} ุยคโบราณ #ICON45 - ทหารราบเิดนเทาระยะกลางีทีมเกราะ้นอย
 
 
 
 
 
          
-            <!--Bowmen--></STRING>
+            <!--Bowmen-->
+			</STRING>
 		</ENTRY>
 		<ENTRY name="ARCHERS">
-			<STRING><BULLET/>
+			<STRING>
+				<BULLET/>
             
 
 
 
-         {Foot Archers}, ยุคคลาสสิก #ICON28 - ทหารราบระยะกลาง เกราะบาง
+         {Foot Archers}, ุยคคลาสิสก #ICON28 - ทหารราบเิดนเทาระยะกลางีทีมเกราะ้นอย
 
 
 
 
 
          
-            <!--Archers--></STRING>
+            <!--Archers-->
+			</STRING>
 		</ENTRY>
 		<ENTRY name="CROSSBOWMEN">
-			<STRING><BULLET/>
+			<STRING>
+				<BULLET/>
             
 
 
 
-         {Foot Archers}, ยุคกลาง #ICON29 and ยุคดินปืน #ICON30 - ทหารราบระยะกลาง เกราะบาง
+         {Foot Archers}, ุยคกลาง #ICON29 และุยคิดนืปน #ICON30 - ทหารราบเิดนเทาระยะกลางีทีมเกราะ้นอย
 
 
 
 
 
          
-            <!--Crossbowmen--></STRING>
+            <!--Crossbowmen-->
+			</STRING>
 		</ENTRY>
 		<ENTRY name="HEAVYARCHERS">
-			<STRING><BULLET/>
+			<STRING>
+				<BULLET/>
             
 
 
 
-         {Foot Archers}, ยุคกลาง #ICON29 and ยุคดินปืน #ICON30 - ทหารราบระยะกลาง เกราะบาง
+         {Foot Archers}, ุยคกลาง #ICON29 และุยคิดนืปน #ICON30 - ทหารราบเิดนเทาระยะกลางีทีมเกราะ้นอย
 
 
 
 
 
          
-            <!--Heavy Archers.--></STRING>
+            <!--Heavy Archers.-->
+			</STRING>
 		</ENTRY>
 		<ENTRY name="KUSHARCHERS">
-			<STRING><BULLET/>
+			<STRING>
+				<BULLET/>
             
 
 
 
-         เฉพาะนูเบีย {Foot Archers}, ยุคคลาสสิก #ICON28 - ทหารราบระยะกลาง เกราะบาง; ได้เปรียบทหารธนูศัตรูทุกประเภท
+         Nubian Unique {Foot Archers}, ุยคคลาสิสก #ICON28 - ทหารราบเิดนเทาระยะกลางีทีมเกราะ้นอย; ีมประิสทธภาพูสงในการ่ตอูสักบันกธูนศตูรัทงหมด
 
 
 
 
 
          
-            <!--Kushite Archers--></STRING>
+            <!--Kushite Archers-->
+			</STRING>
 		</ENTRY>
 		<ENTRY name="KUSHARCHERSELITE">
-			<STRING><BULLET/>
+			<STRING>
+				<BULLET/>
             
 
 
 
-         เฉพาะนูเบีย {Foot Archers}, ยุคกลาง #ICON29 - ทหารราบระยะกลาง เกราะบาง; ได้เปรียบทหารธนูศัตรูทุกประเภท
+         Nubian Unique {Foot Archers}, ุยคุยคกลาง #ICON29 - ทหารราบเิดนเทาระยะกลางีทีมเกราะ้นอย; ีมประิสทธภาพูสงในการ่ตอูสักบันกธูนศตูรัทงหมด
 
          
-            <!--Royal Kushite Archers--></STRING>
+            <!--Royal Kushite Archers-->
+			</STRING>
 		</ENTRY>
 		<ENTRY name="APEDEMAK">
-			<STRING><BULLET/>
+			<STRING>
+				<BULLET/>
             
 
 
 
-         เฉพาะนูเบีย {Foot Archers}, ยุคดินปืน #ICON30 - ทหารราบระยะกลาง เกราะบาง; ได้เปรียบทหารธนูศัตรูทุกประเภท
+         Nubian Unique {Foot Archers}, อาุยิดนปน #ICON30 - ทหารราบเิดนเทาระยะกลางีทีมเกราะ้นอย; ีมประิสทธภาพูสงในการ่ตอูสักบันกธูนศตูรัทงหมด
 
          
-            <!--Apedemak Kushite Archers--></STRING>
+            <!--Apedemak Kushite Archers-->
+			</STRING>
 		</ENTRY>
 		<ENTRY name="LONGBOWMEN">
-			<STRING><BULLET/>
+			<STRING>
+				<BULLET/>
             
 
 
 
-         เฉพาะอังกฤษ {Foot Archers}, ยุคคลาสสิก #ICON28 - ทหารราบระยะกลาง เกราะบาง; ดีกว่าทหารธนูทั่วไปเกือบทุกด้าน
+         British Unique {Foot Archers}, ุยคคลาสิสก #ICON28 - ทหารราบเิดนเทาระยะกลางีทีมเกราะ้นอย; เหืนอกวาันกธูนัทวๆ ไปเืกอบุทก้ดาน
 
          
-            <!--Longbowmen--></STRING>
+            <!--Longbowmen-->
+			</STRING>
 		</ENTRY>
 		<ENTRY name="LONGBOWMENELITE">
-			<STRING><BULLET/>
+			<STRING>
+				<BULLET/>
             
 
 
 
-         เฉพาะอังกฤษ {Foot Archers}, ยุคกลาง #ICON29 - ทหารราบระยะกลาง เกราะบาง; ดีกว่าหน้าไม้ทั่วไปเกือบทุกด้าน
+         British Unique {Foot Archers}, ุยคกลาง #ICON29 - ทหารราบเิดนเทาระยะกลางีทีมเกราะ้นอย; เหืนอกวาห้นาไ้มัทวไปเืกอบุทก้ดาน
 
 
 
 
 
          
-            <!--King's Longbowmen--></STRING>
+            <!--King's Longbowmen-->
+			</STRING>
 		</ENTRY>
 		<ENTRY name="KINGSYEOMANRY">
-			<STRING><BULLET/>
+			<STRING>
+				<BULLET/>
             
 
-         เฉพาะอังกฤษ {Foot Archers}, ยุคดินปืน #ICON30 - ทหารราบระยะไกล เกราะบาง; แข็งแกร่งและถูกกว่าทหารอาร์คิบัสทั่วไป
+         British Unique {Foot Archers}, ุยคิดนืปน #ICON30 - ทหารราบเิดนเทาระยะไกลีทีมเกราะ้นอย; แ็ขงแก่รงและราคาูถกกวา Arquebusiers
 
          
-            <!--King's Yeomanry--></STRING>
+            <!--King's Yeomanry-->
+			</STRING>
 		</ENTRY>
 		<ENTRY name="HWARANG">
-			<STRING><BULLET/>
+			<STRING>
+				<BULLET/>
             
 
 
 
-         เฉพาะเกาหลี {Foot Archers}, ยุคโบราณ #ICON45 - ทหารราบระยะกลาง เกราะบาง; แข็งแกร่งและทนทานกว่าทหารธนูทั่วไป
+         เอกัลกษณของเกาหีล {Foot Archers} ุยคโบราณ #ICON45 - ทหารราบเิดนเทาระยะกลางีทีมเกราะ้นอย แ็ขงแก่รงและแ็ขงแก่รงก่วาันกธูนัทวไป
 
 
 
 
 
          
-            <!--Hwarang--></STRING>
+            <!--Hwarang-->
+			</STRING>
 		</ENTRY>
 		<ENTRY name="HWARANGELITE">
-			<STRING><BULLET/>
+			<STRING>
+				<BULLET/>
             
 
 
 
-         เฉพาะเกาหลี {Foot Archers}, ยุคคลาสสิก #ICON28 - ทหารราบระยะกลาง เกราะบาง; แข็งแกร่งและทนทานกว่าทหารธนูทั่วไป
+         เอกัลกษณเกาหีล {Foot Archers} ุยคคลาสิสก #ICON28 - ทหารราบเิดนเทาระยะกลางีทีมเกราะ้นอย แ็ขงแก่รงและแ็ขงแก่รงก่วาันกธูนัทวไป
 
 
 
@@ -5047,37 +5148,42 @@ Heavy Infantry.
 
 
          
-            <!--Elite Hwarang--></STRING>
+            <!--Elite Hwarang-->
+			</STRING>
 		</ENTRY>
 		<ENTRY name="KORYOHWARANG">
-			<STRING><BULLET/>
+			<STRING>
+				<BULLET/>
             
 
 
 
-         เฉพาะเกาหลี {Foot Archers}, ยุคกลาง #ICON29 - ทหารราบระยะกลาง เกราะบาง; แข็งแกร่งและทนทานกว่าหน้าไม้ทั่วไป
+         เอกัลกษณเกาหีล {Foot Archers} ุยคุยคกลาง #ICON29 - ทหารราบเิดนเทาระยะกลางีทีมเกราะ้นอย แ็ขงแก่รงและแ็ขงแก่รงก่วา Crossbowmen ัทวไป
 
 
 
 
 
          
-            <!--Royal Hwarang--></STRING>
+            <!--Royal Hwarang-->
+			</STRING>
 		</ENTRY>
 		<ENTRY name="CHOSONHWARANG">
-			<STRING><BULLET/>
+			<STRING>
+				<BULLET/>
             
 
 
 
-         เฉพาะเกาหลี {Foot Archers}, ยุคดินปืน #ICON30 - ทหารราบระยะไกล เกราะบาง; แข็งแกร่งและทนทานกว่าหน่วยธนูทุกแบบ
+         เอกัลกษณของเกาหีล {Foot Archers} ุยคิดนืปน #ICON30 - ทหารราบเิดนเทาระยะไกลีทีมเกราะ้นอย; แ็ขงแก่รงและแ็ขงแก่รงก่วาห่นวยตดอาุวธธูนัทงหมด
 
 
 
 
 
          
-            <!--Elite Royal Hwarang--></STRING>
+            <!--Elite Royal Hwarang-->
+			</STRING>
 		</ENTRY>
 		<ENTRY name="MILITIA">
 			<STRING>
@@ -6031,27 +6137,30 @@ ordinary Heavy Cavalry.
 			</STRING>
 		</ENTRY>
 		<ENTRY name="ARQUEBUSIERS">
-			<STRING><BULLET/>
+			<STRING>
+				<BULLET/>
             
 
 
 
-         {Gunpowder Infantry}, ยุคดินปืน #ICON30 - ยิงรุนแรงเมื่อรวมกลุ่ม แต่ยิงช้าพอสมควร
+         {Gunpowder Infantry}, ุยคิดนืปน #ICON30 - ทรงพัลงในปิรมาณแ่ต่คอนขางิยง้ชา
 
 
 
 
 
          
-            <!--Arquebusiers--></STRING>
+            <!--Arquebusiers-->
+			</STRING>
 		</ENTRY>
 		<ENTRY name="MUSKETEERS">
-			<STRING><BULLET/>
+			<STRING>
+				<BULLET/>
             
 
 
 
-         {Gunpowder Infantry}, ยุคแห่งแสงสว่าง #ICON31 - ยิงรุนแรงเมื่อรวมกลุ่ม แต่ยิงช้าพอสมควร
+         {Gunpowder Infantry} ุยคตรสูร #ICON31 - ีมพลงในปิรมาณมากแ่ตออกฤทิ์ธชา
 
 
 
@@ -6059,61 +6168,69 @@ ordinary Heavy Cavalry.
 
 
          
-            <!--Musketeers--></STRING>
+            <!--Musketeers-->
+			</STRING>
 		</ENTRY>
 		<ENTRY name="RIFLEMEN">
-			<STRING><BULLET/>
+			<STRING>
+				<BULLET/>
             
 
 
 
-         {Gunpowder Infantry}, ยุคอุตสาหกรรม #ICON32 - ทหารราบแม่นและแรง
+         {Gunpowder Infantry} ุยคุอตสาหกรรม #ICON32 - กองกำัลงเิดนเทาีททรงพัลงและแ่มนยำ
 
 
 
 
 
          
-            <!--Riflemen--></STRING>
+            <!--Riflemen-->
+			</STRING>
 		</ENTRY>
 		<ENTRY name="INFANTRY">
-			<STRING><BULLET/>
+			<STRING>
+				<BULLET/>
             
 
 
 
-         {Modern Infantry}, ยุคสมัยใหม่ #ICON33 - ทหารราบยิงถี่ แรง และแม่นแม้ระยะไกล
+         {Modern Infantry} ุยคสัมยใหม #ICON33 - รวดเ็รว ทรงพัลง ิยงไดรวดเ็รว กองทหารเ้ทาแ่มนยำแ้มในระยะไกล
 
 
 
 
 
          
-            <!--Infantry--></STRING>
+            <!--Infantry-->
+			</STRING>
 		</ENTRY>
 		<ENTRY name="ASSAULTINFANTRY">
-			<STRING><BULLET/>
+			<STRING>
+				<BULLET/>
             
 
 
 
-         {Modern Infantry}, ยุคสารสนเทศ #ICON34 - ทหารราบยิงถี่ แรง และเคลื่อนที่เร็ว
+         {Modern Infantry} ุยคขอูมล่ขาวสาร #ICON34 - กองทหารราบี่ทเรว ทรงพัลง และิยงวองไว
 
 
 
 
 
          
-            <!--Assault Infantry--></STRING>
+            <!--Assault Infantry-->
+			</STRING>
 		</ENTRY>
 		<ENTRY name="FLAMETHROWER">
-			<STRING><BULLET/>
+			<STRING>
+				<BULLET/>
             
 
 
 
-         {Flamethrowers}, ยุคอุตสาหกรรม #ICON32. Slow-moving and short-ranged; highly effective against
-buildings and entrenchments.
+         {Flamethrowers} ุยคุอตสาหกรรม #ICON32 เคืลอนไหว้ชาและระยะัสน ีมประิสทธผลูสงในการ่ตอตาน
+อาคารและสนามเพลาะ
 
 
 
@@ -6123,41 +6240,58 @@ buildings and entrenchments.
          
             <!--Flamethrower-->
 				<BULLET/>
-            อาคารที่ถูกพ่นไฟจะขับหน่วยในป้อมออกทันที
+            อาคารีทูถกโจมีตโดยเคื่รองพนไฟจะัขบหนวยทหารัรกษาการณใดๆ ออกไปัทนท
         
             <BULLET/>
-            หน่วยในค่ายสังเคราะห์ที่ถูกพ่นไฟจะถูกบังคับออกจากค่าย</STRING>
+            ูยินตีทอูยในสนามเพลาะึซงูถกโจมีตโดยเคื่รองพนไฟจะูถกับงัคบใหออกจากสนามเพลาะ
+        
+         </STRING>
 		</ENTRY>
 		<ENTRY name="SCOUT">
-			<STRING><BULLET/>
+			<STRING>
+				<BULLET/>
             
 
 
 
-         {Scouts}, ยุคโบราณ #ICON45 - เร็วแต่ไม่มีอาวุธ; เหมาะสำรวจแผนที่และค้นหาศัตรู
+         {Scouts} ุยคโบราณ #ICON45 - รวดเ็รว แ่ตไมีมอาุวธ; เหมาะสำหัรบการสำรวจแผนีทและ้คนหาัศตูร
          
             <BULLET/>
-            มองเห็นหน่วยซ่อนเร้น เช่น สายลับและคอมมานโด
+            สามารถมองเ็หนูยินตัศตูรีท่ซอนอูย เ่ชน สายัลบ และคอมมานโด
 
          
             <BULLET/>
-            ทำลายสายลับศัตรูได้</STRING>
+            ัยงสามารถทำลายสายัลบของศตูรไ้ดีอก้ดวย
+
+
+
+
+      
+         </STRING>
 		</ENTRY>
 		<ENTRY name="SCOUTV">
-			<STRING><BULLET/>
+			<STRING>
+				<BULLET/>
             
 
 
 
-         หน่วยสอดแนมราคาถูกและใช้แลกได้; they are เหมาะสำรวจแผนที่และดูตำแหน่งศัตรู</STRING>
+         ูลกเสอีมราคาูถกและิ้สนเปลอง เหมาะสำหัรบการสำรวจแผนีทและสอดแนมตำแห่นงของัศตูร
+
+
+
+
+      
+         </STRING>
 		</ENTRY>
 		<ENTRY name="EXPLORER">
-			<STRING><BULLET/>
+			<STRING>
+				<BULLET/>
             
 
 
 
-         {Scouts}, ยุคกลาง #ICON29 - เร็วแต่ไม่มีอาวุธ
+         {Scouts} ุยคกลาง #ICON29 - รวดเ็รว แ่ตไมีมอาุวธ
 
 
 
@@ -6168,32 +6302,44 @@ buildings and entrenchments.
 
 
 
-         ใช้ {Counterintelligence} เพื่อทำลายสายลับและลบผู้ให้ข่าว
+         ใ้ช {Counterintelligence} เืพอทำลายสายัลบของศตูรและลบ Informers
 
          
             <BULLET/>
-            เมื่อนักสำรวจไม่เคลื่อนที่ ศัตรูส่วนใหญ่มักมองไม่เห็น
+            เืมอันกสำรวจไ่มเคืลอนไหว โดยปกิตศตูร่สวนให่ญจะไ่มสามารถมองเ็หนพวกัมนได
 
 
          
             <BULLET/>
-            มองเห็นหน่วยซ่อนเร้น เช่น สายลับและคอมมานโด</STRING>
+            สามารถมองเ็หนูยินตัศตูรีท่ซอนอูย เ่ชน สายัลบ และคอมมานโด
+
+
+      
+         </STRING>
 		</ENTRY>
 		<ENTRY name="EXPLORERV">
-			<STRING><BULLET/>
+			<STRING>
+				<BULLET/>
             
 
 
 
-         นักสำรวจราคาถูกและใช้แลกได้; they are เหมาะสำรวจแผนที่และดูตำแหน่งศัตรู</STRING>
+         ันกสำรวจีมราคาูถกและิ้สนเปลอง เหมาะสำหัรบการสำรวจแผนีทและสอดแนมตำแห่นงของัศตูร
+
+
+
+
+      
+         </STRING>
 		</ENTRY>
 		<ENTRY name="COMMANDO">
-			<STRING><BULLET/>
+			<STRING>
+				<BULLET/>
             
 
 
 
-         {Scouts}, ยุคอุตสาหกรรม #ICON32 - หน่วยสอดแนมเฉพาะทางที่มีความสามารถหลากหลาย
+         {Scouts} ุยคุอตสาหกรรม #ICON32 - ูลกเสอเฉพาะทางีทีมความสามารถิพเศษมากมาย
 
 
 
@@ -6201,7 +6347,7 @@ buildings and entrenchments.
          
             <BULLET/>
             
-ใช้ความสามารถ {Sniper} เพื่อทำลายหน่วยศัตรู
+ใ้ชความสามารถ {Sniper} เืพอทำลายห่นวยศตูร
 
          
             <BULLET/>
@@ -6209,12 +6355,12 @@ buildings and entrenchments.
 
 
 
-         ใช้ {Counterintelligence} เพื่อทำลายสายลับและลบผู้ให้ข่าว
+         ใ้ช {Counterintelligence} เืพอทำลายสายัลบของศตูรและลบ Informers
 
 
          
             <BULLET/>
-            มองเห็นหน่วยซ่อนเร้น เช่น สายลับและคอมมานโด
+            สามารถมองเ็หนูยินตัศตูรีท่ซอนอูย เ่ชน สายัลบ และคอมมานโด
 
 
          
@@ -6223,53 +6369,36 @@ buildings and entrenchments.
 
 
 
-         เมื่อคอมมานโดไม่เคลื่อนที่หรือโจมตี ศัตรูส่วนใหญ่มักมองไม่เห็น
+         เื่มอหนวยคอมมานโดไ่มเคืลอนไหวหืรอโจมีต โดยปกิตห่นวยศตูร่สวนให่ญจะไ่มสามารถมองเ็หนพวกัมนได
 
 
 
 
 
          
-            <!--Commando--></STRING>
+            <!--Commando-->
+			</STRING>
 		</ENTRY>
 		<ENTRY name="SPECIALFORCES">
-			<STRING><BULLET/>
+			<STRING>
+				<BULLET/>
             
 
 
 
-         {Scouts}, ยุคสมัยใหม่ #ICON33 - หน่วยสอดแนมเฉพาะทางที่มีความสามารถหลากหลาย
+         {Scouts} ุยคสัมยใหม #ICON33 - ูลกเสอเฉพาะทางีทีมความสามารถิพเศษมากมาย
 
 
 
          
             <BULLET/>
             
-ใช้ความสามารถ {Sniper} เพื่อทำลายหน่วยศัตรู
+ใ้ชความสามารถ {Sniper} เืพอทำลายห่นวยศตูร
 
          
             <BULLET/>
             
-ใช้ความสามารถ {Sabotage} เพื่อทำลายอาคารศัตรู
-
-         
-            <BULLET/>
-            
-
-
-
-         ใช้ {Counterintelligence} เพื่อทำลายสายลับและลบผู้ให้ข่าว
-
-
-         
-            <BULLET/>
-            มองเห็นหน่วยซ่อนเร้น เช่น สายลับและคอมมานโด
-
-
-         
-            <BULLET/>
-            ปืนต่อสู้เครื่องบินในระยะถูกรบกวนโดยอัตโนมัติ
-
+ใ้ชความสามารถ {Sabotage} เื่พอสรางความเีสยหายใ้หักบิสง่กอส้รางของัศตูร
 
          
             <BULLET/>
@@ -6277,22 +6406,43 @@ buildings and entrenchments.
 
 
 
-         เมื่อหน่วยซีลไม่เคลื่อนที่หรือโจมตี ศัตรูส่วนใหญ่มักมองไม่เห็น
+         ใ้ชความสามารถ {Counterintelligence} เืพอทำลายสายัลบของศตูรและกำัจด Informers
+
+
+         
+            <BULLET/>
+            สามารถมองเ็หนูยินตัศตูรีท่ซอนอูย เ่ชน สายัลบ และคอมมานโด
+
+
+         
+            <BULLET/>
+            ตำแห่นง่ตอตานอากาศยานัทงหมดจะิตดขดโดยัอตโนัมิตภายในระยะของกองกำัลงิพเศษ
+
+
+         
+            <BULLET/>
+            
+
+
+
+         เื่มอหนวยกองกำัลงิพเศษไ่มเคืลอนีทหืรอโจมีต โดยปกิตห่นวยศตูร่สวนให่ญจะไ่มสามารถมองเ็หนได
 
 
 
 
 
          
-            <!--Special Forces--></STRING>
+            <!--Special Forces-->
+			</STRING>
 		</ENTRY>
 		<ENTRY name="ELITESPECIAL">
-			<STRING><BULLET/>
+			<STRING>
+				<BULLET/>
             
 
 
 
-         {Scouts}, ยุคสารสนเทศ #ICON34 - หน่วยสอดแนมเฉพาะทางที่มีความสามารถหลากหลาย
+         {Scouts} ุยคสารสนเทศ #ICON34 - ูลกเสอเฉพาะทางีทีมความสามารถิพเศษมากมาย
 
 
 
@@ -6300,31 +6450,12 @@ buildings and entrenchments.
          
             <BULLET/>
             
-ใช้ความสามารถ {Sniper} เพื่อทำลายหน่วยศัตรู
+ใ้ชความสามารถ {Sniper} เืพอทำลายห่นวยศตูร
 
          
             <BULLET/>
             
-ใช้ความสามารถ {Sabotage} เพื่อทำลายอาคารศัตรู
-
-         
-            <BULLET/>
-            
-
-
-
-         ใช้ {Counterintelligence} เพื่อทำลายสายลับและลบผู้ให้ข่าว
-
-
-         
-            <BULLET/>
-            มองเห็นหน่วยซ่อนเร้น เช่น สายลับและคอมมานโด
-
-
-         
-            <BULLET/>
-            ปืนต่อสู้เครื่องบินในระยะถูกรบกวนโดยอัตโนมัติ
-
+ใ้ชความสามารถ {Sabotage} เื่พอสรางความเีสยหายใ้หักบิสง่กอส้รางของัศตูร
 
          
             <BULLET/>
@@ -6332,14 +6463,34 @@ buildings and entrenchments.
 
 
 
-         เมื่อหน่วยซีลไม่เคลื่อนที่หรือโจมตี ศัตรูส่วนใหญ่มักมองไม่เห็น
+         ใ้ชความสามารถ {Counterintelligence} เืพอทำลายสายัลบของศตูรและกำัจด Informers
+
+
+         
+            <BULLET/>
+            สามารถมองเ็หนูยินตัศตูรีท่ซอนอูย เ่ชน สายัลบ และคอมมานโด
+
+
+         
+            <BULLET/>
+            ตำแห่นง่ตอตานอากาศยานัทงหมดจะิตดขดโดยัอตโนัมิตภายในระยะของกองกำัลงิพเศษัชนยอด
+
+
+         
+            <BULLET/>
+            
+
+
+
+         เื่มอหนวย Elite Special Forces ไ่มเคืลอนีทหืรอโจมีต โดยปกิตห่นวยศตูร่สวนให่ญจะไ่มสามารถมองเ็หนได
 
 
 
 
 
          
-            <!--Elite Special Forces--></STRING>
+            <!--Elite Special Forces-->
+			</STRING>
 		</ENTRY>
 		<ENTRY name="LIGHTTANK">
 			<STRING>
@@ -7344,180 +7495,204 @@ bombing enemy coastal positions.
 			</STRING>
 		</ENTRY>
 		<ENTRY name="JANISSARY">
-			<STRING><BULLET/>
+			<STRING>
+				<BULLET/>
             
 
 
 
-         เฉพาะตุรกี {Gunpowder Infantry}, ยุคดินปืน #ICON30 - แข็งแกร่งและว่องไวกว่าทหารดินปืนทั่วไป
+         เอกัลกษ์ณของตรีก {Gunpowder Infantry} ุยคิดนืปน #ICON30 - แ็ขงแก่รงและเ็รวกวาทหารราบิดนืปนธรรมดา
 
 
 
 
 
          
-            <!--Janissaries--></STRING>
+            <!--Janissaries-->
+			</STRING>
 		</ENTRY>
 		<ENTRY name="JANISSARYROYAL">
-			<STRING><BULLET/>
+			<STRING>
+				<BULLET/>
             
 
 
 
-         เฉพาะตุรกี {Gunpowder Infantry}, ยุคแห่งแสงสว่าง #ICON31 - แข็งแกร่งและว่องไวกว่าทหารดินปืนทั่วไป
+         เอกัลกษ์ณของตรีก {Gunpowder Infantry} ุยคตรสูร #ICON31 - แ็ขงแก่รงและเ็รวกวาทหารราบิดนืปนธรรมดา
 
 
 
 
 
          
-            <!--Royal Janissaries--></STRING>
+            <!--Royal Janissaries-->
+			</STRING>
 		</ENTRY>
 		<ENTRY name="HIGHLANDER">
-			<STRING><BULLET/>
+			<STRING>
+				<BULLET/>
             
 
 
 
-         เฉพาะอังกฤษ {Gunpowder Infantry}, ยุคแห่งแสงสว่าง #ICON31 - ได้เปรียบทหารราบศัตรูทุกแบบ
+         เอกัลกษ์ณขององกฤษ {Gunpowder Infantry} ุยคตรสูร #ICON31 - ีมผลโดยเฉพาะักบทหารราบัศตูรุทกูรปแบบ
 
 
 
 
 
          
-            <!--Highlanders--></STRING>
+            <!--Highlanders-->
+			</STRING>
 		</ENTRY>
 		<ENTRY name="HIGHLANDERELITE">
-			<STRING><BULLET/>
+			<STRING>
+				<BULLET/>
             
 
 
 
-         เฉพาะอังกฤษ {Gunpowder Infantry}, ยุคอุตสาหกรรม #ICON32 - ได้เปรียบทหารราบศัตรูทุกแบบ
+         เอกัลกษ์ณขององกฤษ {Gunpowder Infantry} ุยคุอตสาหกรรม #ICON32 - ีมผลโดยเฉพาะักบทหารราบัศตูรุทกูรปแบบ
 
 
 
 
 
          
-            <!--Black Watch--></STRING>
+            <!--Black Watch-->
+			</STRING>
 		</ENTRY>
 		<ENTRY name="FIRELANCEHEAVY">
-			<STRING><BULLET/>
+			<STRING>
+				<BULLET/>
             
 
 
 
-         เฉพาะจีน {Gunpowder Infantry}, ยุคดินปืน #ICON30 - อาวุธดินปืนระยะไกล; ยิงไกลกว่าทหารดินปืนทั่วไป
+         เอกัลกษ์ณของจน {Gunpowder Infantry} ุยคิดนืปน #ICON30 - อาุวธิดนปนุยคแรกีทีมระยะการิยงูสง ีมระยะการิยงีทีดก่วาทหารราบิดนืปนัทวไป
 
 
 
 
 
          
-            <!--Heavy Fire Lances--></STRING>
+            <!--Heavy Fire Lances-->
+			</STRING>
 		</ENTRY>
 		<ENTRY name="MANCHUMUSKETEERS">
-			<STRING><BULLET/>
+			<STRING>
+				<BULLET/>
             
 
 
 
-         เฉพาะจีน {Gunpowder Infantry}, ยุคแห่งแสงสว่าง #ICON31 - ยิงรุนแรงเมื่อรวมกลุ่มแต่ยิงช้าพอสมควร; ราคาถูกและสร้างเร็ว
+         เอกัลกษ์ณจน {Gunpowder Infantry} ุยคตรสูร #ICON31 - ีมพลงมากแ่ตออกฤทิ์ธชา ราคาูถกและรวดเ็รวในการส้ราง
 
 
 
 
 
          
-            <!--Manchu Musketeers--></STRING>
+            <!--Manchu Musketeers-->
+			</STRING>
 		</ENTRY>
 		<ENTRY name="MANCHURIFLEMEN">
-			<STRING><BULLET/>
+			<STRING>
+				<BULLET/>
             
 
 
 
-         เฉพาะจีน {Gunpowder Infantry}, ยุคอุตสาหกรรม #ICON32 - ทหารราบแม่นและแรง; ราคาถูกและสร้างเร็ว
+         เอกัลกษณเฉพาะของีจน {Gunpowder Infantry} ุยคุอตสาหกรรม #ICON32 - กองทหารราบีททรงพัลงและแ่มนยำ ราคาูถกและรวดเ็รวในการส้ราง
 
 
 
 
 
          
-            <!--Manchu Riflemen--></STRING>
+            <!--Manchu Riflemen-->
+			</STRING>
 		</ENTRY>
 		<ENTRY name="MANCHUINFANTRY">
-			<STRING><BULLET/>
+			<STRING>
+				<BULLET/>
             
 
 
 
-         เฉพาะจีน {Modern Infantry}, ยุคสมัยใหม่ #ICON33 - ปืนเล็กยิงถี่ พลังทำลายสูง; ราคาถูกและสร้างเร็ว
+         เอกัลกษณเฉพาะของีจน {Modern Infantry} ุยคสัมยใหม #ICON33 - ิยงเรว อาุวธขนาดเ็ลกีทีมพัลงการิยงีดเียยม ราคาูถกและรวดเ็รวในการส้ราง
 
 
 
 
 
          
-            <!--Manchu Infantry--></STRING>
+            <!--Manchu Infantry-->
+			</STRING>
 		</ENTRY>
 		<ENTRY name="JAGINFANTRY">
-			<STRING><BULLET/>
+			<STRING>
+				<BULLET/>
             
 
 
 
-         เฉพาะแอซเท็ก {Modern Infantry}, ยุคสมัยใหม่ #ICON33 - เร็วและโจมตีแรงกว่าทหารสมัยใหม่ทั่วไป
+         Aztec Unique {Modern Infantry} ุยคสัมยใหม #ICON33 - เ็รวกวาและการโจมีตีทแ็ขงแก่รงก่วาทหารราบสัมยให่มัทวไป
 
 
 
 
 
          
-            <!--Jaguar Infantry--></STRING>
+            <!--Jaguar Infantry-->
+			</STRING>
 		</ENTRY>
 		<ENTRY name="JAGUARASSAULTINF">
-			<STRING><BULLET/>
+			<STRING>
+				<BULLET/>
             
 
 
 
-         เฉพาะแอซเท็ก {Modern Infantry}, ยุคสารสนเทศ #ICON34 - เร็วและโจมตีแรงกว่าทหารสมัยใหม่ทั่วไป
+         Aztec Unique {Modern Infantry} ุยคสารสนเทศ #ICON34 - เ็รวกวาและการโจมีตีทแ็ขงแก่รงก่วาทหารราบสัมยให่มัทวไป
 
 
 
 
 
          
-            <!--Jaguar Assault Infantry--></STRING>
+            <!--Jaguar Assault Infantry-->
+			</STRING>
 		</ENTRY>
 		<ENTRY name="RECOILGUN">
-			<STRING><BULLET/>
+			<STRING>
+				<BULLET/>
             
 
 
 
-         เฉพาะมายา {Heavy Infantry}, ยุคสมัยใหม่ #ICON33 - ได้เปรียบยานพาหนะทุกประเภท
+         Maya Unique {Heavy Infantry} ุยคสัมยใหม #ICON33 - ีมประิสทธภาพเ็ปนิพเศษักบยานพาหนะุทกประเภท
 
 
 
          
-            <!--Recoilless Gun--></STRING>
+            <!--Recoilless Gun-->
+			</STRING>
 		</ENTRY>
 		<ENTRY name="DRAGON">
-			<STRING><BULLET/>
+			<STRING>
+				<BULLET/>
             
 
 
 
-         เฉพาะมายา {Heavy Infantry}, ยุคสารสนเทศ #ICON34 - ได้เปรียบยานพาหนะทุกประเภท
+         Maya Unique {Heavy Infantry} ุยคขอูมล่ขาวสาร #ICON34 - ีมผลโดยเฉพาะักบยานพาหนะุทกประเภท
 
 
 
          
-            <!--Dragon AT Missile--></STRING>
+            <!--Dragon AT Missile-->
+			</STRING>
 		</ENTRY>
 		<ENTRY name="TANKDESTROYER">
 			<STRING>
@@ -7550,56 +7725,64 @@ bombing enemy coastal positions.
 			</STRING>
 		</ENTRY>
 		<ENTRY name="MACHINEGUN">
-			<STRING><BULLET/>
+			<STRING>
+				<BULLET/>
             
 
 
 
-         {Machine Guns}, ยุคอุตสาหกรรม #ICON32 - เคลื่อนที่ช้า; ทำลายทหารราบศัตรูได้รุนแรง
+         {Machine Guns}, ุยคุอตสาหกรรม #ICON32 - เคืลอนไหว้ชาๆ; ทำลาย้ลางกองกำัลงเิดนเทาของัศตูร
 
 
 
          
-            <!--Machine Gun--></STRING>
+            <!--Machine Gun-->
+			</STRING>
 		</ENTRY>
 		<ENTRY name="HVYMACHINEGUN">
-			<STRING><BULLET/>
+			<STRING>
+				<BULLET/>
             
 
 
 
-         {Machine Guns}, ยุคสมัยใหม่ #ICON33 - เคลื่อนที่ช้า; ทำลายทหารราบศัตรูได้รุนแรง
+         {Machine Guns}, ุยคสัมยใหม #ICON33 - เคืลอนไหว้ชาๆ; ทำลาย้ลางกองกำัลงเิดนเทาของัศตูร
 
 
 
          
-            <!--Heavy Machine Gun--></STRING>
+            <!--Heavy Machine Gun-->
+			</STRING>
 		</ENTRY>
 		<ENTRY name="ADVMACHINEGUN">
-			<STRING><BULLET/>
+			<STRING>
+				<BULLET/>
             
 
 
 
-         {Machine Guns}, ยุคสารสนเทศ #ICON34 - เคลื่อนที่ช้า; ทำลายทหารราบศัตรูได้รุนแรง
+         {Machine Guns}, ุยคสารสนเทศ #ICON34 - เคืลอนไหว้ชาๆ; ทำลาย้ลางกองกำัลงเิดนเทาของัศตูร
 
 
 
          
-            <!--Advanced Machine Gun--></STRING>
+            <!--Advanced Machine Gun-->
+			</STRING>
 		</ENTRY>
 		<ENTRY name="HVYMACHINEGUNGER">
-			<STRING><BULLET/>
+			<STRING>
+				<BULLET/>
             
 
 
 
-         เฉพาะเยอรมัน {Machine Guns}, ยุคสมัยใหม่ #ICON33 - เคลื่อนที่ช้า; ทำลายทหารราบศัตรูได้รุนแรง
+         เอกัลกษณเยอรัมน {Machine Guns} ุยคสัมยใหม #ICON33 - เคืลอนไหว้ชาๆ ทำลาย้ลางกองกำัลงเิดนเทาของัศตูร
 
 
 
          
-            <!--MG42--></STRING>
+            <!--MG42-->
+			</STRING>
 		</ENTRY>
 		<ENTRY name="MORTAR">
 			<STRING>
@@ -7650,43 +7833,49 @@ foot troops.
 			</STRING>
 		</ENTRY>
 		<ENTRY name="INFANTRYGERMAN">
-			<STRING><BULLET/>
+			<STRING>
+				<BULLET/>
             
 
 
 
-         เฉพาะเยอรมัน {Modern Infantry}, ยุคสมัยใหม่ #ICON33 - ทหารราบยิงถี่ แรง และเคลื่อนที่เร็ว; ทนทานและเร็วกว่าทหารราบทั่วไปเล็กน้อย
+         เอกัลกษณเฉพาะของเยอรัมน {Modern Infantry} ุยคสัมยใหม #ICON33 - กองทหารราบี่ทเรว ทรงพัลง และิยงวองไว; แ็ขงแก่รงก่วาและเ็รวกวาทหารราบัทวไปเ็ลก้นอย
 
 
 
          
-            <!--Volksgrenadiers--></STRING>
+            <!--Volksgrenadiers-->
+			</STRING>
 		</ENTRY>
 		<ENTRY name="REDGUARD">
-			<STRING><BULLET/>
+			<STRING>
+				<BULLET/>
             
 
 
 
-         เฉพาะรัสเซีย {Modern Infantry}, ยุคสมัยใหม่ #ICON33 - ทหารราบยิงถี่ แรง และเคลื่อนที่เร็ว; ถูกกว่าทหารราบทั่วไปเล็กน้อย
+         เอกัลกษ์ณของัรสเซย {Modern Infantry} ุยคสัมยใหม #ICON33 - กองทหารราบี่ทเรว ทรงพัลง และิยงวองไว; ราคาูถกกวาทหารราบัทวไปเ็ลก้นอย
 
 
 
          
-            <!--Red Guards Infantry--></STRING>
+            <!--Red Guards Infantry-->
+			</STRING>
 		</ENTRY>
 		<ENTRY name="SHOCKINFANTRY">
-			<STRING><BULLET/>
+			<STRING>
+				<BULLET/>
             
 
 
 
-         เฉพาะรัสเซีย {Modern Infantry}, ยุคสารสนเทศ #ICON34 - ทหารราบยิงถี่ แรง และเคลื่อนที่เร็ว; ถูกและแรงกว่าทหารจู่โจมทั่วไป
+         เอกัลกษณเฉพาะของัรสเซย {Modern Infantry} ุยคขอูมล่ขาวสาร #ICON34 - กองทหารราบี่ทเรว ทรงพัลง และิยงวองไว; ราคาูถกกวาและแ็ขงแก่รงก่วาทหารราบูจโจมัทวไป
 
 
 
          
-            <!--Shock Infantry--></STRING>
+            <!--Shock Infantry-->
+			</STRING>
 		</ENTRY>
 		<ENTRY name="BASILICABOMBARD">
 			<STRING>
@@ -7941,28 +8130,44 @@ foot troops.
 				<BULLET/>Has all normal General powers (armor increase, special abilities) but is immune to sniping and bribery.<BULLET/>Buildings and troops in his radius heal as long as they are not taking attrition damage.<BULLET/>Friendly units in his radius are immune to bribery and sniping.<BULLET/>All friendly units in his radius have +4 range and Line-of-Sight (except siege units).</STRING>
 		</ENTRY>
 		<ENTRY name="IMMORTAL">
-			<STRING><BULLET/>เฉพาะเปอร์เซีย {Heavy Infantry}, ยุคโบราณ #ICON45 - แข็งแกร่งแต่ช้า; อ่อนกว่าฮอพไลต์ทั่วไปเล็กน้อยแต่ยิงระยะได้<!--Immortal--></STRING>
+			<STRING>
+				<BULLET/>เปอ์รเซยีมเอกัลกษณ {Heavy Infantry} ุยคโบราณ #ICON45 - ห่นวยีททรงพัลงและ้ชา ่ออนแอก่วา Hoplite ัทวไปเ็ลก้นอย แ่ตสามารถิยงไดจากระยะไกล<!--Immortal-->
+			</STRING>
 		</ENTRY>
 		<ENTRY name="ANUSIYA">
-			<STRING><BULLET/>เฉพาะเปอร์เซีย {Heavy Infantry}, ยุคคลาสสิก #ICON28 - แข็งแกร่งแต่ช้า; อ่อนกว่าแถวทหารทั่วไปเล็กน้อยแต่ยิงระยะได้<!--Anusiya--></STRING>
+			<STRING>
+				<BULLET/>เปอ์รเซยีมเอกัลกษณ {Heavy Infantry} ุยคคลาสิสก #ICON28 - ทรงพัลง ้ชา ห่นวย ่ออนแอก่วา Phalanx ปกิตเลก้นอย แ่ตสามารถิยงไดจากระยะไกล<!--Anusiya-->
+			</STRING>
 		</ENTRY>
 		<ENTRY name="ATHANATOI">
-			<STRING><BULLET/>เฉพาะเปอร์เซีย {Heavy Infantry}, ยุคคลาสสิก #ICON29 - แข็งแกร่งแต่ช้า; อ่อนกว่าทหารหอกทั่วไปเล็กน้อยแต่ยิงระยะได้<!--Athanatoi--></STRING>
+			<STRING>
+				<BULLET/>เปอ์รเซยีมเอกัลกษณ {Heavy Infantry} ุยคคลาสิสก #ICON29 - ทรงพัลง ้ชา ห่นวย ่ออนแอก่วา Pikemen ปกิตเลก้นอย แ่ตสามารถิยงไดจากระยะไกล<!--Athanatoi-->
+			</STRING>
 		</ENTRY>
 		<ENTRY name="ARQIMMORTAL">
-			<STRING><BULLET/>เฉพาะเปอร์เซีย {Heavy Infantry}, ยุคคลาสสิก #ICON30 - แข็งแกร่งแต่ช้า; อ่อนกว่าทหารหอกระดับสูงทั่วไปเล็กน้อยแต่ยิงระยะได้<!--Arquebus Immortal--></STRING>
+			<STRING>
+				<BULLET/>เปอ์รเซยีมเอกัลกษณ {Heavy Infantry} ุยคคลาสิสก #ICON30 - ทรงพัลง ้ชา ห่นวย ่ออนแอก่วา Elite Pikemen ัทวไปเ็ลก้นอย แ่ตสามารถิยงไดจากระยะไกล<!--Arquebus Immortal-->
+			</STRING>
 		</ENTRY>
 		<ENTRY name="MARINES">
-			<STRING><BULLET/>เฉพาะอเมริกา {Gunpowder Infantry}, ยุคแห่งแสงสว่าง #ICON31 - ยิงรุนแรงเมื่อรวมกลุ่ม แต่ยิงช้าพอสมควร เรือขนส่งนาวิกโจมตีเร็วและทนทานกว่าทั่วไป และหน่วยนาวิกจะขุดสังเคราะห์อัตโนมัติหลังหยุดนิ่ง 5 วินาที<!--Marines--></STRING>
+			<STRING>
+				<BULLET/>American Unique {Gunpowder Infantry} ุยคตรสูร #ICON31 - ีมพลงในปิรมาณมากแ่ตออกฤทิ์ธ่คอนขาง้ชา การขน่สงทางทะเลจะเ็รวและุรนแรงก่วาปกิต และห่นวยนาิวกโยิธนจะเ้ขาึยดโดยัอตโนัมิตหัลงจากไ่มไ้ดใชงานเ็ปนเวลา 5 ิวนาีท<!--Marines-->
+			</STRING>
 		</ENTRY>
 		<ENTRY name="MARINERIFLEMEN">
-			<STRING><BULLET/>เฉพาะอเมริกา {Gunpowder Infantry}, ยุคอุตสาหกรรม #ICON32 - ทหารราบแม่นและแรง เรือขนส่งนาวิกโจมตีเร็วและทนทานกว่าทั่วไป และหน่วยนาวิกจะขุดสังเคราะห์อัตโนมัติหลังหยุดนิ่ง 5 วินาที<!--Marine Riflemen--></STRING>
+			<STRING>
+				<BULLET/>American Unique {Gunpowder Infantry} ุยคุอตสาหกรรม #ICON32 - กองทหารราบีททรงพัลงและแ่มนยำ การขน่สงทางทะเลจะเ็รวและุรนแรงก่วาปกิต และห่นวยนาิวกโยิธนจะเ้ขาึยดโดยัอตโนัมิตหัลงจากไ่มไ้ดใชงานเ็ปนเวลา 5 ิวนาีท<!--Marine Riflemen-->
+			</STRING>
 		</ENTRY>
 		<ENTRY name="MARINEINFANTRY">
-			<STRING><BULLET/>เฉพาะอเมริกา {Modern Infantry}, ยุคสมัยใหม่ #ICON33 - ทหารราบยิงถี่ แรง และแม่นแม้ระยะไกล เรือขนส่งนาวิกโจมตีเร็วและทนทานกว่าทั่วไป และหน่วยนาวิกจะขุดสังเคราะห์อัตโนมัติหลังหยุดนิ่ง 5 วินาที<!--Marine Infantry--></STRING>
+			<STRING>
+				<BULLET/>American Unique {Modern Infantry} ุยคสัมยใหม #ICON33 - รวดเ็รว ทรงพัลง ิยงไดรวดเ็รว กองทหารราบแ่มนยำแ้มในระยะไกล การขน่สงทางทะเลจะเ็รวและุรนแรงก่วาปกิต และห่นวยนาิวกโยิธนจะเ้ขาึยดโดยัอตโนัมิตหัลงจากไ่มไ้ดใชงานเ็ปนเวลา 5 ิวนาีท<!--Marine Infantry-->
+			</STRING>
 		</ENTRY>
 		<ENTRY name="ASSAULTMARINES">
-			<STRING><BULLET/>เฉพาะอเมริกา {Modern Infantry}, ยุคสารสนเทศ #ICON34 - ทหารราบยิงถี่ แรง และเคลื่อนที่เร็ว เรือขนส่งนาวิกโจมตีเร็วและทนทานกว่าทั่วไป และหน่วยนาวิกจะขุดสังเคราะห์อัตโนมัติหลังหยุดนิ่ง 5 วินาที<!--Assault Marines--></STRING>
+			<STRING>
+				<BULLET/>American Unique {Modern Infantry} ุยคขอูมล่ขาวสาร #ICON34 - กองทหารราบี่ทเรว ทรงพัลง และิยงวองไว การขน่สงทางทะเลจะเ็รวและุรนแรงก่วาปกิต และห่นวยนาิวกโยิธนจะเ้ขาึยดโดยัอตโนัมิตหัลงจากไ่มไ้ดใชงานเ็ปนเวลา 5 ิวนาีท<!--Assault Marines-->
+			</STRING>
 		</ENTRY>
 		<ENTRY name="BRIG">
 			<STRING>
@@ -8118,35 +8323,50 @@ Lakota Unique {Ranged Cavalry}, Medieval Age #ICON29 - fast raiders able to fire
 			</STRING>
 		</ENTRY>
 		<ENTRY name="IRQSCOUT">
-			<STRING><BULLET/>
+			<STRING>
+				<BULLET/>
             
 
 
 
-เฉพาะอิรอกัว {Scouts}, ยุคโบราณ #ICON45 - เร็วแต่ไม่มีอาวุธ; เหมาะสำรวจแผนที่และค้นหาศัตรู เร็วกว่า ทนทานกว่า และมองเห็นไกลกว่าหน่วยสอดแนมทั่วไป
+ิอโรคัววส ีมเอกัลกษณ {Scouts} ุยคโบราณ #ICON45 - รวดเ็รว แ่ตไมีมอาุวธ; เหมาะสำหัรบการสำรวจแผนีทและ้คนหาัศตูร เ็รวกวา แ็ขงแก่รงก่วา และแนวการมองเ็หนีทีดก่วาูลกเืสอัทวไป
          
             <BULLET/>
-            มองเห็นหน่วยซ่อนเร้น เช่น สายลับและคอมมานโด
+            สามารถมองเ็หนูยินตัศตูรีท่ซอนอูย เ่ชน สายัลบ และคอมมานโด
 
          
             <BULLET/>
-            ทำลายสายลับศัตรูได้</STRING>
+            ัยงสามารถทำลายสายัลบของศตูรไ้ดีอก้ดวย
+
+
+
+
+      
+         </STRING>
 		</ENTRY>
 		<ENTRY name="IRQSCOUTV">
-			<STRING><BULLET/>
+			<STRING>
+				<BULLET/>
             
 
 
 
-         Takohs are cheap and expendable; they are เหมาะสำรวจแผนที่และดูตำแหน่งศัตรู</STRING>
+         ทาโกะีมราคาูถกและพอใ้ชได เหมาะสำหัรบการสำรวจแผนีทและสอดแนมตำแห่นงของัศตูร
+
+
+
+
+      
+         </STRING>
 		</ENTRY>
 		<ENTRY name="IRQEXPLORER">
-			<STRING><BULLET/>
+			<STRING>
+				<BULLET/>
             
 
 
 
-เฉพาะอิรอกัว {Scouts}, ยุคกลาง #ICON29 - เร็วแต่ไม่มีอาวุธ เร็วกว่า ทนทานกว่า และมองเห็นไกลกว่านักสำรวจทั่วไป
+ิอโรคัววส ีมเอกัลกษณ {Scouts} ุยคกลาง #ICON29 - รวดเ็รว แ่ตไมีมอาุวธ เ็รวกวา แ็ขงแก่รงก่วา และแนวการมองเ็หนีทีดก่วาันกสำรวจัทวไป
 
 
 
@@ -8157,32 +8377,44 @@ Lakota Unique {Ranged Cavalry}, Medieval Age #ICON29 - fast raiders able to fire
 
 
 
-         ใช้ {Counterintelligence} เพื่อทำลายสายลับและลบผู้ให้ข่าว
+         ใ้ช {Counterintelligence} เืพอทำลายสายัลบของศตูรและลบ Informers
 
          
             <BULLET/>
-            เมื่ออัควเคสไม่เคลื่อนที่หรือโจมตี ศัตรูส่วนใหญ่มักมองไม่เห็น
+            เืมอ Akweks ไ่มเคืลอนีทหืรอโจมีต โดยปกิตศตูร่สวนให่ญจะไ่มสามารถมองเ็หนพวกัมนได
 
 
          
             <BULLET/>
-            มองเห็นหน่วยซ่อนเร้น เช่น สายลับและคอมมานโด</STRING>
+            สามารถมองเ็หนูยินตัศตูรีท่ซอนอูย เ่ชน สายัลบ และคอมมานโด
+
+
+      
+         </STRING>
 		</ENTRY>
 		<ENTRY name="IRQEXPLORERV">
-			<STRING><BULLET/>
+			<STRING>
+				<BULLET/>
             
 
 
 
-         Akweks are cheap and expendable; they are เหมาะสำรวจแผนที่และดูตำแหน่งศัตรู</STRING>
+         Akweks ีมราคาูถกและิ้สนเปลอง เหมาะสำหัรบการสำรวจแผนีทและสอดแนมตำแห่นงของัศตูร
+
+
+
+
+      
+         </STRING>
 		</ENTRY>
 		<ENTRY name="IRQCOMMANDO">
-			<STRING><BULLET/>
+			<STRING>
+				<BULLET/>
             
 
 
 
-เฉพาะอิรอกัว {Scouts}, ยุคแห่งแสงสว่าง #ICON31 - หน่วยสอดแนมเฉพาะทางที่มีความสามารถหลากหลาย เร็วกว่า ทนทานกว่า และมองเห็นไกลกว่าคอมมานโดทั่วไป ปลดล็อกเร็วกว่าหนึ่งยุค
+ิอโรคัววส ีมเอกัลกษณ {Scouts} ุยคตรสูร #ICON31 - ูลกเสอเฉพาะทางีทีมความสามารถิพเศษมากมาย เ็รวกวา แ็ขงแก่รงก่วา และแนวการมองเ็หนีทีดก่วาห่นวยคอมมานโดัทวไป ีมจำห่นายหึนงอาุย่กอนหนาีน
 
 
 
@@ -8190,7 +8422,7 @@ Lakota Unique {Ranged Cavalry}, Medieval Age #ICON29 - fast raiders able to fire
          
             <BULLET/>
             
-ใช้ความสามารถ {Sniper} เพื่อทำลายหน่วยศัตรู
+ใ้ชความสามารถ {Sniper} เืพอทำลายห่นวยศตูร
 
          
             <BULLET/>
@@ -8198,12 +8430,12 @@ Lakota Unique {Ranged Cavalry}, Medieval Age #ICON29 - fast raiders able to fire
 
 
 
-         ใช้ {Counterintelligence} เพื่อทำลายสายลับและลบผู้ให้ข่าว
+         ใ้ช {Counterintelligence} เืพอทำลายสายัลบของศตูรและลบ Informers
 
 
          
             <BULLET/>
-            มองเห็นหน่วยซ่อนเร้น เช่น สายลับและคอมมานโด
+            สามารถมองเ็หนูยินตัศตูรีท่ซอนอูย เ่ชน สายัลบ และคอมมานโด
 
 
          
@@ -8212,14 +8444,15 @@ Lakota Unique {Ranged Cavalry}, Medieval Age #ICON29 - fast raiders able to fire
 
 
 
-         เมื่อโอควารีไม่เคลื่อนที่หรือโจมตี ศัตรูส่วนใหญ่มักมองไม่เห็น
+         เืมอูยินต Okwari ไ่มเคืลอนีทหืรอโจมีต โดยปกิตูยินตัศตูร่สวนให่ญจะไ่มสามารถมองเ็หนพวกัมนได
 
 
 
 
 
          
-            <!--Ranger--></STRING>
+            <!--Ranger-->
+			</STRING>
 		</ENTRY>
 		<ENTRY name="MUSKETHORSE">
 			<STRING>
@@ -8241,12 +8474,13 @@ Lakota Unique {Ranged Cavalry}, Gunpowder Age #ICON30 - fast, gunpowder-armed ra
 			</STRING>
 		</ENTRY>
 		<ENTRY name="SPEARMEN">
-			<STRING><BULLET/>
+			<STRING>
+				<BULLET/>
             
 
 
 
-เฉพาะอิรอกัว {Heavy Infantry}, ยุคโบราณ #ICON45 - แข็งแกร่งแต่ช้า; ในเขตพันธมิตรจะเร็วกว่าฮอพไลต์ทั่วไป
+Iroquois Unique {Heavy Infantry} ุยคโบราณ #ICON45 - ห่นวยีททรงพัลง ้ชา เ็รวกวา Hoplite ปกิตเืมออูยในิดนแดนีทเ็ปนิมตร
 
 
 
@@ -8254,15 +8488,17 @@ Lakota Unique {Ranged Cavalry}, Gunpowder Age #ICON30 - fast, gunpowder-armed ra
 
 
          
-            <!--Spearmen--></STRING>
+            <!--Spearmen-->
+			</STRING>
 		</ENTRY>
 		<ENTRY name="MOHAWK">
-			<STRING><BULLET/>
+			<STRING>
+				<BULLET/>
             
 
 
 
-เฉพาะอิรอกัว {Heavy Infantry}, ยุคคลาสสิก #ICON28 - แข็งแกร่งแต่ช้า; ในเขตพันธมิตรจะเร็วกว่าแถวทหารทั่วไป
+Iroquois Unique {Heavy Infantry}, ุยคคลาสิสก #ICON28 - ห่นวยีททรงพัลง, ้ชา, เ็รวกวา Phalanx ปกิตเืมออูยในิดนแดนีทเ็ปนิมตร
 
 
 
@@ -8270,15 +8506,17 @@ Lakota Unique {Ranged Cavalry}, Gunpowder Age #ICON30 - fast, gunpowder-armed ra
 
 
          
-            <!--Mohawk Spearmen--></STRING>
+            <!--Mohawk Spearmen-->
+			</STRING>
 		</ENTRY>
 		<ENTRY name="HEAVYMOHAWK">
-			<STRING><BULLET/>
+			<STRING>
+				<BULLET/>
             
 
 
 
-เฉพาะอิรอกัว {Heavy Infantry}, ยุคกลาง #ICON29 - แข็งแกร่งแต่ช้า; ในเขตพันธมิตรจะเร็วกว่าทหารหอกทั่วไป
+ิอโรคัววส ีมเอกัลกษณ {Heavy Infantry} ุยคุยคกลาง #ICON29 - ห่นวยีททรงพัลง ้ชา เ็รวกวา Pikemen ปกิตขณะอูยในิดนแดนีทเ็ปนิมตร
 
 
 
@@ -8286,22 +8524,25 @@ Lakota Unique {Ranged Cavalry}, Gunpowder Age #ICON30 - fast, gunpowder-armed ra
 
 
          
-            <!--Heavy Mohawk Spearmen--></STRING>
+            <!--Heavy Mohawk Spearmen-->
+			</STRING>
 		</ENTRY>
 		<ENTRY name="ELITEMOHAWK">
-			<STRING><BULLET/>
+			<STRING>
+				<BULLET/>
             
 
 
 
-เฉพาะอิรอกัว {Heavy Infantry}, ยุคดินปืน #ICON30 - แข็งแกร่งแต่ช้า; ในเขตพันธมิตรจะเร็วกว่าทหารหอกระดับสูงทั่วไป
+Iroquois Unique {Heavy Infantry} อาุยิดนปน #ICON30 - ูยินตีททรงพัลง ้ชา เ็รวกวา Elite Pikemen ปกิตขณะอูยในิดนแดนีทเ็ปนิมตร
 
 
 
 
 
          
-            <!--Elite Mohawk Spearmen--></STRING>
+            <!--Elite Mohawk Spearmen-->
+			</STRING>
 		</ENTRY>
 		<ENTRY name="JUNKERS">
 			<STRING>
