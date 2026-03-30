@@ -1,8 +1,13 @@
 """
-แทนที่คำอธิบายหน่วยใน <UNITS> ของ help.xml เฉพาะหน่วยที่สร้างจาก Barracks
+แทนที่คำอธิบายหน่วยใน <UNITS> ของ help.xml สำหรับฐานทหาร (Barracks):
+  - ทุก GRAPH ใน unitrules ที่ <WHERE>Barracks</WHERE>
+  - รวม ENTRY ชื่อ GRAPH+V ถ้ามีใน help (หมายเหตุหน่วย/อัปเกรดบรรทัดเดียวกัน)
+
 แหล่งข้อความอังกฤษ: help.xml.bak_buildings (หรือ help.xml ถ้าไม่มี bak)
-จากนั้นแปลด้วย barracks_units_translate เท่านั้น (ไม่รัน mark compensation —
-compensate_thai_runs_wordwise ทำลายข้อความไทย Unicode ที่ถูกต้อง; เมนูอาคารใช้ fragment จูนมือแทน)
+แปลด้วย barracks_units_translate เป็น Unicode ไทยโดยตรง
+
+ไม่รัน compensate/strip แบบเมนูอาคาร: ฟังก์ชันนั้นออกแบบให้ใช้กับข้อความจาก Google ที่ต้องจัดตำแหน่งวรรณยุกต์ซ้ำ;
+บน output ของ translate_english_unit_string จะทำให้ข้อความเพี้ยน
 
 รัน: python apply_barracks_units_help_thai.py
 """
@@ -31,6 +36,16 @@ def load_barracks_graphs() -> set[str]:
     return graphs
 
 
+def load_barracks_entry_names(units_en: str) -> set[str]:
+    """GRAPH จาก Barracks + ENTRY แบบ GRAPH+V ถ้ามีใน help (เช่น SLINGERSV)"""
+    names = set(load_barracks_graphs())
+    for g in list(names):
+        gv = g + "V"
+        if extract_string_inner(units_en, gv) is not None:
+            names.add(gv)
+    return names
+
+
 def extract_string_inner(units_xml: str, name: str) -> str | None:
     m = re.search(
         rf'<ENTRY name="{re.escape(name)}">\s*<STRING>(.*?)</STRING>',
@@ -55,7 +70,6 @@ def replace_string_inner(units_xml: str, name: str, new_inner: str) -> str:
 
 def main() -> None:
     src_en = HELP_BAK if HELP_BAK.exists() else HELP
-    graphs = load_barracks_graphs()
     full = HELP.read_text(encoding="utf-8")
     m = re.search(r"(<UNITS>)(.*?)(</UNITS>)", full, re.DOTALL)
     if not m:
@@ -68,7 +82,9 @@ def main() -> None:
         raise SystemExit("No <UNITS> in English source")
     units_en = m2.group(1)
 
-    for g in sorted(graphs):
+    entry_names = load_barracks_entry_names(units_en)
+
+    for g in sorted(entry_names):
         en_inner = extract_string_inner(units_en, g)
         if en_inner is None:
             print("skip (no STRING):", g)

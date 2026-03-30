@@ -2530,7 +2530,7 @@ Click to observe a game through a Direct Internet connection. You will need to k
 
 
 
-         ส้รางอาคารเศรษฐิกจในเขตนี้ไ้ด
+         ส้รางอาคารเศรษฐิกจในเขตนีไ้ด
 
 
 
@@ -2539,7 +2539,7 @@ Click to observe a game through a Direct Internet connection. You will need to k
 
 
 
-         ใ้ช {Citizens} ่กอส้รางและรวบรวมทัรพยากร
+         ใ้ช {Citizens} ่กอสรางและรวบรวมทัรพยากร
 
          <BULLET/>ีมรายไ้ด +$NUMBER1 #ICON2 และ +$NUMBER0 #ICON1         </STRING>
 		</ENTRY>
@@ -2549,7 +2549,7 @@ Click to observe a game through a Direct Internet connection. You will need to k
 
 
 
-         หากุ่ปมส้รางเืมองเ็ปนีสเทา ุคณจะ้ตอง้คนค้วาเิ่พมเิตมี่ท้หองสุมด
+         หากุ่ปมสรางเืมองเ็ปนสเทา ุคณจะ้ตอง้คนควาเิ่พมเตมีท้หองสุมด
 
 
 
@@ -2562,7 +2562,7 @@ Click to observe a game through a Direct Internet connection. You will need to k
 
 
 
-         แ็ขงแก่รงและเปราะบาง้นอยก่วาเืมองเ็ลกๆ
+         แ็ขงแก่รงและเปราะบาง้นอยกวาเืมองเ็ลกๆ
 
 
 
@@ -2580,7 +2580,7 @@ Click to observe a game through a Direct Internet connection. You will need to k
 
 
 
-         ส้รางอาคารเศรษฐิกจในเขตนี้ไ้ด
+         ส้รางอาคารเศรษฐิกจในเขตนีไ้ด
 
 
 
@@ -2589,10 +2589,10 @@ Click to observe a game through a Direct Internet connection. You will need to k
 
 
 
-         ใ้ช {Citizens} ่กอส้รางและรวบรวมทัรพยากร
+         ใ้ช {Citizens} ่กอสรางและรวบรวมทัรพยากร
 
 
-         <BULLET/>ีมรายไ้ด +$NUMBER1 #ICON2 และ +$NUMBER0 #ICON1         <BULLET/>เิ่พมพัลงีชิวตใ้หักบอาคารุทกหัลงในัรศีมเศรษฐิกจของเืมอง</STRING>
+         <BULLET/>ีมรายไ้ด +$NUMBER1 #ICON2 และ +$NUMBER0 #ICON1         <BULLET/>เิ่พมพัลงชิวตใ้หักบอาคารุทกหัลงในัรศีมเศรษฐกจของเืมอง</STRING>
 		</ENTRY>
 		<ENTRY name="CITYBUILD">
 			<STRING>
@@ -2600,7 +2600,7 @@ Click to observe a game through a Direct Internet connection. You will need to k
 
 
 
-เืมองเ็ลกๆ ของุคณจะัอปเกรดเ็ปนเืมองให่ญโดยัอตโนัมิตเื่มอุคณส้รางอาคารี่ทแตก่ตางักนอ่ยาง้นอย้หาแ่หงในเืมองั้นนและึถงุยคคลาสิสก
+เืมองเ็ลกๆ ของุคณจะัอปเกรดเ็ปนเมองให่ญโดยัอตโนัมิตเืมอุคณส้รางอาคารีทแตก่ตางักนอ่ยาง้นอยหาแ่หงในเืมองันนและึถงุยคคลาสิสก
 
 
 
@@ -2613,7 +2613,7 @@ Click to observe a game through a Direct Internet connection. You will need to k
 
 
 
-         แ็ขงแก่รงและเปราะบาง้นอยก่วาเืมองให่ญ
+         แ็ขงแก่รงและเปราะบาง้นอยกวาเืมองให่ญ
 
 
 
@@ -2631,7 +2631,7 @@ Click to observe a game through a Direct Internet connection. You will need to k
 
 
 
-         ส้รางอาคารเศรษฐิกจในเขตนี้ไ้ด
+         ส้รางอาคารเศรษฐิกจในเขตนีไ้ด
 
 
 
@@ -2640,10 +2640,10 @@ Click to observe a game through a Direct Internet connection. You will need to k
 
 
 
-         ใ้ช {Citizens} ่กอส้รางและรวบรวมทัรพยากร
+         ใ้ช {Citizens} ่กอสรางและรวบรวมทัรพยากร
 
 
-         <BULLET/>ีมรายไ้ด +$NUMBER1 #ICON2 และ +$NUMBER0 #ICON1         <BULLET/>เิ่พมพัลงีชิวตใ้หักบอาคารุทกหัลงในัรศีมเศรษฐิกจของเืมอง</STRING>
+         <BULLET/>ีมรายไ้ด +$NUMBER1 #ICON2 และ +$NUMBER0 #ICON1         <BULLET/>เิ่พมพัลงชิวตใ้หักบอาคารุทกหัลงในัรศีมเศรษฐกจของเืมอง</STRING>
 		</ENTRY>
 		<ENTRY name="METROPOLISBUILD">
 			<STRING>
@@ -2651,7 +2651,7 @@ Click to observe a game through a Direct Internet connection. You will need to k
 
 
 
-เืมองให่ญของุคณจะัอปเกรดเ็ปนเืมองให่ญโดยัอตโนัมิตเื่มอุคณส้รางอาคารี่ทแตก่ตางักนอ่ยาง้นอยเ้กาแ่หงในเืมองั้นนและึถงุยคตัรสู้ร
+เืมองให่ญของคณจะัอปเกรดเ็ปนเมองให่ญโดยัอตโนัมิตเืมอุคณส้รางอาคารีทแตก่ตางักนอ่ยาง้นอยเกาแ่หงในเืมองันนและึถงุยคตัรสูร
 
 
 
@@ -2663,7 +2663,7 @@ Click to observe a game through a Direct Internet connection. You will need to k
 
 
 
-         พลเืมองหึ่นงคน่ตอฟา์รมสามารถรวบรวม #ICON1 {Food}
+         พลเืมองหึ่นงคนตอฟา์รมสามารถรวบรวม #ICON1 {Food}
 
 
 
@@ -2676,7 +2676,7 @@ Click to observe a game through a Direct Internet connection. You will need to k
 
 
 
-         อุนญาตใ้หีมฟา์รมไ้ดูสงุสด $NUMBER0 ่ตอเืมอง
+         อุนญาตใ้หีมฟา์รมไดูสงุสด $NUMBER0 ่ตอเมอง
 
 
 
@@ -2685,7 +2685,7 @@ Click to observe a game through a Direct Internet connection. You will need to k
 
 
 
-         #ICON1สามารถเิ่พมผลผิลตอาหารไ้ดโดยการส้ราง {Granary} ในเืมองเีดยวักน
+         #ICON1สามารถเิพมผลผิลตอาหารไ้ดโดยการส้ราง {Granary} ในเืมองเีดยวักน
 
 
 
@@ -2698,7 +2698,7 @@ Click to observe a game through a Direct Internet connection. You will need to k
 
 
 
-         ส้รางใก้ล {trees} เื่พอรวบรวม #ICON2 {Timber}
+         ส้รางใก้ล {trees} เืพอรวบรวม #ICON2 {Timber}
 
 
 
@@ -2707,7 +2707,7 @@ Click to observe a game through a Direct Internet connection. You will need to k
 
 
 
-         ิ่ยงพลเืมองทำงานใน่คายมากเ่ทาไห่ร ุคณ็กิ่ยงสะสมไ้มไ้ดเ็รวเ่ทาั้นน
+         ิ่ยงพลเมองทำงานใน่คายมากเ่ทาไห่ร ุคณ็กิยงสะสมไ้มไ้ดเ็รวเทาันน
 
 
 
@@ -2720,7 +2720,7 @@ Click to observe a game through a Direct Internet connection. You will need to k
 
 
 
-         ิ่ยงีม้ตนไ้มอู่ยใก้ลๆ มากเ่ทาใด ประชาชน็กสามารถทำงานใน่คายไ้ดมากึ้ขนเ่ทาั้นน
+         ิ่ยงีม้ตนไมอูยใก้ลๆ มากเ่ทาใด ประชาชน็กสามารถทำงานใน่คายไ้ดมากึ้ขนเทาันน
 
 
 
@@ -2742,7 +2742,7 @@ Click to observe a game through a Direct Internet connection. You will need to k
 
 
 
-         ส้รางเหืมองใก้ล {mountains} และ {cliffs} เื่พอรวบรวม #ICON5 {Metal}
+         ส้รางเหืมองใก้ล {mountains} และ {cliffs} เืพอรวบรวม #ICON5 {Metal}
 
 
 
@@ -2751,7 +2751,7 @@ Click to observe a game through a Direct Internet connection. You will need to k
 
 
 
-         ิ่ยงพลเืมองทำงานในเหืมองมากเ่ทาไห่ร ุคณ็กิ่ยงสะสมโลหะไ้ดเ็รวเ่ทาั้นน
+         ิ่ยงพลเมองทำงานในเหืมองมากเ่ทาไห่ร ุคณ็กิยงสะสมโลหะไ้ดเ็รวเทาันน
 
 
 
@@ -2767,7 +2767,7 @@ Click to observe a game through a Direct Internet connection. You will need to k
 
 
 
-ิ่ยงูภเขาหืรอห้นาผาให่ญ ประชาชน็กิ่ยงสามารถุขดเหืมองไ้ดมากึ้ขนเ่ทาั้นน
+ิยงูภเขาหืรอหนาผาให่ญ ประชาชน็กิยงสามารถุขดเหืมองไ้ดมากึ้ขนเทาันน
 
 
 
@@ -2789,7 +2789,7 @@ Click to observe a game through a Direct Internet connection. You will need to k
 
 
 
-         เิ่พมผลผิลต #ICON1 {Food} ของั้ทงหมด {Farms} ในเืมองเีดยวักนึ้ขน $NUMBER0%
+         เิพมผลผิลต #ICON1 {Food} ของัทงหมด {Farms} ในเืมองเีดยวักนึขน $NUMBER0%
 
 
 
@@ -2802,7 +2802,7 @@ Click to observe a game through a Direct Internet connection. You will need to k
 
 
 
-         เิ่พมผลผิลต #ICON2 {Timber} ของแคม์ปคนัตดไ้มั้ทงหมดในเืมองเีดยวักนึ้ขน $NUMBER0%
+         เิพมผลผิลต #ICON2 {Timber} ของแคม์ปคนัตดไ้มัทงหมดในเืมองเีดยวักนึขน $NUMBER0%
 
       </STRING>
 		</ENTRY>
@@ -2812,7 +2812,7 @@ Click to observe a game through a Direct Internet connection. You will need to k
 
 
 
-         เิ่พมผลผิลต #ICON5 {Metal} ของุ่ทนระเิบดั้ทงหมดในเืมองเีดยวักนึ้ขน $NUMBER0%
+         เิพมผลผิลต #ICON5 {Metal} ของุทนระเิบดัทงหมดในเืมองเีดยวักนึขน $NUMBER0%
 
          <!--Smelter-->
 			</STRING>
@@ -2823,7 +2823,7 @@ Click to observe a game through a Direct Internet connection. You will need to k
 
 
 
-         เิ่พมผลผิลต #ICON6 {Oil} ของ่บอ้นำัมนั้ทงหมดในประเทศของุคณีอก $NUMBER0%
+         เิพมผลผิลต #ICON6 {Oil} ของ่บอนำัมนัทงหมดในประเทศของุคณอก $NUMBER0%
 
 
 
@@ -2832,7 +2832,7 @@ Click to observe a game through a Direct Internet connection. You will need to k
 
 
 
-         โรงกั่ลนเิ่พมเิตมภายในประเทศของุคณีมผลกระทบแบบ "้ซอนักน" สะสม ัดงั้นนโรงกั่ลนสองแ่หงจะเิ่พมผลผิลต้นำัมน #ICON6 ของุคณุสทิธ $NUMBER1%
+         โรงกั่ลนเิ่พมเตมภายในประเทศของุคณมผลกระทบแบบ "้ซอนักน" สะสม ัดงันนโรงกัลนสองแ่หงจะเิพมผลผิลต้นำัมน #ICON6 ของุคณุสทธ $NUMBER1%
 
 
 
@@ -2845,7 +2845,7 @@ Click to observe a game through a Direct Internet connection. You will need to k
 
 
 
-         ส้รางทหารราบเื่พอโจมีตัศตูรของุคณ
+         ส้รางทหารราบเืพอโจมีตัศตูรของุคณ
 
 
 
@@ -2860,7 +2860,7 @@ Click to observe a game through a Direct Internet connection. You will need to k
 
 
 
-         ทหารกองทหารัรกษาการ์ณเ้ขาไป้ขางในเื่พอัรกษาพวกเขา
+         ทหารกองทหารัรกษาการ์ณเขาไป้ขางในเื่พอรกษาพวกเขา
 
 
 
@@ -2873,7 +2873,7 @@ Click to observe a game through a Direct Internet connection. You will need to k
 
 
 
-         ส้รางทหารี่ข้มาเื่พอโจมีตัศตูรของุคณ
+         ส้รางทหารีข้มาเืพอโจมีตัศตูรของุคณ
 
 
 
@@ -2888,7 +2888,7 @@ Click to observe a game through a Direct Internet connection. You will need to k
 
 
 
-         กองทหารัรกษาการ์ณไ้ดนำห่นวยเ้ขาไปัรกษาพวกเขา
+         กองทหารัรกษาการ์ณไดนำห่นวยเ้ขาไปัรกษาพวกเขา
 
 
 
@@ -2901,7 +2901,7 @@ Click to observe a game through a Direct Internet connection. You will need to k
 
 
 
-         ส้รางรถัถง รถุ้หมเกราะ และยานพาหนะื่อนๆ
+         ส้รางรถัถง รถุหมเกราะ และยานพาหนะือนๆ
 
 
 
@@ -2917,12 +2917,12 @@ Click to observe a game through a Direct Internet connection. You will need to k
 
 
 
-         กองทหารัรกษาการ์ณภายในเื่พอ่ซอมแซม
+         กองทหารัรกษาการณภายในเื่พอซอมแซม
 
 
 
 
-      <BULLET/>ืพชัอตโนัมิตเ้ขามาแทนี่ทคอก้มา
+      <BULLET/>ืพชอตโนัมิตเ้ขามาแทนีทคอก้มา
 </STRING>
 		</ENTRY>
 		<ENTRY name="SIEGEFACTORY">
@@ -2931,7 +2931,7 @@ Click to observe a game through a Direct Internet connection. You will need to k
 
 
 
-         ส้รางูยินต้ลอมเื่พอโจมีติ่สง่กอส้รางของัศตูร
+         ส้รางูยินต้ลอมเืพอโจมีติสง่กอส้รางของัศตูร
 
 
 
@@ -2940,7 +2940,7 @@ Click to observe a game through a Direct Internet connection. You will need to k
 
 
 
-         ส้รางเสีบยงเกีวยนเื่พอสันบสุนนกองัทพของุคณ
+         ส้รางเสีบยงเกีวยนเืพอสันบสุนนกองัทพของคณ
 
 
 
@@ -2953,7 +2953,7 @@ Click to observe a game through a Direct Internet connection. You will need to k
 
 
 
-         ห่นวย Garrison Siege ี่ทอู่ย้ขางในเื่พอ่ซอมแซม
+         ห่นวย Garrison Siege ีทอูย้ขางในเื่พอซอมแซม
 
 
 
@@ -2966,7 +2966,7 @@ Click to observe a game through a Direct Internet connection. You will need to k
 
 
 
-         ส้รางห่นวยืปนให่ญเื่พอโจมีตอาคารและกองกำัลงของัศตูร
+         ส้รางห่นวยืปนให่ญเืพอโจมีตอาคารและกองกำัลงของศตูร
 
 
 
@@ -2975,7 +2975,7 @@ Click to observe a game through a Direct Internet connection. You will need to k
 
 
 
-         ส้รางห่นวย่ตอ้ตานอากาศยานเื่พอิยงเคื่รองิบน้ขาึศกตก
+         ส้รางห่นวย่ตอตานอากาศยานเื่พอยงเคืรองิบน้ขาึศกตก
 
 
 
@@ -2984,7 +2984,7 @@ Click to observe a game through a Direct Internet connection. You will need to k
 
 
 
-         ส้รางรถบรรุทกเื่พอสันบสุนนกองัทพของุคณ
+         ส้รางรถบรรุทกเืพอสันบสุนนกองัทพของคณ
 
 
 
@@ -3000,7 +3000,7 @@ Click to observe a game through a Direct Internet connection. You will need to k
 
 
 
-         ห่นวยทหารืปนให่ญภายในเื่พอ่ซอมแซม
+         ห่นวยทหารืปนใหญภายในเื่พอซอมแซม
 
 
 
@@ -3009,7 +3009,7 @@ Click to observe a game through a Direct Internet connection. You will need to k
 
 
 
-         โรงงานเ้ขามาแทนี่ทโรงงาน้ลอม
+         โรงงานเ้ขามาแทนีทโรงงาน้ลอม
 
 
 
@@ -3031,7 +3031,7 @@ Click to observe a game through a Direct Internet connection. You will need to k
 
 
 
-         กองทหารัรกษาการ์ณัจด่สงมาี่ที่นเื่พอ่ซอมแซมและปก้ปองพวกเขา
+         กองทหารัรกษาการ์ณัจดสงมาีทีนเื่พอซอมแซมและปก้ปองพวกเขา
 
 
 
@@ -3056,7 +3056,7 @@ Click to observe a game through a Direct Internet connection. You will need to k
 
 
 
-         กองทหารัรกษาการ์ณัจด่สงมาี่ที่นเื่พอ่ซอมแซมและปก้ปองพวกเขา
+         กองทหารัรกษาการ์ณัจดสงมาีทีนเื่พอซอมแซมและปก้ปองพวกเขา
 
 
 
@@ -3081,7 +3081,7 @@ Click to observe a game through a Direct Internet connection. You will need to k
 
 
 
-         กองทหารัรกษาการ์ณัจด่สงมาี่ที่นเื่พอ่ซอมแซมและปก้ปองพวกเขา
+         กองทหารัรกษาการ์ณัจดสงมาีทีนเื่พอซอมแซมและปก้ปองพวกเขา
 
 
 
@@ -3112,7 +3112,7 @@ Click to observe a game through a Direct Internet connection. You will need to k
 
 
 
-         พลเืมองหึ่นงคน่ตอ่บอ้นำัมนสามารถรวบรวม #ICON6 {Oil}
+         พลเืมองหึ่นงคน่ตอ่บอนำัมนสามารถรวบรวม #ICON6 {Oil}
 
 
 
@@ -3121,7 +3121,7 @@ Click to observe a game through a Direct Internet connection. You will need to k
 
 
 
-         ้ตองวางไ้วในตำแห่นงี่ทมองเ็หน้นำัมนบนแผนี่ท
+         ้ตองวางไ้วในตำแห่นงีทมองเ็หนนำัมนบนแผนีท
 
 
 
@@ -3130,7 +3130,7 @@ Click to observe a game through a Direct Internet connection. You will need to k
 
 
 
-         สามารถวางไ้ดั้ทงบน {land} หืรอ {sea}
+         สามารถวางไ้ดัทงบน {land} หืรอ {sea}
 
 
 
@@ -3159,8 +3159,8 @@ Click to observe a game through a Direct Internet connection. You will need to k
 
 
 
-         หมายเหุต: หากประเทศของุคณีม้หองสุมดหลายแ่หง ุคณจะสามารถทำการิวัจยหลายรายการพ้รอมักนไ้ด
-เวลา. ิ่สงี้นจะเิกดึ้ขนโดยัอตโนัมิต แ้ม่วาุคณจะัจดิควการิวัจยั้ทงหมดไ้วในี่ทเีดยว็กตาม
+         หมายเหุต: หากประเทศของุคณีมหองสุมดหลายแ่หง ุคณจะสามารถทำการิวัจยหลายรายการพ้รอมักนไ้ด
+เวลา. ิสงีนจะเิกดึขนโดยัอตโนัมิต แ้มวาุคณจะัจดิควการิวัจยัทงหมดไ้วในี่ทเีดยวกตาม
 ้หองสุมดของุคณ
 
 
@@ -3174,7 +3174,7 @@ Click to observe a game through a Direct Internet connection. You will need to k
 
 
 
-         ส้ราง {Scholars} เื่พอเ็กบ #ICON4 {Knowledge}
+         ส้ราง {Scholars} เื่พอเกบ #ICON4 {Knowledge}
 
 
 
@@ -3183,7 +3183,7 @@ Click to observe a game through a Direct Internet connection. You will need to k
 
 
 
-         ิ่ยงันกิวชาการึศกษาี่ที่นมากเ่ทาไร ุคณ็กิ่ยงสะสมความู้รไ้ดเ็รวเ่ทาั้นน
+         ิยงันกิวชาการึศกษาีทีนมากเ่ทาไร ุคณ็กิยงสะสมความู้รไ้ดเ็รวเทาันน
 
 
 
@@ -3192,7 +3192,7 @@ Click to observe a game through a Direct Internet connection. You will need to k
 
 
 
-         #ICON4 ความู้รสามารถนำไปใ้ชในการิวัจยี่ท้หองสุมดไ้ด
+         #ICON4 ความูรสามารถนำไปใ้ชในการิวัจยีท้หองสุมดไ้ด
 
 
 
@@ -3219,7 +3219,7 @@ Click to observe a game through a Direct Internet connection. You will need to k
 
 
 
-         ส้ราง {Caravans} เื่พอเ็กบ #ICON3 {Wealth}
+         ส้ราง {Caravans} เื่พอเกบ #ICON3 {Wealth}
 
 
 
@@ -3228,7 +3228,7 @@ Click to observe a game through a Direct Internet connection. You will need to k
 
 
 
-         ส้ราง {Merchants} เื่พอควบุคม {rare resources}
+         ส้ราง {Merchants} เืพอควบุคม {rare resources}
 
 
 
@@ -3253,7 +3253,7 @@ Click to observe a game through a Direct Internet connection. You will need to k
 
 
 
-         อุนญาตใ้หใ้ชทัรพยากรั่ทวไป 0 และ 1 (พ้รอมการ้คาระัดบ 2)
+         อุนญาตใ้หใ้ชทรพยากรัทวไป 0 และ 1 (พ้รอมการ้คาระัดบ 2)
 
 
 
@@ -3266,7 +3266,7 @@ Click to observe a game through a Direct Internet connection. You will need to k
 
 
 
-         ขยายิอทิธพลของเืมอง่ตอ {National Borders} +$NUMBER0
+         ขยายิอทธพลของเืมองตอ {National Borders} +$NUMBER0
 
 
 
@@ -3274,13 +3274,13 @@ Click to observe a game through a Direct Internet connection. You will need to k
          <BULLET/>
 
 
-         เิ่พมพัลงีชิวตของเืมอง +$NUMBER1%
+         เิ่พมพัลงชิวตของเืมอง +$NUMBER1%
 
 
          <BULLET/>
 
 
-         เิ่พมระยะการโจมีตของเืมอง +$NUMBER2
+         เิพมระยะการโจมีตของเืมอง +$NUMBER2
 
 
          <!--Temple-->
@@ -3288,12 +3288,12 @@ Click to observe a game through a Direct Internet connection. You will need to k
 		</ENTRY>
 		<ENTRY name="SENATE">
 			<STRING>
-				<BULLET/>หากส้รางี่ทเืมองื่อนนอกเหืนอจากเืมองหลวงของุคณ ใ้หเปี่ลยนเืมองั้นนเ็ปนเืมองหลวงให่มของุคณ<BULLET/>ุวิฒสภาอุนญาตใ้หุคณ้คนค้วาระบบของัรฐบาล<BULLET/>เืลอกระห่วางระบบการปกครองแบบเผ็ดจการและประชาิธปไตยเื่พอัรบผลประโยช์นี่ทแตก่ตางักน<!--Senate-->
+				<BULLET/>หากส้รางี่ทเืมองือนนอกเหืนอจากเืมองหลวงของุคณ ใ้หเปี่ลยนเมองันนเ็ปนเมองหลวงให่มของคณ<BULLET/>ุวิฒสภาอุนญาตใ้หุคณ้คนควาระบบของัรฐบาล<BULLET/>เืลอกระห่วางระบบการปกครองแบบเผ็ดจการและประชาิธปไตยเื่พอรบผลประโยช์นีทแตก่ตางักน<!--Senate-->
 			</STRING>
 		</ENTRY>
 		<ENTRY name="SENATEV">
 			<STRING>
-				<BULLET/>ัยงไ้ดัรบนายพลู้ผัรกชาิตี่ทไ่มเหืมอนใครพ้รอมัรฐบาลแ่ตละูรปแบบ<BULLET/>ู้ผัรกชาิตกัลบู่สุวิฒสภา (หัลงจาก่ลา้ชา) เื่มอูถกัสงหาร หากุวิฒสภาของุคณูถกัจบ Patriot จะกัลบมาี่ทเืมองใก้ลเีคยง<BULLET/>ุคณสามารถีมุวิฒสภาไ้ดคั้รงละหึ่นงคนเ่ทาั้นน ุคณ้ตองทำลายัอนเ่กา่กอน (ใ้ชเวลานาน!) ่กอนี่ทจะส้รางัอนให่มึ่ซงจะ้ยายเืมองหลวงของุคณไปัยงเืมองให่ม<!--Senate-->
+				<BULLET/>ัยงไ้ดรบนายพลู้ผรกชาิตีทไ่มเหืมอนใครพ้รอมรฐบาลแ่ตละูรปแบบ<BULLET/>ู้ผรกชาิตกลบูสุวิฒสภา (หัลงจาก่ลาชา) เืมอูถกัสงหาร หากุวิฒสภาของุคณูถกจบ Patriot จะกัลบมาี่ทเมองใก้ลเคยง<BULLET/>ุคณสามารถีมุวิฒสภาไ้ดคัรงละหึ่นงคนเทาันน ุคณตองทำลายัอนเ่กากอน (ใ้ชเวลานาน!) ่กอนีทจะส้รางัอนให่มึ่ซงจะยายเืมองหลวงของุคณไปัยงเมองให่ม<!--Senate-->
 			</STRING>
 		</ENTRY>
 		<ENTRY name="TOWER">
@@ -3320,7 +3320,7 @@ Click to observe a game through a Direct Internet connection. You will need to k
 
 
 
-         สามารถทหารัรกษาการ์ณ้ดวยกองกำัลงี่ทเ็ปนิมตร
+         สามารถทหารัรกษาการ์ณดวยกองกำัลงี่ทเปนิมตร
 
 
 
@@ -3329,7 +3329,7 @@ Click to observe a game through a Direct Internet connection. You will need to k
 
 
 
-         ห่นวยี่ทุคมัขงอู่ย้ขางในจะ่คอยๆ ื้ฟนัตว
+         ห่นวยีทุคมัขงอูย้ขางในจะ่คอยๆ ื้ฟนตว
 
 
 
@@ -3360,7 +3360,7 @@ Click to observe a game through a Direct Internet connection. You will need to k
 
 
 
-         สามารถทหารัรกษาการ์ณ้ดวยกองกำัลงี่ทเ็ปนิมตร
+         สามารถทหารัรกษาการ์ณดวยกองกำัลงี่ทเปนิมตร
 
 
 
@@ -3369,7 +3369,7 @@ Click to observe a game through a Direct Internet connection. You will need to k
 
 
 
-         ห่นวยี่ทุคมัขงอู่ย้ขางในจะ่คอยๆ ื้ฟนัตว
+         ห่นวยีทุคมัขงอูย้ขางในจะ่คอยๆ ื้ฟนตว
 
 
 
@@ -3401,7 +3401,7 @@ Click to observe a game through a Direct Internet connection. You will need to k
 
 
 
-         สามารถทหารัรกษาการ์ณ้ดวยกองกำัลงี่ทเ็ปนิมตร
+         สามารถทหารัรกษาการ์ณดวยกองกำัลงี่ทเปนิมตร
 
 
 
@@ -3410,7 +3410,7 @@ Click to observe a game through a Direct Internet connection. You will need to k
 
 
 
-         ห่นวยี่ทุคมัขงอู่ย้ขางในจะ่คอยๆ ื้ฟนัตว
+         ห่นวยีทุคมัขงอูย้ขางในจะ่คอยๆ ื้ฟนตว
 
 
 
@@ -3441,7 +3441,7 @@ Click to observe a game through a Direct Internet connection. You will need to k
 
 
 
-         สามารถทหารัรกษาการ์ณ้ดวยกองกำัลงี่ทเ็ปนิมตร
+         สามารถทหารัรกษาการ์ณดวยกองกำัลงี่ทเปนิมตร
 
 
 
@@ -3450,7 +3450,7 @@ Click to observe a game through a Direct Internet connection. You will need to k
 
 
 
-         ห่นวยี่ทุคมัขงอู่ย้ขางในจะ่คอยๆ ื้ฟนัตว
+         ห่นวยีทุคมัขงอูย้ขางในจะ่คอยๆ ื้ฟนตว
 
 
 
@@ -3463,7 +3463,7 @@ Click to observe a game through a Direct Internet connection. You will need to k
 
 
 
-         ปก้ปองื้พนี่ทโดยการโจมีตูยินตัศตูร
+         ปก้ปองืพนีทโดยการโจมีตูยินตัศตูร
 
 
 
@@ -3490,7 +3490,7 @@ Click to observe a game through a Direct Internet connection. You will need to k
 
 
 
-         สามารถทหารัรกษาการ์ณ้ดวยกองกำัลงี่ทเ็ปนิมตร
+         สามารถทหารัรกษาการ์ณดวยกองกำัลงี่ทเปนิมตร
 
 
 
@@ -3500,7 +3500,7 @@ Click to observe a game through a Direct Internet connection. You will need to k
 
 
 
-         ห่นวยี่ทุคมัขงอู่ย้ขางในจะ่คอยๆ ื้ฟนัตว
+         ห่นวยีทุคมัขงอูย้ขางในจะ่คอยๆ ื้ฟนตว
 
 
 
@@ -3514,7 +3514,7 @@ Click to observe a game through a Direct Internet connection. You will need to k
 
 
 
-         ปก้ปองื้พนี่ทโดยการโจมีตูยินตัศตูร
+         ปก้ปองืพนีทโดยการโจมีตูยินตัศตูร
 
 
 
@@ -3541,7 +3541,7 @@ Click to observe a game through a Direct Internet connection. You will need to k
 
 
 
-         สามารถทหารัรกษาการ์ณ้ดวยกองกำัลงี่ทเ็ปนิมตร
+         สามารถทหารัรกษาการ์ณดวยกองกำัลงี่ทเปนิมตร
 
 
 
@@ -3550,7 +3550,7 @@ Click to observe a game through a Direct Internet connection. You will need to k
 
 
 
-         ห่นวยี่ทุคมัขงอู่ย้ขางในจะ่คอยๆ ื้ฟนัตว
+         ห่นวยีทุคมัขงอูย้ขางในจะ่คอยๆ ื้ฟนตว
 
 
 
@@ -3563,7 +3563,7 @@ Click to observe a game through a Direct Internet connection. You will need to k
 
 
 
-         ปก้ปองื้พนี่ทโดยการโจมีตูยินตัศตูร
+         ปก้ปองืพนีทโดยการโจมีตูยินตัศตูร
 
 
 
@@ -3590,7 +3590,7 @@ Click to observe a game through a Direct Internet connection. You will need to k
 
 
 
-         สามารถทหารัรกษาการ์ณ้ดวยกองกำัลงี่ทเ็ปนิมตร
+         สามารถทหารัรกษาการ์ณดวยกองกำัลงี่ทเปนิมตร
 
 
 
@@ -3599,7 +3599,7 @@ Click to observe a game through a Direct Internet connection. You will need to k
 
 
 
-         ห่นวยี่ทุคมัขงอู่ย้ขางในจะ่คอยๆ ื้ฟนัตว
+         ห่นวยีทุคมัขงอูย้ขางในจะ่คอยๆ ื้ฟนตว
 
 
 
@@ -3612,7 +3612,7 @@ Click to observe a game through a Direct Internet connection. You will need to k
 
 
 
-         ปก้ปองื้พนี่ทโดยการโจมีตูยินตัศตูร
+         ปก้ปองืพนีทโดยการโจมีตูยินตัศตูร
 
 
 
@@ -3639,7 +3639,7 @@ Click to observe a game through a Direct Internet connection. You will need to k
 
 
 
-         สามารถทหารัรกษาการ์ณ้ดวยกองกำัลงี่ทเ็ปนิมตร
+         สามารถทหารัรกษาการ์ณดวยกองกำัลงี่ทเปนิมตร
 
 
 
@@ -3648,7 +3648,7 @@ Click to observe a game through a Direct Internet connection. You will need to k
 
 
 
-         ห่นวยี่ทุคมัขงอู่ย้ขางในจะ่คอยๆ ื้ฟนัตว
+         ห่นวยีทุคมัขงอูย้ขางในจะ่คอยๆ ื้ฟนตว
 
 
 
@@ -3663,7 +3663,7 @@ Click to observe a game through a Direct Internet connection. You will need to k
 
 
 
-ส้รางเคื่รองิบนั้ตงแ่ตเคื่รองิบนีปกสองั้ชนและเคื่รองิบนรบไปจนึถงเฮิลคอปเตอ์รโจมีตและเคื่รองิบนิ้ทงระเิบดทางุยทธศาสต์ร
+ส้รางเคืรองิบนั้ตงแตเคืรองิบนีปกสองัชนและเคืรองิบนรบไปจนึถงเฮิลคอปเตอรโจมีตและเคืรองิบนิทงระเิบดทางุยทธศาสต์ร
 
 
 
@@ -3675,7 +3675,7 @@ Click to observe a game through a Direct Internet connection. You will need to k
 		</ENTRY>
 		<ENTRY name="AIRBASEV">
 			<STRING>
-เคื่รองิบนสามารถกัลบมาี่ที่นเื่พอ่ซอมแซมและเิตมเื้ชอเพิลงไ้ด
+เคืรองิบนสามารถกัลบมาีทีนเื่พอซอมแซมและเิตมเื้ชอเพิลงได
 </STRING>
 		</ENTRY>
 		<ENTRY name="LOOKOUT">
@@ -3684,7 +3684,7 @@ Click to observe a game through a Direct Internet connection. You will need to k
 
 
 
-         ไ่มีมี่ทึ่พงแ่ตมองเ็หนไ้ดไกล
+         ไ่มีมีทึ่พงแตมองเ็หนไดไกล
 
 
 
@@ -3693,7 +3693,7 @@ Click to observe a game through a Direct Internet connection. You will need to k
 
 
 
-         ตรวจัจบูยินตัศตูรี่ท่ซอนอู่ยในบิรเวณใก้ลเีคยง
+         ตรวจัจบยินตัศตูรีท่ซอนอูยในบิรเวณใก้ลเคยง
 
 
 
@@ -3704,7 +3704,7 @@ Click to observe a game through a Direct Internet connection. You will need to k
 
 
 
-         ความสามารถจำักดในการิยงธูนใ่สเคื่รองิบน้ขาึศกี่ท่ผานไปในบิรเวณใก้ลเีคยง
+         ความสามารถจำักดในการิยงธูนใสเคืรองิบน้ขาึศกีท่ผานไปในบิรเวณใก้ลเคยง
 
 
 
@@ -3720,7 +3720,7 @@ Click to observe a game through a Direct Internet connection. You will need to k
 
 
 
-         ไ่มีมี่ทึ่พงแ่ตมองเ็หนไ้ดไกล
+         ไ่มีมีทึ่พงแตมองเ็หนไดไกล
 
 
 
@@ -3729,7 +3729,7 @@ Click to observe a game through a Direct Internet connection. You will need to k
 
 
 
-         ตรวจัจบูยินตัศตูรี่ท่ซอนอู่ยในบิรเวณใก้ลเีคยง
+         ตรวจัจบยินตัศตูรีท่ซอนอูยในบิรเวณใก้ลเคยง
 
 
 
@@ -3738,7 +3738,7 @@ Click to observe a game through a Direct Internet connection. You will need to k
 
 
 
-         ความสามารถจำักดในการิยงธูนใ่สเคื่รองิบน้ขาึศกี่ท่ผานไปในบิรเวณใก้ลเีคยง
+         ความสามารถจำักดในการิยงธูนใสเคืรองิบน้ขาึศกีท่ผานไปในบิรเวณใก้ลเคยง
 
 
 
@@ -3754,7 +3754,7 @@ Click to observe a game through a Direct Internet connection. You will need to k
 
 
 
-         ิยงใ่สเคื่รองิบนัศตูร
+         ิยงใสเคืรองิบนัศตูร
 
 
 
@@ -3763,7 +3763,7 @@ Click to observe a game through a Direct Internet connection. You will need to k
 
 
 
-         ตรวจัจบูยินตัศตูรี่ท่ซอนอู่ยในบิรเวณใก้ลเีคยง
+         ตรวจัจบยินตัศตูรีท่ซอนอูยในบิรเวณใก้ลเคยง
 
 
 
@@ -3776,7 +3776,7 @@ Click to observe a game through a Direct Internet connection. You will need to k
 
 
 
-         ิยงใ่สเคื่รองิบนัศตูร
+         ิยงใสเคืรองิบนัศตูร
 
 
 
@@ -3785,7 +3785,7 @@ Click to observe a game through a Direct Internet connection. You will need to k
 
 
 
-         ตรวจัจบูยินตัศตูรี่ท่ซอนอู่ยในบิรเวณใก้ลเีคยง
+         ตรวจัจบยินตัศตูรีท่ซอนอูยในบิรเวณใก้ลเคยง
 
 
 
@@ -3800,7 +3800,7 @@ Click to observe a game through a Direct Internet connection. You will need to k
 
 
 
-         ิยงใ่สเคื่รองิบนัศตูร
+         ิยงใสเคืรองิบนัศตูร
 
 
 
@@ -3809,7 +3809,7 @@ Click to observe a game through a Direct Internet connection. You will need to k
 
 
 
-         ตรวจัจบูยินตัศตูรี่ท่ซอนอู่ยในบิรเวณใก้ลเีคยง
+         ตรวจัจบยินตัศตูรีท่ซอนอูยในบิรเวณใก้ลเคยง
 
 
 
@@ -3825,7 +3825,7 @@ Click to observe a game through a Direct Internet connection. You will need to k
 
 
 
-         ส้รางและเิปดัตวห่นวยีขปนาุวธ
+         ส้รางและเิปดัตวหนวยีขปนาุวธ
 
 
 
@@ -3834,7 +3834,7 @@ Click to observe a game through a Direct Internet connection. You will need to k
 
 
 
-         ิวัจยีขปนาุวธประเภทให่มๆ รวมึถงีขปนาุวธินวเคีลย์รและ ICBM
+         ิวัจยีขปนาุวธประเภทให่มๆ รวมึถงขปนาุวธนวเคีลยรและ ICBM
 
 
 
@@ -3843,7 +3843,7 @@ Click to observe a game through a Direct Internet connection. You will need to k
 
 
 
-         สามารถืถอีขปนาุวธไ้ดคั้รงละหึ่นงูลกเ่ทาั้นน
+         สามารถืถอีขปนาุวธไ้ดคัรงละหึนงูลกเ่ทาันน
 
 
 
@@ -3855,214 +3855,214 @@ Click to observe a game through a Direct Internet connection. You will need to k
 		<ENTRY name="PYRAMIDS">
 			<STRING>
 				<BULLET/>
-         ิ่สงมัหศจรร์ยของโลก: $STRING0 ุจดมัหศจรร์ย
+         ิ่สงมัหศจรรยของโลก: $STRING0 ุจดมัหศจรรย
          <BULLET/>
-         เิ่พมีขดจำักด #ICON21 การ้คาสำหัรบอาหารและความั่มงั่คงของุคณึ้ขน $NUMBER1
+         เิพมีขดจำักด #ICON21 การ้คาสำหัรบอาหารและความั่มงั่คงของุคณึขน $NUMBER1
          <BULLET/>
-         เิ่พมีขดจำักดเืมอง #ICON22 ของุคณ $NUMBER2 เืมองูถกก่วา 33%
+         เิพมีขดจำักดเมอง #ICON22 ของุคณ $NUMBER2 เืมองูถกก่วา 33%
          <BULLET/>
-         ปัรบปุรงัอตราการรวบรวมอาหาร #ICON1 ของุคณึ้ขน $NUMBER3%
+         ปัรบปุรงัอตราการรวบรวมอาหาร #ICON1 ของุคณึขน $NUMBER3%
       </STRING>
 		</ENTRY>
 		<ENTRY name="COLOSSUS">
 			<STRING>
 				<BULLET/>
-         ิ่สงมัหศจรร์ยของโลก: $STRING0 ุจดมัหศจรร์ย
+         ิ่สงมัหศจรรยของโลก: $STRING0 ุจดมัหศจรรย
          <BULLET/>
-         เิ่พมัอตราความั่มงั่คง #ICON3 ของุคณ $NUMBER1%
+         เิ่พมอตราความั่มงัคง #ICON3 ของุคณ $NUMBER1%
          <BULLET/>
-         เิ่พมีขดจำักดประชากร #ICON20 ของุคณีอก $NUMBER2
+         เิพมีขดจำักดประชากร #ICON20 ของุคณอก $NUMBER2
          <BULLET/>
-         เิ่พมีขดจำักดการ้คา #ICON21 ของุคณสำหัรบความั่มงั่คงและไ้มโดย $NUMBER4
+         เิพมีขดจำักดการ้คา #ICON21 ของุคณสำหัรบความั่มงัคงและไ้มโดย $NUMBER4
          </STRING>
 		</ENTRY>
 		<ENTRY name="HANGINGGARDENS">
 			<STRING>
 				<BULLET/>
-         ิ่สงมัหศจรร์ยของโลก: $STRING0 ุจดมัหศจรร์ย
+         ิ่สงมัหศจรรยของโลก: $STRING0 ุจดมัหศจรรย
          <BULLET/>
-         เิ่พมการผิลตความู้รของุคณโดย $NUMBER1
+         เิพมการผิลตความู้รของคณโดย $NUMBER1
          <BULLET/>
-         การัอพเกรดการผิลตุ้ยงฉาง โรงัตดไ้ม และโรงถุลงแ่รลดราคา 66%
+         การัอพเกรดการผิลตุยงฉาง โรงัตดไม และโรงถุลงแ่รลดราคา 66%
          </STRING>
 		</ENTRY>
 		<ENTRY name="TERRACOTTAARMY">
 			<STRING>
 				<BULLET/>
-         ิ่สงมัหศจรร์ยของโลก: $STRING0 ุจดมัหศจรร์ย
+         ิ่สงมัหศจรรยของโลก: $STRING0 ุจดมัหศจรรย
          <BULLET/>
-         ส้รางห่นวยเิดนเ้ทาิอสระุทกๆ $NUMBER2 ิวนาีท (บวก $STRING3 ิวนาีทสำหัรบุทกห่นวยทหารราบี่ทุคณควบุคม)
+         ส้รางห่นวยเิดนเทาิอสระุทกๆ $NUMBER2 ิวนาีท (บวก $STRING3 ิวนาีทสำหัรบุทกห่นวยทหารราบีทุคณควบุคม)
       </STRING>
 		</ENTRY>
 		<ENTRY name="TERRACOTTAARMYCTW">
 			<STRING>
 				<BULLET/>
-         ิ่สงมัหศจรร์ยของโลก: $STRING0 ุจดมัหศจรร์ย
-         <BULLET/>มอบกองัทพเสิรมิพเศษใ้หักบุคณในุทกการ่ตอู้ส Conquest
-      <BULLET/>หากีมอู่ยในการ่ตอู้ส ใ้หส้รางห่นวยทหารราบิอสระุทกๆ $NUMBER2 ิวนาีท (บวก $NUMBER3 ิวนาีทสำหัรบุทกห่นวยทหารราบี่ทุคณควบุคม)
+         ิ่สงมัหศจรรยของโลก: $STRING0 ุจดมัหศจรรย
+         <BULLET/>มอบกองัทพเสรมิพเศษใ้หักบุคณในุทกการ่ตอูส Conquest
+      <BULLET/>หากีมอูยในการ่ตอูส ใ้หสรางห่นวยทหารราบิอสระุทกๆ $NUMBER2 ิวนาีท (บวก $NUMBER3 ิวนาีทสำหัรบุทกห่นวยทหารราบีทุคณควบุคม)
       </STRING>
 		</ENTRY>
 		<ENTRY name="COLOSSEUM">
 			<STRING>
 				<BULLET/>
-         ิ่สงมัหศจรร์ยของโลก: $STRING0 ุจดมัหศจรร์ย
+         ิ่สงมัหศจรรยของโลก: $STRING0 ุจดมัหศจรรย
          <BULLET/>
-         เิ่พมพรมแดนประเทศของุคณึ้ขน $NUMBER1
+         เิพมพรมแดนประเทศของุคณึขน $NUMBER1
          <BULLET/>
-         การูสญเีสยูยินตัศตูรในิดนแดนของุคณเิ่พมึ้ขน $NUMBER2%
+         การูสญเีสยูยินตัศตูรในิดนแดนของุคณเิ่พมึขน $NUMBER2%
          <BULLET/>
-         ้ปอมและหอคอยราคาูถกก่วา $NUMBER5%
+         ้ปอมและหอคอยราคาูถกกวา $NUMBER5%
          </STRING>
 		</ENTRY>
 		<ENTRY name="FORBIDDENCITY">
 			<STRING>
 				<BULLET/>
-         ิ่สงมัหศจรร์ยของโลก: $STRING0 ุจดมัหศจรร์ย
-         <BULLET/>ันบเ็ปนโบันสเืมองให่ญในประเทศของุคณ สามารถส้รางไ้ดุทกี่ที่ทเืมองสามารถทำไ้ด และสถานี่ท่กอส้รางจะไ่มเิปดเผยใ้หัศตูรทราบจนก่วาจะส้รางเส็รจ
+         ิ่สงมัหศจรรยของโลก: $STRING0 ุจดมัหศจรรย
+         <BULLET/>ันบเปนโบันสเมองให่ญในประเทศของุคณ สามารถส้รางไ้ดุทกีทีทเืมองสามารถทำไ้ด และสถานีท่กอสรางจะไ่มเปดเผยใ้หศตูรทราบจนก่วาจะส้รางเส็รจ
          <BULLET/>
-        ใ้หอาหาร +50 #ICON1 และไ้ม แทนี่ทจะเ็ปน +10/+10 ปกิต
+        ใ้หอาหาร +50 #ICON1 และไ้ม แทนีทจะเ็ปน +10/+10 ปกิต
          <BULLET/>
-         ัตวัจบเวลาุทนไ่ม่สงผลกระทบ่ตอุคณ
+         ัตวัจบเวลาุทนไ่มสงผลกระทบ่ตอุคณ
          </STRING>
 		</ENTRY>
 		<ENTRY name="FORBIDDENCITYCTW">
 			<STRING>
 				<BULLET/>
-         ิ่สงมัหศจรร์ยของโลก: $STRING0 ุจดมัหศจรร์ย
-         <BULLET/>เื่มออู่ยในการ่ตอู้ส Conquer the World การัจบเวลาเืมองหลวงและการกำัจดการเีสยีชิวตอ่ยางกะัทนัหนจะไ่ม่สงผล่ตอุคณ
-         <BULLET/>เื่มอูถกัจดึ้ขนในอาณาัจกรของุคณแ่ตไ่มปรากฏในการ่ตอู้สัปจุจับน เิ่พมัตวัจบเวลาเืมองหลวงของุคณเ็ปนสองเ่ทา และลดัตวัจบเวลาเืมองหลวงของัศตูรลงคึ่รงหึ่นง</STRING>
+         ิ่สงมัหศจรรยของโลก: $STRING0 ุจดมัหศจรรย
+         <BULLET/>เืมออูยในการ่ตอูส Conquer the World การัจบเวลาเืมองหลวงและการกำัจดการเีสยีชิวตอ่ยางกะัทนหนจะไ่ม่สงผลตอุคณ
+         <BULLET/>เืมอูถกัจดึขนในอาณาัจกรของุคณแ่ตไมปรากฏในการ่ตอูสัปจุจับน เิ่พมตวัจบเวลาเืมองหลวงของุคณเปนสองเ่ทา และลดัตวัจบเวลาเืมองหลวงของัศตูรลงคึ่รงหึนง</STRING>
 		</ENTRY>
 		<ENTRY name="TIKAL">
 			<STRING>
 				<BULLET/>
-         ิ่สงมัหศจรร์ยของโลก: $STRING0 ุจดมัหศจรร์ย
+         ิ่สงมัหศจรรยของโลก: $STRING0 ุจดมัหศจรรย
          <BULLET/>
-         เิ่พมัอตราการรวบรวมไ้ม #ICON2 ของุคณ $NUMBER1%
+         เิ่พมอตราการรวบรวมไ้ม #ICON2 ของุคณ $NUMBER1%
          <BULLET/>
-         เิ่พมเพดานการ้คา #ICON21 ของุคณสำหัรบไ้ม #ICON2 ึ้ขน $NUMBER3
+         เิพมเพดานการ้คา #ICON21 ของุคณสำหัรบไม #ICON2 ึขน $NUMBER3
          <BULLET/>
-         เิ่พมเอฟเฟก์ติวหาร (บนพรมแดนระัดบชาิต, พัลงีชิวต และระยะการโจมีต) ึ้ขน $NUMBER4%
+         เิพมเอฟเฟก์ติวหาร (บนพรมแดนระัดบชาิต, พัลงชิวต และระยะการโจมีต) ึขน $NUMBER4%
       </STRING>
 		</ENTRY>
 		<ENTRY name="PORCELAIN">
 			<STRING>
 				<BULLET/>
-         ิ่สงมัหศจรร์ยของโลก: $STRING0 ุจดมัหศจรร์ย
+         ิ่สงมัหศจรรยของโลก: $STRING0 ุจดมัหศจรรย
          <BULLET/>
-         ุคณส้รางเืรอไ้ดเ็รวึ้ขน 0%
+         ุคณสรางเืรอไ้ดเ็รวึขน 0%
          <BULLET/>
-         เิ่พมรายไ้ดของุคณจากทัรพยากรหายาก (ในิดนแดนของุคณ) และตลาด $NUMBER2%
+         เิพมรายไ้ดของคณจากทัรพยากรหายาก (ในิดนแดนของุคณ) และตลาด $NUMBER2%
          <BULLET/>
-         ุคณไ้ดัรบความสามารถโบันสจากทัรพยากรหายากั้ทงหมดในิดนแดนของุคณ แ้ม่วาุคณจะไ่มีม่พอ้คาอู่ยี่ทั่นน็กตาม
+         ุคณไ้ดรบความสามารถโบันสจากทัรพยากรหายากัทงหมดในิดนแดนของุคณ แ้มวาุคณจะไ่มีม่พอคาอูยีทันน็กตาม
       </STRING>
 		</ENTRY>
 		<ENTRY name="REDFORT">
 			<STRING>
 				<BULLET/>
-         ิ่สงมัหศจรร์ยของโลก: $STRING0 ุจดมัหศจรร์ย
+         ิ่สงมัหศจรรยของโลก: $STRING0 ุจดมัหศจรรย
          <BULLET/>
-        ้ปอมขนาดให่ญี่ทีมระยะไกล, พัลงีชิวตมากมาย, ่คากองทหารเิ่พมเิตม, การัดนชายแดนี่ทเิ่พมึ้ขน และความ้ตานทาน่ตอการโจมีตทางอากาศ<BULLET/>
-        สามารถส้รางไ้ดุทกี่ที่ทีม้ปอม; ไ่มันบรวมักบีขดจำักด Wonder ของเืมอง ตำแห่นงการ่กอส้รางจะไ่มเิปดเผย่ตอัศตูรจนก่วาัมนจะเส็รจสมูบร์ณ      
+        ้ปอมขนาดให่ญีทีมระยะไกล, พัลงชิวตมากมาย, ่คากองทหารเิ่พมเตม, การัดนชายแดนีทเิ่พมึขน และความ้ตานทาน่ตอการโจมีตทางอากาศ<BULLET/>
+        สามารถส้รางไ้ดุทกีทีทีม้ปอม; ไ่มันบรวมักบีขดจำักด Wonder ของเืมอง ตำแห่นงการ่กอสรางจะไ่มเปดเผย่ตอศตูรจนก่วาัมนจะเส็รจสมูบรณ      
          <BULLET/>
-         ัรบการัอพเกรด้ปอมฟีร และ้ปอมั้ทงหมดไ้ดัรบแ้ตมพัลงีชิวตเิ่พมึ้ขน 33%<BULLET/>
-        ห่นวยี่ทุคมัขงอู่ยใน้ปอมจะัรกษาี่ท +$NUMBER1% ัอตราปกิต
+         ัรบการัอพเกรด้ปอมฟีร และ้ปอมัทงหมดไ้ดัรบแ้ตมพัลงชิวตเิ่พมึขน 33%<BULLET/>
+        ห่นวยีทุคมัขงอูยใน้ปอมจะัรกษาีท +$NUMBER1% ัอตราปกิต
          </STRING>
 		</ENTRY>
 		<ENTRY name="REDFORTCTW">
 			<STRING>
 				<BULLET/>
-         ิ่สงมัหศจรร์ยของโลก: $STRING0 ุจดมัหศจรร์ย
-         <BULLET/>้ปอมขนาดให่ญี่ทีมระยะไกลและพัลงีชิวตมากมาย<BULLET/>ีมูมล่คากองทหารเิ่พมึ้ขน เิ่พมการผัลกัดนชายแดน และ้ตานทานการโจมีตทางอากาศ<BULLET/>
-        สามารถส้รางไ้ดุทกี่ที่ทีม้ปอม; ไ่มันบรวมักบีขดจำักด Wonder ของเืมอง ตำแห่นงการ่กอส้รางจะไ่มเิปดเผย่ตอัศตูรจนก่วาัมนจะเส็รจสมูบร์ณ      
+         ิ่สงมัหศจรรยของโลก: $STRING0 ุจดมัหศจรรย
+         <BULLET/>้ปอมขนาดให่ญีทีมระยะไกลและพัลงชิวตมากมาย<BULLET/>ีมูมลคากองทหารเิ่พมึขน เิพมการผัลกัดนชายแดน และ้ตานทานการโจมีตทางอากาศ<BULLET/>
+        สามารถส้รางไ้ดุทกีทีทีม้ปอม; ไ่มันบรวมักบีขดจำักด Wonder ของเืมอง ตำแห่นงการ่กอสรางจะไ่มเปดเผย่ตอศตูรจนก่วาัมนจะเส็รจสมูบรณ      
          <BULLET/>
-         ัรบการัอพเกรด้ปอมฟีร และ้ปอมั้ทงหมดไ้ดัรบแ้ตมพัลงีชิวตเิ่พมึ้ขน 33%<BULLET/>
-        ห่นวยี่ทุคมัขงอู่ยใน้ปอมจะัรกษาี่ท +$NUMBER1% ัอตราปกิต
+         ัรบการัอพเกรด้ปอมฟีร และ้ปอมัทงหมดไ้ดัรบแ้ตมพัลงชิวตเิ่พมึขน 33%<BULLET/>
+        ห่นวยีทุคมัขงอูยใน้ปอมจะัรกษาีท +$NUMBER1% ัอตราปกิต
          </STRING>
 		</ENTRY>
 		<ENTRY name="ANGKORWAT">
 			<STRING>
 				<BULLET/>
-         ิ่สงมัหศจรร์ยของโลก: $STRING0 ุจดมัหศจรร์ย
+         ิ่สงมัหศจรรยของโลก: $STRING0 ุจดมัหศจรรย
          <BULLET/>
-         เิ่พมัอตราการรวบรวมโลหะ #ICON5 ของุคณ $NUMBER2%
+         เิ่พมอตราการรวบรวมโลหะ #ICON5 ของุคณ $NUMBER2%
       <BULLET/>
-         เิ่พมีขดจำักดการ้คา #ICON21 ของุคณสำหัรบ #ICON5 โลหะึ้ขน $NUMBER4
+         เิพมีขดจำักดการ้คา #ICON21 ของุคณสำหัรบ #ICON5 โลหะึขน $NUMBER4
       <BULLET/>
-         ราคาของ่คายทหาร คอก้มา และห่นวย่ทาเืรอลดลง $NUMBER3%
+         ราคาของ่คายทหาร คอก้มา และห่นวยทาเืรอลดลง $NUMBER3%
       </STRING>
 		</ENTRY>
 		<ENTRY name="VERSAILLES">
 			<STRING>
 				<BULLET/>
-         ิ่สงมัหศจรร์ยของโลก: $STRING0 ุจดมัหศจรร์ย
+         ิ่สงมัหศจรรยของโลก: $STRING0 ุจดมัหศจรรย
          <BULLET/>
-         ลด้ตนุทนี่ทไ่มใ่ชความู้รในการิวัจย้หองสุมดลง 00%
+         ลด้ตนุทนีทไ่มใชความูรในการิวัจย้หองสุมดลง 00%
          <BULLET/>
-         รถเสีบยงของุคณสามารถัรกษากองกำัลงของุคณไ้ด (และรถเสีบยงของฝั่รงเศสจะัรกษาในัอตราปกิตสองเ่ทา)
+         รถเสีบยงของคณสามารถัรกษากองกำัลงของุคณได (และรถเสีบยงของฝัรงเศสจะัรกษาในัอตราปกิตสองเ่ทา)
          <BULLET/>
-         ห่นวยิปด้ลอม ืปนให่ญ และเสีบยงเคื่ลอนี่ทเ็รวึ้ขน 0%
+         ห่นวยิปดลอม ืปนใหญ และเสีบยงเคืลอนีทเ็รวึขน 0%
          </STRING>
 		</ENTRY>
 		<ENTRY name="TAJMAHAL">
 			<STRING>
 				<BULLET/>
-         ิ่สงมัหศจรร์ยของโลก: $STRING0 ุจดมัหศจรร์ย
+         ิ่สงมัหศจรรยของโลก: $STRING0 ุจดมัหศจรรย
          <BULLET/>
-         เิ่พมพัลงีชิวติ่สง่กอส้รางของุคณั้ทงหมด $NUMBER1%
+         เิ่พมพัลงชิวติสง่กอส้รางของุคณัทงหมด $NUMBER1%
          <BULLET/>
-         รายไ้ดความั่มงั่คง #ICON3 ของุคณเิ่พมึ้ขน $NUMBER2%
+         รายไ้ดความั่มงัคง #ICON3 ของุคณเิ่พมึขน $NUMBER2%
       <BULLET/>
-         เิ่พมีขดจำักดการ้คา #ICON21 ของุคณเื่พอความั่มงั่คง #ICON3 ึ้ขน $NUMBER3
+         เิพมีขดจำักดการ้คา #ICON21 ของุคณเืพอความั่มงัคง #ICON3 ึขน $NUMBER3
       </STRING>
 		</ENTRY>
 		<ENTRY name="KREMLIN">
 			<STRING>
 				<BULLET/>
-         ิ่สงมัหศจรร์ยของโลก: $STRING0 ุจดมัหศจรร์ย
+         ิ่สงมัหศจรรยของโลก: $STRING0 ุจดมัหศจรรย
          <BULLET/>
-         เิ่พมีขดจำักดการ้คา #ICON21 ของุคณสำหัรบ #ICON1 อาหาร #ICON2 ไ้ม #ICON5 โลหะ และ #ICON6 ้นำัมนึ้ขน $NUMBER1
-         <BULLET/>เิ่พมความเีสยหายจากการัขดีสี่ทเิกดึ้ขนักบูยินตัศตูรี่ทไ่มไ้ดัรบเสีบยงในิดนแดนของุคณีอก 00%
-      <BULLET/>สายัลบูถกส้รางึ้ขนัทนีท ัรบการใ้ชูยินต Spy ิพเศษึ่ซงไ่มันบรวมักบจำนวนประชากรูสงุสดของุคณ และจะูถกส้รางึ้ขนให่มฟีรุทกคั้รงี่ทัมนูถกัสงหาร
+         เิพมีขดจำักดการ้คา #ICON21 ของุคณสำหัรบ #ICON1 อาหาร #ICON2 ไ้ม #ICON5 โลหะ และ #ICON6 ้นำัมนึขน $NUMBER1
+         <BULLET/>เิพมความเีสยหายจากการัขดีสีทเิกดึขนักบูยินตัศตูรีทไ่มไ้ดรบเสีบยงในิดนแดนของุคณอก 00%
+      <BULLET/>สายัลบูถกสรางึ้ขนัทนท ัรบการใ้ชูยินต Spy ิพเศษึ่ซงไมันบรวมักบจำนวนประชากรูสงุสดของคณ และจะูถกสรางึ้ขนใหมฟีรุทกคั้รงี่ทมนูถกัสงหาร
       </STRING>
 		</ENTRY>
 		<ENTRY name="STATUEOFLIBERTY">
 			<STRING>
 				<BULLET/>
-         ิ่สงมัหศจรร์ยของโลก: $STRING0 ุจดมัหศจรร์ย
-         <BULLET/>ุคณไ้ดัรบการัอพเกรดห่นวยภาคื้พนิดนและฐานัทพอากาศั้ทงหมดฟีร<BULLET/>ลดความเีสยหายจากการัขดีสี่ทเิกดึ้ขนักบูยินตของุคณในอาณาเขตของัศตูรลง $NUMBER2%
-         <BULLET/>ลด้ตนุทนของเคื่รองิบนิ้ทงระเิบดและอาคาร้ปองักนทางอากาศลง $NUMBER3%
+         ิ่สงมัหศจรรยของโลก: $STRING0 ุจดมัหศจรรย
+         <BULLET/>ุคณไ้ดรบการัอพเกรดห่นวยภาคืพนิดนและฐานัทพอากาศัทงหมดฟีร<BULLET/>ลดความเีสยหายจากการัขดีสีทเิกดึขนักบูยินตของุคณในอาณาเขตของัศตูรลง $NUMBER2%
+         <BULLET/>ลด้ตนุทนของเคืรองิบนิทงระเิบดและอาคาร้ปองักนทางอากาศลง $NUMBER3%
       </STRING>
 		</ENTRY>
 		<ENTRY name="EIFFELTOWER">
 			<STRING>
 				<BULLET/>
-         ิ่สงมัหศจรร์ยของโลก: $STRING0 ุจดมัหศจรร์ย
+         ิ่สงมัหศจรรยของโลก: $STRING0 ุจดมัหศจรรย
          <BULLET/>
-         เิ่พมรายไ้ด #ICON6 ้นำัมนของุคณ $NUMBER1%
+         เิพมรายไ้ด #ICON6 ้นำัมนของคณ $NUMBER1%
          <BULLET/>
-         เิ่พมีขดจำักดการ้คา #ICON21 ของุคณสำหัรบ้นำัมน #ICON6 ึ้ขน $NUMBER3
+         เิพมีขดจำักดการ้คา #ICON21 ของุคณสำหัรบนำัมน #ICON6 ึขน $NUMBER3
          <BULLET/>
-         เิ่พมพรมแดนประเทศของุคณึ้ขน $NUMBER2
+         เิพมพรมแดนประเทศของุคณึขน $NUMBER2
       </STRING>
 		</ENTRY>
 		<ENTRY name="SUPERCOLLIDER">
 			<STRING>
 				<BULLET/>
-         ิ่สงมัหศจรร์ยของโลก: $STRING0 ุจดมัหศจรร์ย
+         ิ่สงมัหศจรรยของโลก: $STRING0 ุจดมัหศจรรย
          <BULLET/>
-         ้ตนุทนในการื้ซอิสน้คาในตลาดไ่มเคยูสงก่วา $NUMBER1 #ICON3 ความั่มงั่คง; ราคาขายไ่มเคย่ตำก่วา $NUMBER2 #ICON3 ความั่มงั่คง.
-         <BULLET/>เทคโนโลียสามารถ้คนค้วาไ้ดัทนีท (แ่ตไ่มใ่ชห่นวยเทคโนโลีย)
+         ้ตนุทนในการืซอิสน้คาในตลาดไ่มเคยูสงก่วา $NUMBER1 #ICON3 ความั่มงัคง; ราคาขายไ่มเคย่ตำก่วา $NUMBER2 #ICON3 ความั่มงัคง.
+         <BULLET/>เทคโนโลียสามารถ้คนควาไ้ดัทนท (แ่ตไ่มใ่ชหนวยเทคโนโลีย)
       </STRING>
 		</ENTRY>
 		<ENTRY name="SPACEPROGRAM">
 			<STRING>
 				<BULLET/>
-         ิ่สงมัหศจรร์ยของโลก: $STRING0 ุจดมัหศจรร์ย
+         ิ่สงมัหศจรรยของโลก: $STRING0 ุจดมัหศจรรย
          <BULLET/>
-        ุคณสามารถูดตำแห่นงของูยินต อาคาร และูภิมประเทศั้ทงหมดไ้ดบนแผนี่ท
+        ุคณสามารถูดตำแห่นงของูยินต อาคาร และูภมประเทศัทงหมดไ้ดบนแผนีท
          <BULLET/>
-       ุคณส้รางเคื่รองิบนและีขปนาุวธไ้ดเ็รวก่วา 0% และูถกก่วา 1%
-      <BULLET/>ุคณีมูภิมุ้คมักน่ตอผลกระทบจากการค่วำบาตรินวเคีลย์ร
+       ุคณสรางเคืรองิบนและีขปนาุวธไ้ดเ็รวกวา 0% และูถกกวา 1%
+      <BULLET/>ุคณีมูภิมุคมักน่ตอผลกระทบจากการค่วำบาตรินวเคีลยร
       </STRING>
 		</ENTRY>
 	</BUILDINGS>
@@ -6144,19 +6144,12 @@ buildings and entrenchments.
             ทำลายสายลับศัตรูได้</STRING>
 		</ENTRY>
 		<ENTRY name="SCOUTV">
-			<STRING>
-				<BULLET/>
+			<STRING><BULLET/>
             
 
 
 
-         Scouts are cheap and expendable; they are good for exploring the map and scouting enemy positions.
-
-
-
-
-      
-         </STRING>
+         หน่วยสอดแนมราคาถูกและใช้แลกได้; they are เหมาะสำรวจแผนที่และดูตำแหน่งศัตรู</STRING>
 		</ENTRY>
 		<ENTRY name="EXPLORER">
 			<STRING><BULLET/>
@@ -6187,19 +6180,12 @@ buildings and entrenchments.
             มองเห็นหน่วยซ่อนเร้น เช่น สายลับและคอมมานโด</STRING>
 		</ENTRY>
 		<ENTRY name="EXPLORERV">
-			<STRING>
-				<BULLET/>
+			<STRING><BULLET/>
             
 
 
 
-         Explorers are cheap and expendable; they are good for exploring the map and scouting enemy positions.
-
-
-
-
-      
-         </STRING>
+         นักสำรวจราคาถูกและใช้แลกได้; they are เหมาะสำรวจแผนที่และดูตำแหน่งศัตรู</STRING>
 		</ENTRY>
 		<ENTRY name="COMMANDO">
 			<STRING><BULLET/>
@@ -8147,19 +8133,12 @@ Lakota Unique {Ranged Cavalry}, Medieval Age #ICON29 - fast raiders able to fire
             ทำลายสายลับศัตรูได้</STRING>
 		</ENTRY>
 		<ENTRY name="IRQSCOUTV">
-			<STRING>
-				<BULLET/>
+			<STRING><BULLET/>
             
 
 
 
-         Takohs are cheap and expendable; they are good for exploring the map and scouting enemy positions.
-
-
-
-
-      
-         </STRING>
+         Takohs are cheap and expendable; they are เหมาะสำรวจแผนที่และดูตำแหน่งศัตรู</STRING>
 		</ENTRY>
 		<ENTRY name="IRQEXPLORER">
 			<STRING><BULLET/>
@@ -8190,19 +8169,12 @@ Lakota Unique {Ranged Cavalry}, Medieval Age #ICON29 - fast raiders able to fire
             มองเห็นหน่วยซ่อนเร้น เช่น สายลับและคอมมานโด</STRING>
 		</ENTRY>
 		<ENTRY name="IRQEXPLORERV">
-			<STRING>
-				<BULLET/>
+			<STRING><BULLET/>
             
 
 
 
-         Akweks are cheap and expendable; they are good for exploring the map and scouting enemy positions.
-
-
-
-
-      
-         </STRING>
+         Akweks are cheap and expendable; they are เหมาะสำรวจแผนที่และดูตำแหน่งศัตรู</STRING>
 		</ENTRY>
 		<ENTRY name="IRQCOMMANDO">
 			<STRING><BULLET/>

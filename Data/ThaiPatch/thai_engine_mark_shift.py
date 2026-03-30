@@ -84,6 +84,45 @@ def compensate_thai_runs_wordwise(text: str) -> str:
     return re.sub(r"[\u0e00-\u0e7f]+", repl, text)
 
 
+def strip_topmost_above_mark_if_double_thai_word(word: str) -> str:
+    """
+    ถ้าคำมีตัวในชุด COMPENSATE (สระ/วรรณยุกต์ด้านบน) ≥ 2 ตัว ให้ลบตัวหนึ่ง
+    โดยลบจากท้ายคำตัวแรกที่อยู่ในชุดนี้ (เทียบกับการทดสอบ: เพิ่ม→เพิม, นั้น→นัน)
+    เพื่อให้เอนจินเกมแสดงได้ดีขึ้นเมื่อซ้อนสองชั้นแล้วโชว์ไม่ครบ
+    """
+    if not word:
+        return word
+    ch = list(word)
+    count = sum(1 for c in ch if c in COMPENSATE)
+    if count < 2:
+        return word
+    for i in range(len(ch) - 1, -1, -1):
+        if ch[i] in COMPENSATE:
+            del ch[i]
+            return "".join(ch)
+    return word
+
+
+def strip_topmost_above_if_double_in_text(text: str) -> str:
+    """
+    ประมวลผลทุกช่วงไทยติดกัน: แบ่งคำด้วย word_tokenize แล้วใช้ strip_topmost_above_mark_if_double_thai_word ทีละคำ
+    (ใช้หลัง compensate_thai_runs_wordwise ใน pipeline อาคาร)
+    """
+    if word_tokenize is None or not text:
+        return text
+    if not re.search(r"[\u0e00-\u0e7f]", text):
+        return text
+
+    def process_run(run: str) -> str:
+        parts = word_tokenize(run, engine="newmm")
+        return "".join(strip_topmost_above_mark_if_double_thai_word(w) for w in parts)
+
+    def repl(m: re.Match[str]) -> str:
+        return process_run(m.group(0))
+
+    return re.sub(r"[\u0e00-\u0e7f]+", repl, text)
+
+
 # ข้อความเดิมที่ซ้ำในหลาย ENTRY (เมือง/หมู่บ้าน/มหานคร) — ชดเชยเท่าที่ทดสอบจาก tooltip City
 FOUR_BULLET_REPLACEMENTS: tuple[tuple[str, str], ...] = (
     ("ขยาย {National Borders} ของคุณ", "ขยาย {National Borders} ของุคณ"),

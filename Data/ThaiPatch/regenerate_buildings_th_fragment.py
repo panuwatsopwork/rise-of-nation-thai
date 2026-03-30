@@ -2,7 +2,8 @@
 สร้าง buildings_th_fragment.xml ใหม่จาก buildings_en_fragment.xml:
   1) แปลข้อความอังกฤษ → ไทยที่ถูกต้อง (รักษา {tag}, #ICON, $NUMBER, $STRING)
   2) รัน compensate_thai_runs_wordwise ทุกช่วง (หลักเดียวกับ City/Market) เพื่อให้เอนจินเกมแสดงสระ/วรรณยุกต์ตรงจุด
-  3) ข้อความที่จูนมือแล้วใน OVERRIDE_FINAL ใช้ตามนั้นโดยไม่รันซ้ำ (กันชดเชยสองชั้น)
+  3) รัน strip_topmost_above_if_double_in_text — คำที่มีสระ/วรรณยุกต์บนซ้อน ≥2 ตัว ให้ตัดตัวบนสุดออก 1 ตัว (เกมมักโชว์ไม่ครบ)
+  4) ข้อความใน OVERRIDE_FINAL เป็นข้อความชดเชยแล้ว ไม่รัน compensate ซ้ำ แต่ยังรัน strip ข้อ 3
 
 รัน: python regenerate_buildings_th_fragment.py
 """
@@ -14,7 +15,10 @@ import time
 from pathlib import Path
 
 from deep_translator import GoogleTranslator
-from thai_engine_mark_shift import compensate_thai_runs_wordwise
+from thai_engine_mark_shift import (
+    compensate_thai_runs_wordwise,
+    strip_topmost_above_if_double_in_text,
+)
 
 DIR = Path(__file__).resolve().parent
 EN_FRAG = DIR / "buildings_en_fragment.xml"
@@ -72,10 +76,11 @@ def protect_tokens(s: str) -> tuple[str, list[str]]:
 
 
 def apply_game_compensate(th: str) -> str:
-    """หลักเดียวกับ City/Market: ชดเชยบั๊กเรนเดอร์ไทยของเกม"""
+    """ชดเชยเอนจิน แล้วลดการซ้อนสองชั้นบนพยัญชนะ (ถ้ามี) เพื่อการแสดงผลในเกม"""
     if not th or not re.search(r"[\u0e00-\u0e7f]", th):
         return th
-    return compensate_thai_runs_wordwise(th)
+    th = compensate_thai_runs_wordwise(th)
+    return strip_topmost_above_if_double_in_text(th)
 
 
 def restore_tokens(s: str, tokens: list[str]) -> str:
@@ -98,7 +103,7 @@ def translate_en_to_th(text: str) -> str:
         return text
     nk = normalize_key(text)
     if nk in OVERRIDE_FINAL:
-        return OVERRIDE_FINAL[nk]
+        return strip_topmost_above_if_double_in_text(OVERRIDE_FINAL[nk])
     if nk in _translate_cache:
         return _translate_cache[nk]
     if nk in OVERRIDE_UNICODE:
