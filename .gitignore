@@ -1,0 +1,6 @@
+# สำรอง / ขยะ
+**/*.bak_regen
+**/help.xml.bak_*
+__pycache__/
+*.pyc
+*.pyo

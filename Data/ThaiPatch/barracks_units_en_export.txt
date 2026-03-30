@@ -1,0 +1,98 @@
+ADVMACHINEGUN	<BULLET/> {Machine Guns}, Information Age #ICON34 - moves slowly; devastating against enemy foot troops. <!--Advanced Machine Gun-->
+ANTITANKRIFLE	<BULLET/> {Heavy Infantry}, Industrial Age #ICON32 - slow with a powerful armor-piercing attack at short range. <!--Anti-Tank Rifles-->
+ANUSIYA	<BULLET/>Persian unique {Heavy Infantry}, Classical Age #ICON28 - powerful, slow, units. Slightly weaker than normal Phalanx, but can fire at range.<!--Anusiya-->
+APEDEMAK	<BULLET/> Nubian Unique {Foot Archers}, Gunpowder Age #ICON30 - medium-ranged foot infantry with little armor; highly effective against all enemy archers. <!--Apedemak Kushite Archers-->
+ARCHERS	<BULLET/> {Foot Archers}, Classical Age #ICON28 - medium-ranged foot infantry with little armor. <!--Archers-->
+ARQIMMORTAL	<BULLET/>Persian unique {Heavy Infantry}, Classical Age #ICON30 - powerful, slow, units. Slightly weaker than normal Elite Pikemen, but can fire at range.<!--Arquebus Immortal-->
+ARQUEBUSIERS	<BULLET/> {Gunpowder Infantry}, Gunpowder Age #ICON30 - powerful in quantity but somewhat slow-firing. <!--Arquebusiers-->
+ASHIGARU	<BULLET/> Japanese Unique {Heavy Infantry}, Ancient Age #ICON45 - powerful, slow melee units; stronger and tougher than normal Hoplites. <!--Ashigaru Spearmen-->
+ASSAULTINFANTRY	<BULLET/> {Modern Infantry}, Information Age #ICON34 - fast, powerful, rapid-firing foot troops. <!--Assault Infantry-->
+ASSAULTMARINES	<BULLET/>American Unique {Modern Infantry}, Information Age #ICON34 - fast, powerful, rapid-firing foot troops. Marine Transports are faster and tougher than normal, and Marine units automatically Entrench after 5 seconds of being idle.<!--Assault Marines-->
+ATHANATOI	<BULLET/>Persian unique {Heavy Infantry}, Classical Age #ICON29 - powerful, slow, units. Slightly weaker than normal Pikemen, but can fire at range.<!--Athanatoi-->
+ATLATL	<BULLET/> Aztec Unique {Light Infantry}, Ancient Age #ICON45 - fast, cheap, and short-ranged. Quicker and tougher than Slingers. <!--Atl-Atl-->
+ATLATLELITE	<BULLET/> Aztec Unique {Light Infantry}, Classical Age #ICON28 - fast, cheap, and short-ranged. Quicker and tougher than Javelineers. <!--Royal Atl-Atl-->
+BAMOBSLINGERS	<BULLET/> Maya Unique {Light Infantry}, Ancient Age #ICON45 - fast, cheap, and short-ranged. Extremely effective against enemy light infantry. <!--Balamob Slingers-->
+BAMOBSLINGERSELITE	<BULLET/> Maya Unique {Light Infantry}, Classical Age #ICON28 - fast, cheap, and short-ranged. Extremely effective against enemy light infantry. <!--Royal Balamob Slingers-->
+BARBARIAN	<BULLET/> German Unique {Heavy Infantry}, Classical Age #ICON28 - powerful, slow melee units; tougher and faster to build than normal Phalanx. <!--Barbarians-->
+BARBARIANLANDS	<BULLET/> German Unique {Heavy Infantry}, Gunpowder Age #ICON30 - powerful, slow melee units; tougher and faster to build than normal Elite Pikemen. <!--Landsknechts-->
+BARBARIANVANDALS	<BULLET/> German Unique {Heavy Infantry}, Medieval Age #ICON29 - powerful, slow melee units; tougher and faster to build than normal Pikemen. <!--Vandals-->
+BAZOOKA	<BULLET/> {Heavy Infantry}, Modern Age #ICON33 - slow with an extremely powerful armor-piercing attack at short range. <!--Bazookas-->
+BOWMEN	<BULLET/> {Foot Archers}, Ancient Age #ICON45 - medium-ranged foot infantry with little armor. <!--Bowmen-->
+BUSHI	<BULLET/> Japanese Unique {Heavy Infantry}, Classical Age #ICON28 - powerful, slow melee units; stronger and tougher than normal Phalanx. <!--Bushi-->
+BUSHIELITE	<BULLET/> Japanese Unique {Heavy Infantry}, Medieval Age #ICON29 - powerful, slow melee units; stronger and tougher than normal Pikemen. <!--Elite Bushi-->
+CHOSONHWARANG	<BULLET/> Korean Unique {Foot Archers}, Gunpowder Age #ICON30 - long-ranged foot infantry with little armor; stronger, tougher than all bow-armed units. <!--Elite Royal Hwarang-->
+COMMANDO	<BULLET/> {Scouts}, Industrial Age #ICON32 - a specialized Scout with many special abilities. <BULLET/> Use {Sniper} ability to destroy enemy units. <BULLET/> Use {Counterintelligence} to destroy enemy Spies and to remove Informers. <BULLET/> Can spot hidden enemy units, such as Spies and Commandos. <BULLET/> When Commando units aren't moving or attacking, they normally cannot be seen by most enemy units. <!--Commando-->
+CROSSBOWMEN	<BULLET/> {Foot Archers}, Medieval #ICON29 and Gunpowder Age #ICON30 - medium-ranged foot infantry with little armor. <!--Crossbowmen-->
+DRAGON	<BULLET/> Maya Unique {Heavy Infantry}, Information Age #ICON34 - particularly effective against all types of vehicles. <!--Dragon AT Missile-->
+EAGLEBALSLINGERS	<BULLET/> Maya Unique {Light Infantry}, Medieval Age #ICON29 - fast, cheap, and short-ranged. Extremely effective against enemy light infantry. <!--Eagle Balamob Slingers-->
+ELITEMOHAWK	<BULLET/> Iroquois Unique {Heavy Infantry}, Gunpowder Age #ICON30 - powerful, slow, units. Faster than normal Elite Pikemen while in friendly territory. <!--Elite Mohawk Spearmen-->
+ELITESPECIAL	<BULLET/> {Scouts}, Information Age #ICON34 - a specialized Scout with many special abilities. <BULLET/> Use {Sniper} ability to destroy enemy units. <BULLET/> Use {Sabotage} ability to damage enemy buildings. <BULLET/> Use {Counterintelligence} ability to destroy enemy Spies and to remove Informers. <BULLET/> Can spot hidden enemy units, such as Spies and Commandos. <BULLET/> All anti-aircraft emplacements are automatically jammed within range of Elite Special Forces. <BULLET/> When Elite Special Forces units aren't moving or attacking they can't normally be seen by most enemy units. <!--Elite Special Forces-->
+EXPLORER	<BULLET/> {Scouts}, Medieval Age #ICON29 - fast, but unarmed. <BULLET/> Use {Counterintelligence} to destroy enemy Spies and to remove Informers. <BULLET/> When Explorers aren't moving they can't normally be seen by most enemy units. <BULLET/> Can spot hidden enemy units, such as Spies and Commandos.
+FIRELANCEHEAVY	<BULLET/> Chinese Unique {Gunpowder Infantry}, Gunpowder Age #ICON30 - early gunpowder weapons with significant range; better range than ordinary Gunpowder Infantry. <!--Heavy Fire Lances-->
+FIRELANCES	<BULLET/> Chinese Unique {Gunpowder Infantry}, Medieval Age #ICON29 - earliest gunpowder unit; effective against Heavy Infantry. <!--Fire Lances-->
+FLAMETHROWER	<BULLET/> {Flamethrowers}, Industrial Age #ICON32. Slow-moving and short-ranged; highly effective against buildings and entrenchments. <!--Flamethrower--> <BULLET/> A building attacked by a Flamethrower immediately ejects any garrisoned units. <BULLET/> An entrenched unit attacked by a Flamethrower is forced out of its entrenchments.
+FUSILIER	<BULLET/> {Heavy Infantry}, Enlightenment Age #ICON31 - slow, powerful short-ranged gunpowder units useful for close-in defense. <!--Fusiliers-->
+GUNSAMURAI	<BULLET/> Japanese Unique {Heavy Infantry}, Enlightenment Age #ICON31 - slow, powerful short-ranged gunpowder units; stronger and tougher than normal Fusiliers. <!--Gun Samurai-->
+HEAVYARCHERS	<BULLET/> {Foot Archers}, Medieval #ICON29 and Gunpowder Age #ICON30 - medium-ranged foot infantry with little armor. <!--Heavy Archers.-->
+HEAVYMOHAWK	<BULLET/> Iroquois Unique {Heavy Infantry}, Medieval Age #ICON29 - powerful, slow, units. Faster than normal Pikemen while in friendly territory. <!--Heavy Mohawk Spearmen-->
+HIGHLANDER	<BULLET/> British Unique {Gunpowder Infantry}, Enlightenment Age #ICON31 - particularly effective against all forms of enemy infantry. <!--Highlanders-->
+HIGHLANDERELITE	<BULLET/> British Unique {Gunpowder Infantry}, Industrial Age #ICON32 - particularly effective against all forms of enemy infantry. <!--Black Watch-->
+HOPLITE	<BULLET/> {Heavy Infantry}, Ancient Age #ICON45 - powerful, slow melee units. <!--Hoplites-->
+HVYMACHINEGUN	<BULLET/> {Machine Guns}, Modern Age #ICON33 - moves slowly; devastating against enemy foot troops. <!--Heavy Machine Gun-->
+HVYMACHINEGUNGER	<BULLET/> German Unique {Machine Guns}, Modern Age #ICON33 - moves slowly; devastating against enemy foot troops. <!--MG42-->
+HWARANG	<BULLET/> Korean Unique {Foot Archers}, Ancient Age #ICON45 - medium-ranged foot infantry with little armor; stronger, tougher than normal Bowmen. <!--Hwarang-->
+HWARANGELITE	<BULLET/> Korean Unique {Foot Archers}, Classical Age #ICON28 - medium-ranged foot infantry with little armor; stronger, tougher than normal Archers. <!--Elite Hwarang-->
+IMMORTAL	<BULLET/>Persian unique {Heavy Infantry}, Ancient Age #ICON45 - powerful, slow units. Slightly weaker than normal Hoplites, but can fire at range.<!--Immortal-->
+IMPI	<BULLET/> Bantu Unique {Light Infantry}, Medieval Age #ICON29 - fast, cheap, and short-ranged. Slightly stronger than Elite Javelineers; faster to create. <!--Impi-->
+INFANTRY	<BULLET/> {Modern Infantry}, Modern Age #ICON33 - fast, powerful, rapid-firing, foot troops accurate even at long range. <!--Infantry-->
+INFANTRYGERMAN	<BULLET/> German Unique {Modern Infantry}, Modern Age #ICON33 - fast, powerful, rapid-firing foot troops; slightly tougher and faster than normal Infantry. <!--Volksgrenadiers-->
+INTICLUBMEN	<BULLET/> Inca Unique {Light Infantry}, Classical Age #ICON28 - fast, cheap melee troops effective against enemy mounted troops. <!--Inti Clubmen-->
+INTIMACEMEN	<BULLET/> Inca Unique {Light Infantry}, Medieval Age #ICON29 - fast, cheap melee troops effective against enemy mounted troops. <!--Inti Macemen-->
+IRQCOMMANDO	<BULLET/> Iroquois Unique {Scouts}, Enlightenment Age #ICON31 - a specialized Scout with many special abilities. Faster, tougher, better Line-of-Sight than normal Commandos. Available one age earlier. <BULLET/> Use {Sniper} ability to destroy enemy units. <BULLET/> Use {Counterintelligence} to destroy enemy Spies and to remove Informers. <BULLET/> Can spot hidden enemy units, such as Spies and Commandos. <BULLET/> When Okwari units aren't moving or attacking, they cannot normally be seen by most enemy units. <!--Ranger-->
+IRQEXPLORER	<BULLET/> Iroquois Unique {Scouts}, Medieval Age #ICON29 - fast, but unarmed. Faster, tougher, better Line-of-Sight than normal Explorers. <BULLET/> Use {Counterintelligence} to destroy enemy Spies and to remove Informers. <BULLET/> When Akweks aren't moving or attacking, they cannot normally be seen by most enemy units. <BULLET/> Can spot hidden enemy units, such as Spies and Commandos.
+IRQSCOUT	<BULLET/> Iroquois Unique {Scouts}, Ancient Age #ICON45 - fast, but unarmed; good for exploring the map and finding enemies. Faster, tougher, better Line-of-Sight than normal Scouts. <BULLET/> Can spot hidden enemy units, such as Spies and Commandos. <BULLET/> Can also destroy enemy Spies.
+JAGINFANTRY	<BULLET/> Aztec Unique {Modern Infantry}, Modern Age #ICON33 - faster and with a stronger attack than ordinary Modern Infantry. <!--Jaguar Infantry-->
+JAGUARASSAULTINF	<BULLET/> Aztec Unique {Modern Infantry}, Information Age #ICON34 - faster and with a stronger attack than ordinary Modern Infantry. <!--Jaguar Assault Infantry-->
+JANISSARY	<BULLET/> Turkish Unique {Gunpowder Infantry}, Gunpowder Age #ICON30 - stronger and faster than ordinary Gunpowder Infantry. <!--Janissaries-->
+JANISSARYROYAL	<BULLET/> Turkish Unique {Gunpowder Infantry}, Enlightenment Age #ICON31 - stronger and faster than ordinary Gunpowder Infantry. <!--Royal Janissaries-->
+JAVELINEERS	<BULLET/> {Light Infantry}, Classical Age #ICON28 - fast, cheap, and short-ranged. <!--Javelineers-->
+KINGSYEOMANRY	<BULLET/> British Unique {Foot Archers}, Gunpowder Age #ICON30 - long-ranged foot infantry with little armor; stronger and cheaper than Arquebusiers. <!--King's Yeomanry-->
+KORYOHWARANG	<BULLET/> Korean Unique {Foot Archers}, Medieval Age #ICON29 - medium-ranged foot infantry with little armor; stronger, tougher than normal Crossbowmen. <!--Royal Hwarang-->
+KUSHARCHERS	<BULLET/> Nubian Unique {Foot Archers}, Classical Age #ICON28 - medium-ranged foot infantry with little armor; highly effective against all enemy archers. <!--Kushite Archers-->
+KUSHARCHERSELITE	<BULLET/> Nubian Unique {Foot Archers}, Medieval Age #ICON29 - medium-ranged foot infantry with little armor; highly effective against all enemy archers. <!--Royal Kushite Archers-->
+LEGION	<BULLET/> Roman Unique {Heavy Infantry}, Classical Age #ICON28 - powerful, slow, melee units. Extremely effective against enemy Heavy Infantry. <!--Legions-->
+LEGIONELITE	<BULLET/> Roman Unique {Heavy Infantry}, Medieval Age #ICON29 - powerful, slow, melee units. Extremely effective against enemy Heavy Infantry. <!--Caesar's Legions-->
+LONGBOWMEN	<BULLET/> British Unique {Foot Archers}, Classical Age #ICON28 - medium-ranged foot infantry with little armor; superior in almost every way to normal Archers. <!--Longbowmen-->
+LONGBOWMENELITE	<BULLET/> British Unique {Foot Archers}, Medieval Age #ICON29 - medium-ranged foot infantry with little armor; superior in almost every way to normal Crossbows. <!--King's Longbowmen-->
+MACHINEGUN	<BULLET/> {Machine Guns}, Industrial Age #ICON32 - moves slowly; devastating against enemy foot troops. <!--Machine Gun-->
+MANCHUINFANTRY	<BULLET/> Chinese Unique {Modern Infantry}, Modern Age #ICON33 - rapid fire, small arms with excellent firepower; cheap and quick to create. <!--Manchu Infantry-->
+MANCHUMUSKETEERS	<BULLET/> Chinese Unique {Gunpowder Infantry}, Enlightenment Age #ICON31 - powerful in quantity but somewhat slow-firing; cheap and quick to create. <!--Manchu Musketeers-->
+MANCHURIFLEMEN	<BULLET/> Chinese Unique {Gunpowder Infantry}, Industrial Age #ICON32 - powerful and accurate foot troops; cheap and quick to create. <!--Manchu Riflemen-->
+MARINEINFANTRY	<BULLET/>American Unique {Modern Infantry}, Modern Age #ICON33 - fast, powerful, rapid-firing, foot troops accurate even at long range. Marine Transports are faster and tougher than normal, and Marine units automatically Entrench after 5 seconds of being idle.<!--Marine Infantry-->
+MARINERIFLEMEN	<BULLET/>American Unique {Gunpowder Infantry}, Industrial Age #ICON32 - powerful and accurate foot troops. Marine Transports are faster and tougher than normal, and Marine units automatically Entrench after 5 seconds of being idle.<!--Marine Riflemen-->
+MARINES	<BULLET/>American Unique {Gunpowder Infantry}, Enlightenment Age #ICON31 - powerful in quantity but somewhat slow-firing. Marine Transports are faster and tougher than normal, and Marine units automatically Entrench after 5 seconds of being idle.<!--Marines-->
+MOHAWK	<BULLET/> Iroquois Unique {Heavy Infantry}, Classical Age #ICON28 - powerful, slow, units. Faster than normal Phalanx while in friendly territory. <!--Mohawk Spearmen-->
+MUSKETEERS	<BULLET/> {Gunpowder Infantry}, Enlightenment Age #ICON31 - powerful in quantity but somewhat slow-firing. <!--Musketeers-->
+PELTASTS	<BULLET/> {Light Infantry}, Medieval Age #ICON29 - fast, cheap, and short-ranged. <!--Elite Javelineers-->
+PHALANX	<BULLET/> {Heavy Infantry}, Classical Age #ICON28 - powerful, slow, melee units. <!--Phalanx-->
+PIKELEGION	<BULLET/> Roman Unique {Heavy Infantry}, Gunpowder Age #ICON30 - powerful, slow, melee units. Extremely effective against enemy Heavy Infantry. <!--Praetorian Guards-->
+PIKEMEN	<BULLET/> {Heavy Infantry}, Medieval Age #ICON29 - powerful, slow, melee units. <!--Pikemen-->
+PIKEMENELITE	<BULLET/> {Heavy Infantry}, Gunpowder Age #ICON30 - powerful, slow, melee units. <!--Elite Pikemen-->
+RECOILGUN	<BULLET/> Maya Unique {Heavy Infantry}, Modern Age #ICON33 - particularly effective against all types of vehicles. <!--Recoilless Gun-->
+REDGUARD	<BULLET/> Russian Unique {Modern Infantry}, Modern Age #ICON33 - fast, powerful, rapid-firing foot troops; slightly cheaper than normal Infantry. <!--Red Guards Infantry-->
+RIFLEMEN	<BULLET/> {Gunpowder Infantry}, Industrial Age #ICON32 - powerful and accurate foot troops. <!--Riflemen-->
+SAMURAI	<BULLET/> Japanese Unique {Heavy Infantry}, Gunpowder Age #ICON30 - powerful, slow melee units; stronger and tougher than normal Elite Pikemen. <!--Samurai-->
+SCOUT	<BULLET/> {Scouts}, Ancient Age #ICON45 - fast, but unarmed; good for exploring the map and finding enemies. <BULLET/> Can spot hidden enemy units, such as Spies and Commandos. <BULLET/> Can also destroy enemy Spies.
+SCUTARI	<BULLET/> Spanish Unique {Heavy Infantry}, Classical Age #ICON28 - powerful, slow, melee units; extremely effective against mounted troops. <!--Scutari-->
+SCUTARIELITE	<BULLET/> Spanish Unique {Heavy Infantry}, Medieval Age #ICON29 - powerful, slow, melee units; extremely effective against mounted troops. <!--Royal Scutari-->
+SHOCKINFANTRY	<BULLET/> Russian Unique {Modern Infantry}, Information Age #ICON34 - fast, powerful, rapid-firing foot troops; cheaper and stronger than normal Assault Infantry. <!--Shock Infantry-->
+SLINGERS	<BULLET/> {Light Infantry}, Ancient Age #ICON45 - fast, cheap, and short-ranged. <!--Slingers-->
+SOLDURI	<BULLET/> German Unique {Heavy Infantry}, Ancient Age #ICON45 - powerful, slow melee units; tougher and faster to build than normal Hoplites. <!--Solduri-->
+SPEARMEN	<BULLET/> Iroquois Unique {Heavy Infantry}, Ancient Age #ICON45 - powerful, slow, units. Faster than normal Hoplites while in friendly territory. <!--Spearmen-->
+SPECIALFORCES	<BULLET/> {Scouts}, Modern Age #ICON33 - a specialized Scout with many special abilities. <BULLET/> Use {Sniper} ability to destroy enemy units. <BULLET/> Use {Sabotage} ability to damage enemy buildings. <BULLET/> Use {Counterintelligence} ability to destroy enemy Spies and to remove Informers. <BULLET/> Can spot hidden enemy units, such as Spies and Commandos. <BULLET/> All anti-aircraft emplacements are automatically jammed within range of Special Forces. <BULLET/> When Special Forces units aren't moving or attacking they can't normally be seen by most enemy units. <!--Special Forces-->
+SWORDSMEN	<BULLET/> Spanish Unique {Heavy Infantry}, Gunpowder Age #ICON30 - slow, powerful, short-ranged gunpowder units; extremely effective against mounted troops. <!--Tercios-->
+SWORDSMENELITE	<BULLET/> Spanish Unique {Heavy Infantry}, Enlightenment Age #ICON31 - slow, powerful, short-ranged gunpowder units; extremely effective against mounted troops. <!--Royal Tercios-->
+TOW	<BULLET/> {Heavy Infantry}, Information Age #ICON34 - slow with a powerful and accurate long-range armor-piercing attack. <!--Anti-Tank Missiles-->
+UMPAKATI	<BULLET/> Bantu Unique {Light Infantry}, Ancient Age #ICON45 - fast, cheap, and short-ranged. Slightly stronger than Slingers; faster to create. <!--Umpakati-->
+XOPILLIATLATL	<BULLET/> Aztec Unique {Light Infantry}, Medieval Age #ICON29 - fast, cheap, and short-ranged. Quicker and tougher than Elite Javelineers. <!--Xopilli Atl-Atl-->
+YANGOMBIUMPAKATI	<BULLET/> Bantu Unique {Light Infantry}, Classical Age #ICON28 - fast, cheap, and short-ranged. Slightly stronger than Javelineers; faster to create. <!--Yangombi Umpakati-->

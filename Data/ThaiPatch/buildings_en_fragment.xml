@@ -1,0 +1,1552 @@
+<BUILDINGS>
+		<ENTRY name="VILLAGE">
+			<STRING>
+				<BULLET/>
+
+
+
+         Extends your {National Borders}.
+
+
+
+
+         <BULLET/>
+
+
+
+         Allows you to construct economic buildings in the area.
+
+
+
+
+         <BULLET/>
+
+
+
+         Creates {Citizens} to build and gather.
+
+         <BULLET/>Provides an income of +$NUMBER1 #ICON2 and +$NUMBER0 #ICON1.         </STRING>
+		</ENTRY>
+		<ENTRY name="VILLAGEBUILD">
+			<STRING>
+				<BULLET/>
+
+
+
+         If the Build City button is greyed out, you need to do more #ICON25 {Civic} research at the Library.
+
+
+
+
+      </STRING>
+		</ENTRY>
+		<ENTRY name="CITY">
+			<STRING>
+				<BULLET/>
+
+
+
+         Stronger and less vulnerable than Small Cities.
+
+
+
+
+         <BULLET/>
+
+
+
+         Extends your {National Borders}.
+
+
+
+
+         <BULLET/>
+
+
+
+         Allows you to construct economic buildings in the area.
+
+
+
+
+         <BULLET/>
+
+
+
+         Creates {Citizens} to build and gather.
+
+
+         <BULLET/>Provides an income of +$NUMBER1 #ICON2 and +$NUMBER0 #ICON1.         <BULLET/>Adds hit points to all buildings in the City's economic radius.</STRING>
+		</ENTRY>
+		<ENTRY name="CITYBUILD">
+			<STRING>
+				<LINE/>
+
+
+
+Your Small City will automatically upgrade to a Large City when you have built at least five different kinds of buildings in it and reached the #ICON23 Classical Age.
+
+
+
+
+      </STRING>
+		</ENTRY>
+		<ENTRY name="METROPOLIS">
+			<STRING>
+				<BULLET/>
+
+
+
+         Stronger and less vulnerable than Large Cities.
+
+
+
+
+         <BULLET/>
+
+
+
+         Extends your {National Borders}.
+
+
+
+
+         <BULLET/>
+
+
+
+         Allows you to construct economic buildings in the area.
+
+
+
+
+         <BULLET/>
+
+
+
+         Creates {Citizens} to build and gather.
+
+
+         <BULLET/>Provides an income of +$NUMBER1 #ICON2 and +$NUMBER0 #ICON1.         <BULLET/>Adds hit points to all buildings in the City's economic radius.</STRING>
+		</ENTRY>
+		<ENTRY name="METROPOLISBUILD">
+			<STRING>
+				<LINE/>
+
+
+
+Your Large City will automatically upgrade to a Major City when you have built at least nine different kinds of buildings in it and reached the #ICON26 Enlightenment Age.
+
+
+
+      </STRING>
+		</ENTRY>
+		<ENTRY name="FARM">
+			<STRING>
+				<BULLET/>
+
+
+
+         One Citizen per Farm can gather #ICON1 {Food}.
+
+
+
+
+      </STRING>
+		</ENTRY>
+		<ENTRY name="FARMV">
+			<STRING>
+				<BULLET/>
+
+
+
+         There is a maximum of $NUMBER0 farms allowed per City.
+
+
+
+
+         <BULLET/>
+
+
+
+         #ICON1 Food output can be enhanced by building a {Granary} in the same City.
+
+
+
+
+      </STRING>
+		</ENTRY>
+		<ENTRY name="WOODCUTTER">
+			<STRING>
+				<BULLET/>
+
+
+
+         Build near {trees} to gather #ICON2 {Timber}.
+
+
+
+
+         <BULLET/>
+
+
+
+         The more Citizens working at a camp, the faster you accumulate #ICON2 Timber.
+
+
+
+
+      </STRING>
+		</ENTRY>
+		<ENTRY name="WOODCUTTERV">
+			<STRING>
+				<BULLET/>
+
+
+
+         The more trees nearby, the more Citizens can work at the camp.
+
+
+
+
+         <BULLET/>
+
+
+
+         #ICON2 Timber output can be enhanced by building {Lumber Mills} in your cities.
+
+
+
+
+      </STRING>
+		</ENTRY>
+		<ENTRY name="MINE">
+			<STRING>
+				<BULLET/>
+
+
+
+         Build Mines near {mountains} and {cliffs} to gather #ICON5 {Metal}.
+
+
+
+
+         <BULLET/>
+
+
+
+         The more Citizens working at a Mine, the faster you accumulate #ICON5 Metal.
+
+
+
+
+
+
+         <!--Mine-->
+			</STRING>
+		</ENTRY>
+		<ENTRY name="MINEV">
+			<STRING>
+				<BULLET/>
+
+
+
+The bigger the mountain or cliff, the more Citizens can work the Mine.
+
+
+
+
+         <BULLET/>
+
+
+
+         #ICON5 Metal output can be enhanced by building {Smelters} in your cities.
+
+
+
+
+      </STRING>
+		</ENTRY>
+		<ENTRY name="GRANARY">
+			<STRING>
+				<BULLET/>
+
+
+
+         Increases the #ICON1 {Food} output of all {Farms} in the same City by $NUMBER0%.
+
+
+
+
+      </STRING>
+		</ENTRY>
+		<ENTRY name="LUMBERMILL">
+			<STRING>
+				<BULLET/>
+
+
+
+         Increases the #ICON2 {Timber} output of all Woodcutter's Camps in the same City by $NUMBER0%.
+
+      </STRING>
+		</ENTRY>
+		<ENTRY name="SMELTER">
+			<STRING>
+				<BULLET/>
+
+
+
+         Increases the #ICON5 {Metal} output of all Mines in the same City by $NUMBER0%.
+
+         <!--Smelter-->
+			</STRING>
+		</ENTRY>
+		<ENTRY name="POWERPLANT">
+			<STRING>
+				<BULLET/>
+
+
+
+         Increases the #ICON6 {Oil} output of all Oil Wells in your nation by $NUMBER0%.
+
+
+
+
+      <BULLET/>
+
+
+
+         Additional Refineries within your nation have a cumulative "stacking" effect, so two Refineries would increase your #ICON6 Oil output by a net $NUMBER1%.
+
+
+
+
+      </STRING>
+		</ENTRY>
+		<ENTRY name="BARRACKS">
+			<STRING>
+				<BULLET/>
+
+
+
+         Creates foot soldiers to attack your enemies.
+
+
+
+
+
+         <!--Barracks-->
+			</STRING>
+		</ENTRY>
+		<ENTRY name="BARRACKSV">
+			<STRING>
+				<BULLET/>
+
+
+
+         Garrison foot soldiers inside to heal them.
+
+
+
+
+      </STRING>
+		</ENTRY>
+		<ENTRY name="STABLE">
+			<STRING>
+				<BULLET/>
+
+
+
+         Creates mounted soldiers to attack your enemies.
+
+
+
+
+
+         <!--Stable-->
+			</STRING>
+		</ENTRY>
+		<ENTRY name="STABLEV">
+			<STRING>
+				<BULLET/>
+
+
+
+         Garrison mounted units inside to heal them.
+
+
+
+
+      </STRING>
+		</ENTRY>
+		<ENTRY name="AUTOPLANT">
+			<STRING>
+				<BULLET/>
+
+
+
+         Creates Tanks, Armored Cars, and other vehicle units.
+
+
+
+
+
+
+         <!--Autoplant-->
+			</STRING>
+		</ENTRY>
+		<ENTRY name="AUTOPLANTV">
+			<STRING>
+				<BULLET/>
+
+
+
+         Garrison vehicles inside to repair them.
+
+
+
+
+      <BULLET/>Auto Plants replace Stables.
+</STRING>
+		</ENTRY>
+		<ENTRY name="SIEGEFACTORY">
+			<STRING>
+				<BULLET/>
+
+
+
+         Creates Siege units to attack enemy buildings.
+
+
+
+
+         <BULLET/>
+
+
+
+         Creates Supply Wagons to support your armies.
+
+
+
+
+      </STRING>
+		</ENTRY>
+		<ENTRY name="SIEGEFACTORYV">
+			<STRING>
+				<BULLET/>
+
+
+
+         Garrison Siege units inside to repair them.
+
+
+
+
+      </STRING>
+		</ENTRY>
+		<ENTRY name="FACTORY">
+			<STRING>
+				<BULLET/>
+
+
+
+         Creates Artillery units to attack enemy buildings and troops.
+
+
+
+
+         <BULLET/>
+
+
+
+         Creates Anti-Aircraft units to shoot down enemy aircraft.
+
+
+
+
+         <BULLET/>
+
+
+
+         Creates Supply Trucks to support your armies.
+
+
+
+
+
+
+         <!--Factory-->
+			</STRING>
+		</ENTRY>
+		<ENTRY name="FACTORYV">
+			<STRING>
+				<BULLET/>
+
+
+
+         Garrison Artillery units inside to repair them.
+
+
+
+
+         <BULLET/>
+
+
+
+         Factories replace Siege Factories.
+
+
+
+
+      </STRING>
+		</ENTRY>
+		<ENTRY name="DOCK">
+			<STRING>
+				<BULLET/>
+
+
+
+         Creates fishing ships and military naval ships.
+
+
+
+
+         <BULLET/>
+
+
+
+         Garrison ships here to repair and protect them.
+
+
+
+
+
+
+         <!--Dock-->
+			</STRING>
+		</ENTRY>
+		<ENTRY name="ANCHORAGE">
+			<STRING>
+				<BULLET/>
+
+
+
+         Creates fishing ships and military naval ships.
+
+
+
+
+         <BULLET/>
+
+
+
+         Garrison ships here to repair and protect them.
+
+
+
+
+
+
+         <!--Anchorage-->
+			</STRING>
+		</ENTRY>
+		<ENTRY name="SHIPYARD">
+			<STRING>
+				<BULLET/>
+
+
+
+         Creates fishing ships and military naval ships.
+
+
+
+
+         <BULLET/>
+
+
+
+         Garrison ships here to repair and protect them.
+
+
+
+
+
+
+         <!--;Shipyard-->
+			</STRING>
+		</ENTRY>
+		<ENTRY name="OILPLATFORM">
+			<STRING>
+				<BULLET/>
+
+
+
+         Gathers #ICON6 {Oil} from the sea.
+
+
+
+
+
+         <!--Oil Platform-->
+			</STRING>
+		</ENTRY>
+		<ENTRY name="OILWELL">
+			<STRING>
+				<BULLET/>
+
+
+
+         One Citizen per Oil Well can gather #ICON6 {Oil}.
+
+
+
+
+         <BULLET/>
+
+
+
+         Must be placed where #ICON6 Oil is visible on the map.
+
+
+
+
+         <BULLET/>
+
+
+
+         Can be placed either on {land} or {sea}.
+
+
+
+
+
+         <!--Oil Well-->
+			</STRING>
+		</ENTRY>
+		<ENTRY name="LIBRARY">
+			<STRING>
+				<BULLET/>
+
+
+
+         Conducts research including Age advances.
+
+
+
+
+         <!--Library-->
+			</STRING>
+		</ENTRY>
+		<ENTRY name="LIBRARYV">
+			<STRING>
+				<LINE/>
+
+
+
+         NOTE: If your nation has multiple libraries you will be able conduct multiple researches at the same
+time. This takes place automatically, even if you queue up all the research at a single one of
+your libraries.
+
+
+
+
+      </STRING>
+		</ENTRY>
+		<ENTRY name="UNIVERSITY">
+			<STRING>
+				<BULLET/>
+
+
+
+         Creates {Scholars} who gather #ICON4 {Knowledge}.
+
+
+
+
+         <BULLET/>
+
+
+
+         The more Scholars studying here, the faster you accumulate #ICON4 Knowledge.
+
+
+
+
+         <BULLET/>
+
+
+
+         #ICON4 Knowledge can then be spent on research at a Library.
+
+
+
+
+         <!--University-->
+			</STRING>
+		</ENTRY>
+		<ENTRY name="UNIVERSITYV">
+			<STRING>
+				<BULLET/>
+
+
+
+         Each University can support up to 7 Scholars.
+
+
+
+
+      </STRING>
+		</ENTRY>
+		<ENTRY name="MARKET">
+			<STRING>
+				<BULLET/>
+
+
+
+         Creates {Caravans} who collect #ICON3 {Wealth}.
+
+
+
+
+         <BULLET/>
+
+
+
+         Creates {Merchants} who can control {rare resources}.
+
+
+
+
+         <BULLET/>
+
+
+
+         Provides an income of +$NUMBER0 #ICON3 Wealth.
+
+
+
+
+
+
+         <!--Market-->
+			</STRING>
+		</ENTRY>
+		<ENTRY name="MARKETV">
+			<STRING>
+				<BULLET/>
+
+
+
+         Allows the {buying} and {selling} of common resources (with #ICON26 level 2 Commerce).
+
+
+
+
+      </STRING>
+		</ENTRY>
+		<ENTRY name="TEMPLE">
+			<STRING>
+				<BULLET/>
+
+
+
+         Expands the City's influence on {National Borders} by +$NUMBER0.
+
+
+
+
+         <BULLET/>
+
+
+         Increases the City's Hit Points by +$NUMBER1%.
+
+
+         <BULLET/>
+
+
+         Increases the City's Attack Range by +$NUMBER2.
+
+
+         <!--Temple-->
+			</STRING>
+		</ENTRY>
+		<ENTRY name="SENATE">
+			<STRING>
+				<BULLET/>If built at any other city besides your capital, changes that city to your new capital.<BULLET/>Senates allow you to research systems of government.<BULLET/>Select between totalitarian and democratic govermental systems to gain different benefits.<!--Senate-->
+			</STRING>
+		</ENTRY>
+		<ENTRY name="SENATEV">
+			<STRING>
+				<BULLET/>Also receive a unique General, the Patriot, with each form of government.<BULLET/>The Patriot returns to the Senate (after a delay) when killed. If your Senate is captured, the Patriot will return at a nearby city.<BULLET/>You may only have one Senate at a time; you must first raze the old one (this takes a long time!) before building a new one, which will move your Capital to the new city.<!--Senate-->
+			</STRING>
+		</ENTRY>
+		<ENTRY name="TOWER">
+			<STRING>
+				<BULLET/>
+
+
+
+         Small cheap fortification.
+
+
+
+
+         <BULLET/>
+
+
+
+         Automatically attacks enemies.
+
+
+
+
+         <BULLET/>
+
+
+
+         Can be garrisoned with friendly troops.
+
+
+
+
+      <BULLET/>
+
+
+
+         Units garrisoned inside will slowly heal.
+
+
+
+
+      </STRING>
+		</ENTRY>
+		<ENTRY name="KEEP">
+			<STRING>
+				<BULLET/>
+
+
+
+         Small, cheap fortification.
+
+
+
+
+         <BULLET/>
+
+
+
+         Automatically attacks enemies.
+
+
+
+
+         <BULLET/>
+
+
+
+         Can be garrisoned with friendly troops.
+
+
+
+
+         <BULLET/>
+
+
+
+         Units garrisoned inside will slowly heal.
+
+
+
+
+      <!--Keep-->
+			</STRING>
+		</ENTRY>
+		<ENTRY name="STOCKADE">
+			<STRING>
+				<BULLET/>
+
+
+
+         Small, cheap fortification.
+
+
+
+
+         <BULLET/>
+
+
+
+         Automatically attacks enemies.
+
+
+
+
+         <BULLET/>
+
+
+
+         Can be garrisoned with friendly troops.
+
+
+
+
+      <BULLET/>
+
+
+
+         Units garrisoned inside will slowly heal.
+
+
+
+
+      </STRING>
+		</ENTRY>
+		<ENTRY name="BUNKER">
+			<STRING>
+				<BULLET/>
+
+
+
+         Small, cheap fortification.
+
+
+
+
+         <BULLET/>
+
+
+
+         Automatically attack enemies.
+
+
+
+
+         <BULLET/>
+
+
+
+         Can be garrisoned with friendly troops.
+
+
+
+
+      <BULLET/>
+
+
+
+         Units garrisoned inside will slowly heal.
+
+
+
+
+      </STRING>
+		</ENTRY>
+		<ENTRY name="FORT">
+			<STRING>
+				<BULLET/>
+
+
+
+         Protects an area by attacking enemy units.
+
+
+
+
+         <BULLET/>
+
+
+
+         Influences {National Borders}.
+
+
+
+
+         <BULLET/>
+
+
+
+         Creates Spies and Generals.
+
+
+
+
+         <BULLET/>
+
+
+
+         Can be garrisoned with friendly troops.
+
+
+
+
+
+         <BULLET/>
+
+
+
+         Units garrisoned inside will slowly heal.
+
+
+
+
+      <!--Fort-->
+			</STRING>
+		</ENTRY>
+		<ENTRY name="CASTLE">
+			<STRING>
+				<BULLET/>
+
+
+
+         Protects an area by attacking enemy units.
+
+
+
+
+         <BULLET/>
+
+
+
+         Influences {National Borders}.
+
+
+
+
+         <BULLET/>
+
+
+
+         Creates Spies and Generals.
+
+
+
+
+         <BULLET/>
+
+
+
+         Can be garrisoned with friendly troops.
+
+
+
+
+      <BULLET/>
+
+
+
+         Units garrisoned inside will slowly heal.
+
+
+
+
+      </STRING>
+		</ENTRY>
+		<ENTRY name="FORTRESS">
+			<STRING>
+				<BULLET/>
+
+
+
+         Protects an area by attacking enemy units.
+
+
+
+
+         <BULLET/>
+
+
+
+         Influences {National Borders}.
+
+
+
+
+         <BULLET/>
+
+
+
+         Creates Spies and Generals.
+
+
+
+
+         <BULLET/>
+
+
+
+         Can be garrisoned with friendly troops.
+
+
+
+
+      <BULLET/>
+
+
+
+         Units garrisoned inside will slowly heal.
+
+
+
+
+      </STRING>
+		</ENTRY>
+		<ENTRY name="REDOUBT">
+			<STRING>
+				<BULLET/>
+
+
+
+         Protects an area by attacking enemy units.
+
+
+
+
+         <BULLET/>
+
+
+
+         Influences {National Borders}.
+
+
+
+
+         <BULLET/>
+
+
+
+         Creates Spies and Generals.
+
+
+
+
+         <BULLET/>
+
+
+
+         Can be garrisoned with friendly troops.
+
+
+
+
+      <BULLET/>
+
+
+
+         Units garrisoned inside will slowly heal.
+
+
+
+
+      </STRING>
+		</ENTRY>
+		<ENTRY name="AIRBASE">
+			<STRING>
+
+
+
+
+
+
+Creates aircraft from Biplanes and Fighters to Attack Helicopters and Strategic Bombers.
+
+
+
+
+
+
+         <!--Airbase-->
+			</STRING>
+		</ENTRY>
+		<ENTRY name="AIRBASEV">
+			<STRING>
+Aircraft can return here to be repaired and refueled.
+</STRING>
+		</ENTRY>
+		<ENTRY name="LOOKOUT">
+			<STRING>
+				<BULLET/>
+
+
+
+         Defenseless but can see a long way.
+
+
+
+
+         <BULLET/>
+
+
+
+         Detects hidden enemy units nearby.
+
+
+
+
+
+
+         <BULLET/>
+
+
+
+         Limited ability to shoot arrows at enemy aircraft passing nearby.
+
+
+
+
+
+
+         <!--Lookout-->
+			</STRING>
+		</ENTRY>
+		<ENTRY name="OBSERVATIONPOST">
+			<STRING>
+				<BULLET/>
+
+
+
+         Defenseless, but can see a long way.
+
+
+
+
+         <BULLET/>
+
+
+
+         Detects hidden enemy units nearby.
+
+
+
+
+         <BULLET/>
+
+
+
+         Limited ability to shoot arrows at enemy aircraft passing nearby.
+
+
+
+
+
+
+         <!--Observation Post-->
+			</STRING>
+		</ENTRY>
+		<ENTRY name="AIRDEFENSEGUN">
+			<STRING>
+				<BULLET/>
+
+
+
+         Fires at enemy aircraft.
+
+
+
+
+         <BULLET/>
+
+
+
+         Detects hidden enemy units nearby.
+
+
+
+
+      </STRING>
+		</ENTRY>
+		<ENTRY name="RADARAIRDEFENSE">
+			<STRING>
+				<BULLET/>
+
+
+
+         Fires at enemy aircraft.
+
+
+
+
+         <BULLET/>
+
+
+
+         Detects hidden enemy units nearby.
+
+
+
+
+
+         <!--Radar Installation-->
+			</STRING>
+		</ENTRY>
+		<ENTRY name="SAMINSTALLATION">
+			<STRING>
+				<BULLET/>
+
+
+
+         Fires at enemy aircraft.
+
+
+
+
+         <BULLET/>
+
+
+
+         Detects hidden enemy units nearby.
+
+
+
+
+
+
+         <!--SAM Installation-->
+			</STRING>
+		</ENTRY>
+		<ENTRY name="NUCLEARSILO">
+			<STRING>
+				<BULLET/>
+
+
+
+         Creates and launches missile units.
+
+
+
+
+         <BULLET/>
+
+
+
+         Researches new types of missiles, including Nuclear Missiles and ICBM's.
+
+
+
+
+         <BULLET/>
+
+
+
+         Can only hold one missile at a time.
+
+
+
+
+
+         <!--Missile silo-->
+			</STRING>
+		</ENTRY>
+		<ENTRY name="PYRAMIDS">
+			<STRING>
+				<BULLET/>
+         Wonder of the World: $STRING0 wonder point(s).
+         <BULLET/>
+         Increases your #ICON21 Commerce Limit for Food and Wealth by $NUMBER1.
+         <BULLET/>
+         Increases your #ICON22 City Limit by $NUMBER2. Cities are 33% cheaper.
+         <BULLET/>
+         Improves your #ICON1 Food gather rate by $NUMBER3%.
+      </STRING>
+		</ENTRY>
+		<ENTRY name="COLOSSUS">
+			<STRING>
+				<BULLET/>
+         Wonder of the World: $STRING0 wonder point(s).
+         <BULLET/>
+         Increases your #ICON3 Wealth rate by $NUMBER1%.
+         <BULLET/>
+         Increases your #ICON20 Population Limit by $NUMBER2.
+         <BULLET/>
+         Increases your #ICON21 Commerce Limit for Wealth and Timber by $NUMBER4.
+         </STRING>
+		</ENTRY>
+		<ENTRY name="HANGINGGARDENS">
+			<STRING>
+				<BULLET/>
+         Wonder of the World: $STRING0 wonder point(s).
+         <BULLET/>
+         Increases your Knowledge production by $NUMBER1.
+         <BULLET/>
+         Granary, Lumber Mill, and Smelter production upgrades are discounted by 66%.
+         </STRING>
+		</ENTRY>
+		<ENTRY name="TERRACOTTAARMY">
+			<STRING>
+				<BULLET/>
+         Wonder of the World: $STRING0 wonder point(s).
+         <BULLET/>
+         Creates a free foot unit every $NUMBER2 seconds (plus $STRING3 second(s) for every infantry unit you control).
+      </STRING>
+		</ENTRY>
+		<ENTRY name="TERRACOTTAARMYCTW">
+			<STRING>
+				<BULLET/>
+         Wonder of the World: $STRING0 wonder point(s).
+         <BULLET/>Gives you an extra reinforcement army in every Conquest battle.
+      <BULLET/>If present in a battle, creates a free foot unit every $NUMBER2 seconds (plus $NUMBER3 second(s) for every infantry unit you control).
+      </STRING>
+		</ENTRY>
+		<ENTRY name="COLOSSEUM">
+			<STRING>
+				<BULLET/>
+         Wonder of the World: $STRING0 wonder point(s).
+         <BULLET/>
+         Increases your National Borders by $NUMBER1.
+         <BULLET/>
+         Attrition to enemy units in your territory increased by $NUMBER2%.
+         <BULLET/>
+         Forts and Towers are $NUMBER5% cheaper.
+         </STRING>
+		</ENTRY>
+		<ENTRY name="FORBIDDENCITY">
+			<STRING>
+				<BULLET/>
+         Wonder of the World: $STRING0 wonder point(s).
+         <BULLET/>Counts as a bonus Major City in your nation. Can be built wherever a City can and its build location is not revealed to the enemy until it is completed.
+         <BULLET/>
+        Gives +50 #ICON1 Food and #ICON2 Timber instead of the usual +10/+10.
+         <BULLET/>
+         Capital timers do not affect you.
+         </STRING>
+		</ENTRY>
+		<ENTRY name="FORBIDDENCITYCTW">
+			<STRING>
+				<BULLET/>
+         Wonder of the World: $STRING0 wonder point(s).
+         <BULLET/>When present in a Conquer the World battle, capital timers and sudden death elimination do not affect you.
+         <BULLET/>When held in your empire but not present in the current battle, doubles your own capital timer and halves enemy capital timers.</STRING>
+		</ENTRY>
+		<ENTRY name="TIKAL">
+			<STRING>
+				<BULLET/>
+         Wonder of the World: $STRING0 wonder point(s).
+         <BULLET/>
+         Increases your #ICON2 Timber gather rate by $NUMBER1%.
+         <BULLET/>
+         Raises your #ICON21 Commerce Cap for #ICON2 Timber by $NUMBER3.
+         <BULLET/>
+         Increases Temple effects (on National Borders, Hit Points, and Attack Range) by $NUMBER4%.
+      </STRING>
+		</ENTRY>
+		<ENTRY name="PORCELAIN">
+			<STRING>
+				<BULLET/>
+         Wonder of the World: $STRING0 wonder point(s).
+         <BULLET/>
+         You create ships $NUMBER1% faster.
+         <BULLET/>
+         Increases your income from rare resources (in your territory) and Markets by $NUMBER2%
+         <BULLET/>
+         You receive the bonus ability of all rare resources in your territory, even if you don't have a Merchant there.
+      </STRING>
+		</ENTRY>
+		<ENTRY name="REDFORT">
+			<STRING>
+				<BULLET/>
+         Wonder of the World: $STRING0 wonder point(s).
+         <BULLET/>
+        Massive Fort with long range, many hit points, extra garrison value, increased border push, and resistance to air attack.<BULLET/>
+        Can be built wherever a Fort can; does not count against a city's Wonder limit. Its build location is not revealed to the enemy until it is completed.      
+         <BULLET/>
+         Receive Fort upgrades for free and all Forts gain 33% more hit points.<BULLET/>
+        Units garrisoned in any Fort heal at +$NUMBER1% the normal rate.
+         </STRING>
+		</ENTRY>
+		<ENTRY name="REDFORTCTW">
+			<STRING>
+				<BULLET/>
+         Wonder of the World: $STRING0 wonder point(s).
+         <BULLET/>Massive Fort with long range and many hit points.<BULLET/>Has extra garrison value, increased border push, and resistance to air attack.<BULLET/>
+        Can be built wherever a Fort can; does not count against a city's Wonder limit. Its build location is not revealed to the enemy until it is completed.      
+         <BULLET/>
+         Receive Fort upgrades for free and all Forts gain 33% more hit points.<BULLET/>
+        Units garrisoned in any Fort heal at +$NUMBER1% the normal rate.
+         </STRING>
+		</ENTRY>
+		<ENTRY name="ANGKORWAT">
+			<STRING>
+				<BULLET/>
+         Wonder of the World: $STRING0 wonder point(s).
+         <BULLET/>
+         Increases your #ICON5 Metal gather rate by $NUMBER2%.
+      <BULLET/>
+         Raises your #ICON21 Commerce Limit for #ICON5 Metal by $NUMBER4.
+      <BULLET/>
+         Cost of Barracks, Stable, and Dock units reduced by $NUMBER3%.
+      </STRING>
+		</ENTRY>
+		<ENTRY name="VERSAILLES">
+			<STRING>
+				<BULLET/>
+         Wonder of the World: $STRING0 wonder point(s).
+         <BULLET/>
+         Reduces the non-Knowledge costs of Library research by $NUMBER1%.
+         <BULLET/>
+         Your Supply Wagons can heal your troops (and French Supply Wagons heal at double normal rate).
+         <BULLET/>
+         Siege, Artillery, and Supply units move $NUMBER4% faster.
+         </STRING>
+		</ENTRY>
+		<ENTRY name="TAJMAHAL">
+			<STRING>
+				<BULLET/>
+         Wonder of the World: $STRING0 wonder point(s).
+         <BULLET/>
+         Increases all your building hit points by $NUMBER1%.
+         <BULLET/>
+         Your #ICON3 Wealth income increased by $NUMBER2%.
+      <BULLET/>
+         Raises your #ICON21 Commerce Limit for #ICON3 Wealth by $NUMBER3.
+      </STRING>
+		</ENTRY>
+		<ENTRY name="KREMLIN">
+			<STRING>
+				<BULLET/>
+         Wonder of the World: $STRING0 wonder point(s).
+         <BULLET/>
+         Raises your #ICON21 Commerce Limit for #ICON1 Food, #ICON2 Timber, #ICON5 Metal, and #ICON6 Oil by $NUMBER1.
+         <BULLET/>Increases the attrition damage inflicted on unsupplied enemy units in your territory by $NUMBER2%.
+      <BULLET/>Spies are created instantly. Gain the use of an extra Spy unit which does not count against your Population Limit and is rebuilt for free whenever it is killed.
+      </STRING>
+		</ENTRY>
+		<ENTRY name="STATUEOFLIBERTY">
+			<STRING>
+				<BULLET/>
+         Wonder of the World: $STRING0 wonder point(s).
+         <BULLET/>You receive all ground unit and Airbase upgrades for free.<BULLET/>Reduces attrition damage inflicted on your units in enemy territory by $NUMBER2%.
+         <BULLET/>Reduces the cost of Bombers and air defense buildings by $NUMBER3%.
+      </STRING>
+		</ENTRY>
+		<ENTRY name="EIFFELTOWER">
+			<STRING>
+				<BULLET/>
+         Wonder of the World: $STRING0 wonder point(s).
+         <BULLET/>
+         Increases your #ICON6 Oil income by $NUMBER1%.
+         <BULLET/>
+         Raises your #ICON21 Commerce Limit for #ICON6 Oil by $NUMBER3.
+         <BULLET/>
+         Increases your National Borders by $NUMBER2.
+      </STRING>
+		</ENTRY>
+		<ENTRY name="SUPERCOLLIDER">
+			<STRING>
+				<BULLET/>
+         Wonder of the World: $STRING0 wonder point(s).
+         <BULLET/>
+         The cost to buy goods at the Market is never higher than $NUMBER1 #ICON3 Wealth; the price to sell is never lower than $NUMBER2 #ICON3 Wealth.
+         <BULLET/>Technologies can be researched instantaneously (but not unit technologies).
+      </STRING>
+		</ENTRY>
+		<ENTRY name="SPACEPROGRAM">
+			<STRING>
+				<BULLET/>
+         Wonder of the World: $STRING0 wonder point(s).
+         <BULLET/>
+        You can see the location of all units, buildings, and terrain on the map.
+         <BULLET/>
+       You create aircraft and missiles $NUMBER3% faster and $NUMBER4% cheaper.
+      <BULLET/>You are immune to the effects of a Nuclear Embargo.
+      </STRING>
+		</ENTRY>
+	</BUILDINGS>
